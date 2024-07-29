@@ -2,7 +2,7 @@
 # Resetting to default settings before applying custom theme
 base = "light"
 primaryColor = "#000000"
-backgroundColor = "#fffdeb"
+backgroundColor = "#ffffff"
 secondaryBackgroundColor = "#F0F0F0"
 textColor = "#000000"
 font = "sans serif"

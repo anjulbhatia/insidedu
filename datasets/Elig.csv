@@ -1,0 +1,110 @@
+Course,Language,Domain1,Domain2,Domain3,GeneralTest,CourseCode
+B.A. (Hons.) Arabic,Any,Any,Any,Any,No,BAAr
+B.A. (Hons.) Bengali,Any,Any,Any,Any,No,BABg
+B.A. (Hons.) English,English,Any,Any,Any,No,BAEn
+B.A. (Hons.) French,Any,Any,Any,Any,No,BAFr
+B.A. (Hons.) German,Any,Any,Any,Any,No,BAGe
+B.A. (Hons.) Hindi,Hindi,Any,Any,Any,No,BAHi
+B.A. (Hons.) Italian,Any,Any,Any,Any,No,BAIt
+B.A. (Hons.) Persian,Any,Any,Any,Any,No,BAPe
+B.A. (Hons.) Punjabi,Any,Any,Any,Any,No,BAPu
+B.A. (Hons.) Russian,Any,Any,Any,Any,No,BARu
+B.A. (Hons.) Sanskrit,Any,Sanskrit,Any,Any,No,BASa
+B.A. (Hons.) Sanskrit,Sanskrit,Any,Any,Any,No,BASa
+B.A. (Hons.) Sanskrit,Any,Any,Any,Any,No,BASa
+B.A. (Hons.) Spanish,Any,Any,Any,Any,No,BASp
+B.A. (Hons.) Urdu,Any,Any,Any,Any,No,BAUr
+B.A. (Hons.) Applied Psychology,Any,Any,Any,Any,No,BAAPsy
+B.A. (Hons.) Psychology,Any,Any,Any,Any,No,BAPsy
+B.A. (Hons.) Economics,Any,Mathematics/Applied Mathematics,Any,Any,No,BAEcon
+B.A. (Hons.) Geography,Any,Any,Any,Any,No,BAGeo
+B.A. (Hons.) Hindi Patrakarita,Hindi,Any,Any,Any,No,BAHP
+B.A. (Hons.) Hindi Patrakarita,Hindi,No,No,No,Yes,BAHP
+B.A. (Hons.) History,Any,Any,Any,Any,No,BAHist
+B.A. (Hons.) Humanities & Social Sciences,Any,Any,Any,Any,No,BAHSS
+B.A. (Hons.) Journalism,English,Any,Any,Any,No,BAJo
+B.A. (Hons.) Journalism,English,No,No,No,Yes,BAJo
+Five Year Integrated Program in Journalism,English,No,No,No,Yes,5YIPJ
+Five Year Integrated Program in Journalism,Hindi,No,No,No,Yes,5YIPJ
+B.A. (Hons.) Multimedia & Mass Communication,Any,Any,No,No,Yes,BAMM
+B.A. (Hons.) Philosophy,Any,Any,Any,Any,No,BAPhil
+B.A. (Hons.) Political Science,Any,Any,Any,Any,No,BAPS
+B.A. (Hons.) Social Work,Any,Any,Any,Any,No,BASW
+B.A. (Hons.) Sociology,Any,Any,Any,Any,No,BASo
+B.A. Program,Any,Any,Any,Any,No,BAP
+B.A. Program,Any,Any,No,No,Yes,BAP
+B.Sc. (Hons.) Anthropology,Any,Physics,Chemistry,Biology/Biological Studies/Biotechnology/Biochemistry,No,BScAnt
+B.Sc. (Hons.) Biological Sciences,Any,Physics,Chemistry,Biology/Biological Studies/Biotechnology/Biochemistry,No,BScBioSc
+B.Sc. (Hons.) Biomedical Sciences,Any,Physics,Chemistry,Biology/Biological Studies/Biotechnology/Biochemistry,No,BScBioMed
+B.Sc. (Hons.) Biochemistry,Any,Physics,Chemistry,Biology/Biological Studies/Biotechnology/Biochemistry,No,BScBioChem
+B.Sc. (Hons.) Biochemistry,Any,Mathematics/Applied Mathematics,Chemistry,Biology/Biological Studies/Biotechnology/Biochemistry,No,BScBioChem
+B.Sc. (Hons.) Botany,Any,Physics,Chemistry,Biology/Biological Studies/Biotechnology/Biochemistry,No,BScBot
+B.Sc. (Hons.) Chemistry,Any,Physics,Chemistry,Mathematics/Applied Mathematics,No,BScChem
+B.Sc. (Hons.) Computer Science,Any,Mathematics/Applied Mathematics,Any,Any,No,BScCS
+B.Sc. (Hons.) Electronics,Any,Physics,Mathematics/Applied Mathematics,Chemistry,No,BScElec
+B.Sc. (Hons.) Electronics,Any,Physics,Mathematics/Applied Mathematics,Computer Science/Informatics Practices,No,BScElec
+B.Sc. (Hons.) Environmental Science,Any,Physics,Chemistry,Biology/Biological Studies/Biotechnology/Biochemistry,No,BScEnv
+B.Sc. (Hons.) Environmental Science,Any,Physics,Chemistry,Mathematics/Applied Mathematics,No,BScEnv
+B.Sc. (Hons.) Food Technology,Any,Physics,Chemistry,Biology/Biological Studies/Biotechnology/Biochemistry,No,BScFood
+B.Sc. (Hons.) Food Technology,Any,Physics,Chemistry,Mathematics/Applied Mathematics,No,BScFood
+B.Sc. (Hons.) Geology,Any,Physics,Chemistry,Mathematics/Applied Mathematics,No,BScGeo
+B.Sc. (Hons.) Geology,Any,Physics,Chemistry,Geography/ Geology,No,BScGeo
+B.Sc. (Hons.) Geology,Any,Physics,Chemistry,Biology/Biological Studies/Biotechnology/Biochemistry,No,BScGeo
+B.Sc. (Hons.) Home Science,Any,Biology/Biological Studies/Biotechnology/Biochemistry,Physics,Any,No,BScHome
+B.Sc. (Hons.) Home Science,Any,Biology/Biological Studies/Biotechnology/Biochemistry,Chemistry,Any,No,BScHome
+B.Sc. (Hons.) Instrumentation,Any,Physics,Mathematics/Applied Mathematics,Chemistry,No,BScInst
+B.Sc. (Hons.) Instrumentation,Any,Physics,Mathematics/Applied Mathematics,Computer Science/Informatics Practices,No,BScInst
+B.Sc. (Hons.) Mathematics,Any,Mathematics/Applied Mathematics,Any,Any,No,BScMath
+B.Sc. (Hons.) Microbiology,Any,Physics,Chemistry,Biology/Biological Studies/Biotechnology/Biochemistry,No,BScMicro
+B.Sc. (Hons.) Physics,Any,Physics,Chemistry,Mathematics/Applied Mathematics,No,BScPhy
+B.Sc. (Hons.) Polymer Science,Any,Physics,Chemistry,Mathematics/Applied Mathematics,No,BScPoly
+B.Sc. (Hons.) Statistics,Any,Mathematics/Applied Mathematics,Any,Any,No,BScStat
+B.Sc. (Hons.) Zoology,Any,Physics,Chemistry,Biology/Biological Studies/Biotechnology/Biochemistry,No,BScZoo
+B.Tech. Information Technology and Mathematical Innovation (IT & MI),Any,Mathematics/Applied Mathematics,No,No,Yes,ITMI
+B.Sc. (Prog.) Applied Life Sciences,Any,Physics,Chemistry,Biology/Biological Studies/Biotechnology/Biochemistry,No,BScProgAppLS
+B.Sc. (Prog.) Applied Physics with Applied Chemistry,Any,Physics,Chemistry,Mathematics/Applied Mathematics,No,BScProgAPSAC
+B.Sc. (Prog.) Applied Physics with Industrial Chemistry,Any,Physics,Chemistry,Mathematics/Applied Mathematics,No,BScProgAPSI
+B.Sc. (Pass) Home Science,Any,Any,Any,Any,No,BScPHome
+B.Sc. (Pass) Home Science,Any,Any,No,No,Yes,BScPHome
+B.Sc. (Prog.) Life Science,Any,Physics,Chemistry,Biology/Biological Studies/Biotechnology/Biochemistry,No,BScProgLS
+B.Sc. (Prog.) Mathematical Science,Any,Mathematics/Applied Mathematics,Any,Any,No,BScProgMS
+"B.Sc. In Physical Education, Health Education & Sports",Any,Physical Education/National Cadet Corps(NCC)/ Yoga,Any,Any,No,BScPEHS
+"B.Sc. In Physical Education, Health Education & Sports",Any,Any,Any,Any,No,BScPEHS
+B.Sc. (Prog.) Physical Science with Chemistry,Any,Physics,Chemistry,Mathematics/Applied Mathematics,No,BScPSwChem
+B.Sc. (Prog.) Physical Science with Electronics,Any,Physics,Mathematics/Applied Mathematics,Chemistry,No,BScPSwElec
+B.Sc. (Prog.) Physical Science with Electronics,Any,Physics,Mathematics/Applied Mathematics,Computer Science/Informatics Practices,No,BScPSwElec
+B.Sc. (Prog.) Physical Science with Computer Science/Informatics Practices,Any,Physics,Mathematics/Applied Mathematics,Chemistry,No,BScPSwCSIP
+B.Sc. (Prog.) Physical Science with Computer Science/Informatics Practices,Any,Physics,Mathematics/Applied Mathematics,Computer Science/Informatics Practices,No,BScPSwCSIP
+B.Com. (Hons.),Any,Mathematics/Applied Mathematics,Any,Any,No,BcomH
+B.Com. (Hons.),Any,Accountancy/Book Keeping,Any,Any,No,BcomH
+B.Com.,Any,Any,Any,Any,No,Bcom
+B.Com.,Any,Any,No,No,Yes,Bcom
+BBA FIA (Financial Investment Analysis),Any,Mathematics/Applied Mathematics,No,No,Yes,BBAFIA
+B.A. (Hons.) Business Economics,Any,Mathematics/Applied Mathematics,No,No,Yes,BABE
+Bachelor of Management Studies (BMS),Any,Mathematics/Applied Mathematics,No,No,Yes,BMS
+B.Voc. Banking Operations,Any,Any,Any,Any,No,BVocBankOps
+B.Voc. Banking Operations,Any,Any,No,No,Yes,BVocBankOps
+B.Voc. Health Care Management,Any,Any,Any,Any,No,BVocHCM
+B.Voc. Health Care Management,Any,Any,No,No,Yes,BVocHCM
+B.Voc. Retail Management & IT,Any,Any,Any,Any,No,BVocRetailIT
+B.Voc. Retail Management & IT,Any,Any,No,No,Yes,BVocRetailIT
+B.Voc. Software Development,Any,Mathematics/Applied Mathematics,Any,Any,No,BVocSWD
+B.Voc. Software Development,Any,Mathematics/Applied Mathematics,No,No,Yes,BVocSWD
+B.A.(Vocational Studies) Human Resource Management,Any,Any,Any,Any,No,BAVoc
+B.A.(Vocational Studies) Managementand Marketing of Insurance,Any,Any,Any,Any,No,BAVoc
+B.A.(Vocational Studies) Marketing Managementand Retail Business,Any,Any,Any,Any,No,BAVoc
+B.A.(Vocational Studies) Material Management,Any,Any,Any,Any,No,BAVoc
+B.A.(Vocational Studies)Office Managementand Secretarial Practice,Any,Any,Any,Any,No,BAVoc
+B.A.(Vocational Studies)Small and Medium Enterprises,Any,Any,Any,Any,No,BAVoc
+B.A.(Vocational Studies) Tourism Management,Any,Any,Any,Any,No,BAVoc
+B.A.(Vocational Studies) Human Resource Management,Any,Any,No,No,Yes,BAVoc
+B.A.(Vocational Studies) Managementand Marketing of Insurance,Any,Any,No,No,Yes,BAVoc
+B.A.(Vocational Studies) Marketing Managementand Retail Business,Any,Any,No,No,Yes,BAVoc
+B.A.(Vocational Studies) Material Management,Any,Any,No,No,Yes,BAVoc
+B.A.(Vocational Studies)Office Managementand Secretarial Practice,Any,Any,No,No,Yes,BAVoc
+B.A.(Vocational Studies)Small and Medium Enterprises,Any,Any,No,No,Yes,BAVoc
+B.A.(Vocational Studies) Tourism Management,Any,Any,No,No,Yes,BAVoc
+B.A. (Hons.) - Hindustani Music: Vocal/Instrumental (Star/Sarod/Guitar/Violin/Santoor),Any,Any,Any,Any,No,BAH-V
+B.A. (Hons.) - Hindustani Music: Percussion (Tabla/Pakhawaj),Any,Any,Any,Any,No,BAH-P
+B.A. (Hons.) - Karnataka Music: Vocal / Instrumental (Veena/Violin),Any,Any,Any,Any,No,BAH-KM
+Bachelor of Elementary Education (B. El. Ed),Any,Any,Any,Any,No,BElEd
