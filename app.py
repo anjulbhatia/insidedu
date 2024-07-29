@@ -60,7 +60,7 @@ st.markdown("""
             border-radius: 5px;
             padding: 20px;
             margin: 10px;
-            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
+            box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.1);
         }
         .card h4 {
             margin-bottom: 10px;
@@ -186,7 +186,7 @@ with tabs[2]:
         <div class="card">
             <h4>Eligible Courses and Colleges</h4>
             <p>Find out which courses and colleges you are eligible for.</p>
-            <a href="/eligible_courses_colleges" target="_self"><button class="button">Go to Eligible Courses and Colleges</button></a>
+            <a href="/Eligible_Courses_Colleges" target="_self"><button class="button">Go to Eligible Courses and Colleges</button></a>
         </div>
         """, unsafe_allow_html=True)
     
