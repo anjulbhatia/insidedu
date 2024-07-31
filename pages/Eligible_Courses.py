@@ -3,13 +3,13 @@ import pandas as pd
 import datasets.cuet_data as cuet_data
 
 # Load the eligibility data
-df = pd.read_csv("datasets/Elig.csv")
+df = pd.read_csv("datasets/Eligibility.csv")
 
 st.title("Eligible Course Analyser")
 
 # Add custom CSS to hide the GitHub icon
 hide_github_icon = """
-stActionButton {
+.stActionButton {
   visibility: hidden;
 }
 """
