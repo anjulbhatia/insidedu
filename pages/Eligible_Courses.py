@@ -9,9 +9,11 @@ st.title("Eligible Course Analyser")
 
 # Add custom CSS to hide the GitHub icon
 hide_github_icon = """
+<style>
 .stActionButton {
   visibility: hidden;
 }
+</style>
 """
 st.markdown(hide_github_icon, unsafe_allow_html=True)
 
@@ -33,7 +35,14 @@ with col2:
     domain4 = st.selectbox("Select Domain 4", [""] + cuet_data.du_B1 + cuet_data.du_B2)
     general_test = st.selectbox("Select General Test", [""] + cuet_data.du_GT)
 
-st.write(language, domain1, domain2, domain3, domain4, general_test)
+subjects_df = pd.DataFrame(
+    [language, domain1, domain2, domain3, domain4, general_test],
+    ).transpose()
+subjects_df.columns=['Language', 'Domain 1', 'Domain 2', 'Domain 3', 'Domain 4', 'General Test']
+
+st.write("Please check the table before submitting 😇")
+st.dataframe(subjects_df, hide_index=True, use_container_width=True)
+
 if st.button("Submit"):
     # Function to check eligibility
     def check_eligibility(course_row, language, domain1, domain2, domain3, domain4, general_test):
