@@ -278,6 +278,7 @@ with tabs[3]:
             background-repeat: no-repeat;
             background-size: 10px 40px, calc(100% - 20px) 40px, 10px 40px;
             background-position: left center, center, right;
+            text-wrap:wrap;
         }
 
         .flex-container {
