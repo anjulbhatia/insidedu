@@ -7,6 +7,14 @@ df = pd.read_csv("datasets/Elig.csv")
 
 st.title("Eligible Course Analyser")
 
+# Add custom CSS to hide the GitHub icon
+hide_github_icon = """
+#GithubIcon {
+  visibility: hidden;
+}
+"""
+st.markdown(hide_github_icon, unsafe_allow_html=True)
+
 # User input section
 st.markdown("### by InsideDU")
 st.header("Select Your Subjects")
