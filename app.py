@@ -389,25 +389,24 @@ with tabs[3]:
     # Success Stories Section
     st.markdown('<div class="subtitle">Our Success Stories</div>', unsafe_allow_html=True)
     success_stories = {
-        "SRCC": ["Economics Hons"],
-        "LSR": ["English Hons", "BCom Hons", "Mathematics Hons"],
-        "Hindu": ["Bcom Hons", "Mathematics Hons", "Statistics Hons"],
-        "Hansraj": ["Bcom Hons", "BA Prog"],
-        "KMC": ["Economics Hons", "Statistics Hons"],
-        "Ramjas": ["BCom Hons", "Physics hons"],
-        "Miranda House": ["Mathematics Hons", "BA Prog"],
-        "DRC": ["BA Prog", "Zoology Hons"],
-        "IPCW": ["BCom Hons", "BA Prog"],
-        "KMV": ["CS hons"],
-        "Others": ["SGGSCC", "SGTB Khalsa", "Gargi", "JMC", "ARSD and more..."]
+        "SRCC": "https://upload.wikimedia.org/wikipedia/en/5/55/The_Official_Logo_of_Shri_Ram_College_of_Commerce%28SRCC%29.png",
+        "LSR": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lady_Shri_Ram_College_for_Women.svg/800px-Lady_Shri_Ram_College_for_Women.svg.png",
+        "Hindu": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Hindu_College%2C_Delhi_shield.svg/800px-Hindu_College%2C_Delhi_shield.svg.png",
+        "Hansraj": "https://www.hansrajcollege.ac.in/assets/front/images/logo_new.png",
+        "KMC": "https://highereducationplus.com/wp-content/uploads/2021/10/krmal.png",
+        "Ramjas": "https://ramjas.du.ac.in/360/skin/Image_4A43FF08_6BDD_6B6E_41CC_0506531F6949.png?v=1685603828741",
+        "Miranda House": "https://upload.wikimedia.org/wikipedia/en/9/97/Miranda_House_seal.svg",
+        "DRC": "https://www.dr.du.ac.in/images/logo.png",
+        "IPCW": "https://static.theprint.in/wp-content/uploads/2023/03/1-1.jpg",
+        "SGGSCC, SGTB Khalsa, Gargi, JMC, ARSD and more...": "https://www.du.ac.in/uploads/du/images/logo-du-1.png"
     }
 
-    st.markdown('<div class="flex-container">', unsafe_allow_html=True)
-    for college, courses in success_stories.items():
+    st.markdown('<div class="flex-" style="display: flex; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 20px;">', unsafe_allow_html=True)
+    for college, url in success_stories.items():
         st.markdown(f"""
-            <div class="card">
-                <div class="card-title">{college}</div>
-                <div class="card-content">{", ".join(courses)}</div>
+            <div class="card" style="">
+                <img src={url} style="width:120px; height:120px;">
+                <div class="card-title" style="font-weight:600;">{college}</div>
             </div>
         """, unsafe_allow_html=True)
     st.markdown('</div>', unsafe_allow_html=True)
