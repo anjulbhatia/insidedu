@@ -358,7 +358,7 @@ with tabs[3]:
         <div class="card">
         <div class="card-title">A Community Built by Students</div>
         <div class="card-content">
-            A community built by students from North Campus by merit and happens to be cousins by coincidence that understands your problems because we have faced them first hand. 
+            A community built by students from North Campus that understands your problems because we have faced them first hand. 
             Mentorship begins after the community reaches 200 members. Share with your friends who may benefit from this:
             <br><a href="https://bit.ly/InsideDU_WACommunity" class="link">Join Inside DU Community</a>.
             <br>Also support us on Instagram: <a href="https://instagram.com/edu.insidedu" class="link">instagram.com/edu.insidedu</a>
