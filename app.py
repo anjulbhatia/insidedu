@@ -278,7 +278,10 @@ with tabs[3]:
             background-repeat: no-repeat;
             background-size: 10px 40px, calc(100% - 20px) 40px, 10px 40px;
             background-position: left center, center, right;
-            text-wrap:wrap;
+            overflow: hidden; /* Hides any overflow text */
+            text-overflow: ellipsis; /* Adds ellipsis if the text is too long */
+            white-space: normal; /* Allows text to wrap onto the next line */
+            line-height: 1.4; /* Adjust line height to fit text better */
         }
 
         .flex-container {
