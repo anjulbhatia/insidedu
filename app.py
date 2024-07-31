@@ -117,7 +117,7 @@ st.markdown("""
         /* Floating buttons */
     .floating-container {
         position: fixed;
-        bottom: 20px;
+        bottom: 40px;
         right: 20px;
         display: grid;
             }
