@@ -117,7 +117,7 @@ st.markdown("""
         /* Floating buttons */
     .floating-container {
         position: fixed;
-        bottom: 40px;
+        bottom: 50px;
         right: 20px;
         display: grid;
             }
@@ -139,6 +139,9 @@ st.markdown("""
     .floating-button:hover {
         transform: scale(120%);
     }  
+    s {
+        color: maroon; font-size:16px;        
+    }
     </style>
 """, unsafe_allow_html=True)
 
