@@ -2,10 +2,12 @@ import streamlit as st
 import pandas as pd
 import datasets.cuet_data as cuet_data
 
-# Load the eligibility data
-df = pd.read_csv("datasets/Eligibility.csv")
-
-st.title("Eligible Course Analyser")
+st.set_page_config(
+    page_title="Eligible Courses | InsideDU",
+    page_icon="🌟",
+    layout="centered",
+    initial_sidebar_state="collapsed",
+)
 
 # Add custom CSS to hide the GitHub icon
 hide_github_icon = """
@@ -16,6 +18,11 @@ hide_github_icon = """
 </style>
 """
 st.markdown(hide_github_icon, unsafe_allow_html=True)
+
+# Load the eligibility data
+df = pd.read_csv("datasets/Eligibility.csv")
+
+st.title("Eligible Course Analyser")
 
 # User input section
 st.markdown("### by InsideDU")
@@ -116,6 +123,6 @@ if st.button("Submit"):
     # Display the results
     if not eligible_df.empty:
         st.write("### Matching Courses:")
-        st.dataframe(eligible_df[['Course']], hide_index=True)
+        st.dataframe(eligible_df[['Course']], hide_index=True, use_container_width=True)
     else:
         st.write("No matching courses found.")

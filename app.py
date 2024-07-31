@@ -7,12 +7,14 @@ st.set_page_config(
     layout="centered",
     initial_sidebar_state="collapsed",
 )
-
 # Custom CSS for styling
 st.markdown("""
     <style>
         body {
             background-color: #f0f8ff; /* AliceBlue */
+        }
+        .stActionButton {
+            visibility: hidden;
         }
         .card {
             background-color: #ffffff; /* White */
@@ -110,18 +112,48 @@ st.markdown("""
             color: white;
             cursor: not-allowed;
             border: none;
-        }    
+        }  
+
+        /* Floating buttons */
+    .floating-container {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        display: grid;
+            }
+    .floating-button {
+        color: white;
+        border: none;
+        border-radius: 50%;
+        padding: 5px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        cursor: pointer;
+        font-size: 1.5em;
+        margin: 5px;
+    }
+    .floating-button-instagram {
+        background: transparent;
+        box-shadow: none;
+            
+    }
+    .floating-button:hover {
+        transform: scale(120%);
+    }  
     </style>
 """, unsafe_allow_html=True)
 
-st.title("InsideDU Community")
 st.logo("images/logo_1.png")
-st.markdown('<a href="https://bit.ly/InsideDU_WACommunity" target="_blank"><button class="button">Join the Community!</button></a>', unsafe_allow_html=True)
-st.write("Welcome to InsideDU Community! Use the tabs to navigate through different sections.")
+st.title("InsideDU Community")
 
 tabs = st.tabs(["Home", "Products", "Resources", "About"])
 
 with tabs[0]:
+    # Title
+    st.markdown('<div class="title">Inside DU Community</div>', unsafe_allow_html=True)
+
+    # Subtitle
+    st.markdown('<div class="subtitle">Bringing to you what you need the most right now</div><br>', unsafe_allow_html=True)
+
     st.image("images/Brochure.png")
 
     st.write("### Testimonials")
@@ -136,6 +168,13 @@ with tabs[0]:
     st.write("### Contact Us")
     st.write("Email: [aunn.insidedu@gmail.com](mailto:aunn.insidedu@gmail.com)")
     st.write("Phone: +91 9873363129; +91 999949195")
+    # Instagram
+    st.markdown('''
+                <a class="" href="https://www.instagram.com/edu.insidedu">
+                    <img 
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"
+                        alt="Instagram" style="width:24px;height:24px;"> /edu.insidedu
+                </a><br>''', unsafe_allow_html=True)
 
 with tabs[1]:
     st.write("### Products")
@@ -199,9 +238,186 @@ with tabs[2]:
         """, unsafe_allow_html=True)
 
 with tabs[3]:
-    st.write("### About InsideDU")
-    col1, col2 = st.columns(2)
-    with col1:
-        st.markdown('<a href="https://www.instagram.com/edu.insidedu" target="_blank"><button class="button">Instagram</button></a>', unsafe_allow_html=True)
-        st.markdown('<a href="https://bit.ly/InsideDU_WACommunity" target="_blank"><button class="button">Join the Community!</button></a>', unsafe_allow_html=True)
-    st.write(att.bio)
+    # Custom CSS for styling
+    st.markdown("""
+        <style>
+        .title {
+            font-size: 2.5em;
+            color: #3498db;
+            text-align: center;
+            margin-top: 20px;
+        }
+        .subtitle {
+            font-size: 1.5em;
+            color: #2c3e50;
+            text-align: center;
+            margin-top: 10px;
+        }
+        .features {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+
+        }
+        .highlight {
+            font-size: 1.2em;
+            font-weight: 600;
+            margin: 10px 0;
+            padding-left: 15px;
+            margin: 10px;
+            background-image: linear-gradient(
+                to bottom right,
+                transparent 50%,
+                #b393d3 50%
+                ),
+                linear-gradient(#b393d3, #b393d3),
+                linear-gradient(to top left, transparent 50%, #b393d3 50%);
+            background-repeat: no-repeat;
+            background-size: 10px 40px, calc(100% - 20px) 40px, 10px 40px;
+            background-position: left center, center, right;
+        }
+
+        .flex-container {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr); /* Three equal columns */
+            gap: 20px; /* Space between items */
+            margin: 20px;
+        }
+        .stats {
+            font-size: 1.1em;
+            color: #16a085;
+            margin: 10px 0;
+        }
+        .card {
+            background-color: #f7f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin: 10px;
+            flex: 1;
+            transition: transform 0.2s;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+        .card-title {
+            font-size: 1.2em;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+        .card-content {
+            font-size: 1em;
+            color: #2c3e50;
+        }
+        .link {
+            color: #3498db;
+            text-decoration: none;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            color: #95a5a6;
+        }
+        b {font-size:56px; font-weight:700;}
+        </style>
+    """, unsafe_allow_html=True)
+
+    # Title
+    st.markdown('<div class="title">Inside DU Community</div>', unsafe_allow_html=True)
+
+    # Subtitle
+    st.markdown('<div class="subtitle">Bringing to you what you need the most right now</div>', unsafe_allow_html=True)
+
+    # Features
+    features = [
+        "Instant doubt solving",
+        "Live sessions",
+        "Admission updates",
+        "College & Course review",
+        "Preference list review",
+        "Personalised preference Sheet",
+        "Career Guidance",
+        "And DU ke andar ki baatein"
+    ]
+    st.markdown(f'''<div class="features">''', unsafe_allow_html=True)
+    for feature in features:
+        st.markdown(f'''<div class="highlight">{feature}</div>''', unsafe_allow_html=True)
+    st.markdown(f'''</div>''', unsafe_allow_html=True)
+
+    # Community Background
+    st.markdown('<div class="subtitle">About Us</div>', unsafe_allow_html=True)
+    st.markdown("""
+        <div class="card">
+        <div class="card-title">A Community Built by Students</div>
+        <div class="card-content">
+            A community built by students from North Campus by merit and happens to be cousins by coincidence that understands your problems because we have faced them first hand. 
+            Mentorship begins after the community reaches 200 members. Share with your friends who may benefit from this:
+            <br><a href="https://bit.ly/InsideDU_WACommunity" class="link">Join Inside DU Community</a>.
+            <br>Also support us on Instagram: <a href="https://instagram.com/edu.insidedu" class="link">instagram.com/edu.insidedu</a>
+        </div>
+        </div>
+    """, unsafe_allow_html=True)
+
+    # Statistics Section
+    st.markdown('<br><div class="subtitle">2023-2024 Statistics</div>', unsafe_allow_html=True)
+    stats = [
+        "<b>200+</b><br> member community",
+        "<b>10+</b><br> seniors mentoring y'all",
+        "<b>150+</b><br> college converts through our personalized preference sheets",
+        "<b>2</b><br> Live sessions",
+        "Instant doubt resolution",
+        "Career Guidance"
+    ]
+
+    st.markdown('<div class="flex-container">', unsafe_allow_html=True)
+    for stat in stats:
+        st.markdown(f"""
+            <div class="card">
+                <div class="card-title">{stat}</div>
+            </div>
+        """, unsafe_allow_html=True)
+    st.markdown('</div>', unsafe_allow_html=True)
+
+    # Success Stories Section
+    st.markdown('<div class="subtitle">Our Success Stories</div>', unsafe_allow_html=True)
+    success_stories = {
+        "SRCC": ["Economics Hons"],
+        "LSR": ["English Hons", "BCom Hons", "Mathematics Hons"],
+        "Hindu": ["Bcom Hons", "Mathematics Hons", "Statistics Hons"],
+        "Hansraj": ["Bcom Hons", "BA Prog"],
+        "KMC": ["Economics Hons", "Statistics Hons"],
+        "Ramjas": ["BCom Hons", "Physics hons"],
+        "Miranda House": ["Mathematics Hons", "BA Prog"],
+        "DRC": ["BA Prog", "Zoology Hons"],
+        "IPCW": ["BCom Hons", "BA Prog"],
+        "KMV": ["CS hons"],
+        "Others": ["SGGSCC", "SGTB Khalsa", "Gargi", "JMC", "ARSD and more..."]
+    }
+
+    st.markdown('<div class="flex-container">', unsafe_allow_html=True)
+    for college, courses in success_stories.items():
+        st.markdown(f"""
+            <div class="card">
+                <div class="card-title">{college}</div>
+                <div class="card-content">{", ".join(courses)}</div>
+            </div>
+        """, unsafe_allow_html=True)
+    st.markdown('</div>', unsafe_allow_html=True)
+
+# Floating Buttons
+st.markdown("""
+    <div class="floating-container">
+    <a href="https://bit.ly/InsideDU_WACommunity" target="_blank" tooltip="Join our Community">
+        <button class="floating-button">📱</button>
+    </a>
+    <a href="https://instagram.com/edu.insidedu" target="_blank">
+        <button class="floating-button floating-button-instagram">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/900px-Instagram_icon.png?20200512141346" style="width:26px; height:26px;">    
+        </button>
+    </a>
+    </div>
+""", unsafe_allow_html=True)
+
+# Footer
+st.markdown('<div class="footer">Inside DU Community © 2024</div>', unsafe_allow_html=True)
