@@ -186,7 +186,7 @@ with tabs[2]:
         <div class="card">
             <h4>Eligible Courses and Colleges</h4>
             <p>Find out which courses and colleges you are eligible for.</p>
-            <a href="/Eligible_Courses" target="_self"><button class="button">Go to Eligible Courses and Colleges</button></a>
+            <a href="/Eligible_Courses" target="_self"><button class="button">Go to Eligible Courses</button></a>
         </div>
         """, unsafe_allow_html=True)
     
