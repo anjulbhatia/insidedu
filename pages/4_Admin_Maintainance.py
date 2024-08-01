@@ -61,6 +61,7 @@ if not st.session_state.logged_in:
         if check_password(username, password):
             st.session_state.logged_in = True
             st.success("Logged in successfully!")
+            st.experimental_rerun()  # Refresh the page to show the admin panel
         else:
             st.error("Incorrect username or password")
 
@@ -72,6 +73,7 @@ else:
     if st.button("Logout"):
         st.session_state.logged_in = False
         st.session_state.df = pd.DataFrame()  # Clear the loaded data
+        st.experimental_rerun()  # Refresh the page to show the login page
 
     # Tabs for different functionalities
     tab1, tab2, tab3 = st.tabs(["View Logs", "Query Logs", "Export/Reset Data"])
