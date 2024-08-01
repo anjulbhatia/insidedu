@@ -25,5 +25,3 @@ colleges_campuses_df = pd.read_csv("datasets/Colleges_Campuses_Locations.csv")
 
 with st.expander("See Data", False):
   st.dataframe(colleges_campuses_df, hide_index=True)
-
-st.toast("Success", icon="✅")
