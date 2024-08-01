@@ -242,12 +242,8 @@ elif st.session_state.form_submitted:
 
     col1, col2 = st.columns(2)
     with col1:
-        st.markdown("""
-                    <a href="/College_Seat_Matrix">
-                        <button>
-                            Check Possible Combinations
-                        </button></a>
-            """, unsafe_allow_html=True)
+        if st.button("Check Possible Combinations", use_container_width=True):
+            import pages.College_Seat_Matrix
     with col2:
         if st.button("Clear Data", use_container_width=True):
             st.session_state.clear()
