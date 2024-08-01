@@ -4,6 +4,16 @@ import sqlite3
 import os
 from datetime import datetime
 
+# Add custom CSS to hide the GitHub icon
+hide_github_icon = """
+<style>
+.stActionButton {
+  visibility: hidden;
+}
+</style>
+"""
+st.markdown(hide_github_icon, unsafe_allow_html=True)
+
 def check_password(username, password):
     """Verify the password using Streamlit secrets."""
     return username == st.secrets["credentials"]["username"] and password == st.secrets["credentials"]["password"]
@@ -51,7 +61,6 @@ if not st.session_state.logged_in:
         if check_password(username, password):
             st.session_state.logged_in = True
             st.success("Logged in successfully!")
-            st.experimental_rerun()  # Refresh the page to show the admin panel
         else:
             st.error("Incorrect username or password")
 
