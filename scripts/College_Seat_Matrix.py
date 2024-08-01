@@ -21,13 +21,6 @@ def clear_cache():
 df = pd.read_csv("datasets/Eligibility.csv")
 supersheet_df = pd.read_csv("datasets/Supersheet.csv")
 
-st.set_page_config(
-    page_title="College Seat Matrix | InsideDU",
-    page_icon="📊",
-    layout="centered",
-    initial_sidebar_state="collapsed",
-)
-
 # Add custom CSS to hide the GitHub icon
 hide_github_icon = """
 <style>
