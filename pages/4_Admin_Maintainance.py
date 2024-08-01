@@ -4,16 +4,6 @@ import sqlite3
 import os
 from datetime import datetime
 
-# Add custom CSS to hide the GitHub icon
-hide_github_icon = """
-<style>
-.stActionButton {
-  visibility: hidden;
-}
-</style>
-"""
-st.markdown(hide_github_icon, unsafe_allow_html=True)
-
 def check_password(username, password):
     """Verify the password using Streamlit secrets."""
     return username == st.secrets["credentials"]["username"] and password == st.secrets["credentials"]["password"]
@@ -34,6 +24,13 @@ def recreate_database():
     os.remove('datasets/logs/user_interactions.db')
     os.system('python scripts/logger.py')
     
+# Set up the page
+st.set_page_config(
+    page_title="Admin Maintenance Page",
+    page_icon="🔧",
+    layout="centered",
+    initial_sidebar_state="collapsed"
+)
 
 # Initialize session state for login and data
 if 'logged_in' not in st.session_state:
