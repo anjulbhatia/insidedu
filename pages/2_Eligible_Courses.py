@@ -58,7 +58,7 @@ if st.session_state.stage == 1:
     with col3:
         gender = st.selectbox("Select Your Gender", [""] + ["Male", "Female", "Others"])
     
-    if st.button('Next', use_container_width=True):
+    if st.button('Next'):
         if candidate_name and category and gender:
             # Store candidate details in session state
             st.session_state.candidate_name = candidate_name
@@ -242,7 +242,12 @@ elif st.session_state.form_submitted:
 
     col1, col2 = st.columns(2)
     with col1:
-        st.link_button("Check Possible Combinations", url="/College_Seat_Matrix", use_container_width=True)
+        st.markdown("""
+                    <a href="/College_Seat_Matrix">
+                        <button>
+                            Check Possible Combinations
+                        </button></a>
+            """, unsafe_allow_html=True)
     with col2:
         if st.button("Clear Data", use_container_width=True):
             st.session_state.clear()
