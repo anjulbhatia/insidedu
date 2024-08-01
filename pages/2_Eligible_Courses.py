@@ -242,8 +242,8 @@ elif st.session_state.form_submitted:
 
     col1, col2 = st.columns(2)
     with col1:
-        if st.button("Check Possible Combinations", use_container_width=True):
-            import scripts.College_Seat_Matrix
+        st.link_button(label="Check Possible Combinations", url="College_Seat_Matrix" use_container_width=True)
+
     with col2:
         if st.button("Clear Data", use_container_width=True):
             st.session_state.clear()
