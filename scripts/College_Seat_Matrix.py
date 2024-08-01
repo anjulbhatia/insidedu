@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import datasets.cuet_data as cuet_data
-import sqlite3 
+import sqlite3
 
 def log_user_interaction(data):
     conn = sqlite3.connect('datasets/logs/user_interactions.db')
@@ -19,6 +19,7 @@ def clear_cache():
 
 # Load the eligibility data
 df = pd.read_csv("datasets/Eligibility.csv")
+supersheet_df = pd.read_csv("datasets/Supersheet.csv")
 
 st.set_page_config(
     page_title="College Seat Matrix | InsideDU",
@@ -42,6 +43,26 @@ if 'stage' not in st.session_state:
     st.session_state.stage = 1
 if 'form_submitted' not in st.session_state:
     st.session_state.form_submitted = False
+if 'categories' not in st.session_state:
+    st.session_state.categories = ["UR", "OBC-NCL", "SC", "ST", "EWS", "Sikh", "Christian", "PwBD", "CW", "KM"]
+if 'candidate_name' not in st.session_state:
+    st.session_state.candidate_name = ""
+if 'category' not in st.session_state:
+    st.session_state.category = ""
+if 'gender' not in st.session_state:
+    st.session_state.gender = ""
+if 'language' not in st.session_state:
+    st.session_state.language = ""
+if 'domain1' not in st.session_state:
+    st.session_state.domain1 = ""
+if 'domain2' not in st.session_state:
+    st.session_state.domain2 = ""
+if 'domain3' not in st.session_state:
+    st.session_state.domain3 = ""
+if 'domain4' not in st.session_state:
+    st.session_state.domain4 = ""
+if 'general_test' not in st.session_state:
+    st.session_state.general_test = ""
 
 # Stage 1: Candidate Details
 if st.session_state.stage == 1:
@@ -53,8 +74,7 @@ if st.session_state.stage == 1:
     with col1:
         candidate_name = st.text_input("Enter Your Name")
     with col2:
-        categories = ["UR", "OBC-NCL", "SC", "ST", "EWS", "Sikh", "Christian", "PwBD", "CW", "KM"]
-        category = st.selectbox("Select Your Category", [""] + categories)
+        category = st.selectbox("Select Your Category", [""] + st.session_state.categories)
     with col3:
         gender = st.selectbox("Select Your Gender", [""] + ["Male", "Female", "Others"])
     
@@ -73,7 +93,7 @@ if st.session_state.stage == 1:
 
 # Stage 2: CUET Subjects
 elif st.session_state.stage == 2 and not st.session_state.form_submitted:
-    st.title("Eligible Courses")
+    st.title("College Seat Matrix")
     st.markdown("### by InsideDU")
     
     st.markdown("#### Select Your Subjects")
@@ -139,12 +159,10 @@ elif st.session_state.stage == 2 and not st.session_state.form_submitted:
             if st.button("Check Eligibility"):
                 st.session_state.form_submitted = True
 
-
 # Stage 3: Display Results
 elif st.session_state.form_submitted:
     st.title("College Seat Matrix")
     st.markdown("### by InsideDU")
-
 
     # Function to check eligibility
     def check_eligibility(course_row, language, domain1, domain2, domain3, domain4, general_test):
@@ -158,7 +176,6 @@ elif st.session_state.form_submitted:
         # Create domain groups
         domainsA = [domain1, domain2]
         domainsB = [domain1, domain2, domain3, domain4]
-        domainsA = domainsB
         
         # Language check
         if course_row['Language'] == 'Any' or course_row['Language'] == language:
@@ -205,25 +222,24 @@ elif st.session_state.form_submitted:
     
     # Retrieve subject details from session state
     candidate_name = st.session_state.candidate_name
-    category = st.session_state.category,
-    gender = st.session_state.gender,
+    category = st.session_state.category
+    gender = st.session_state.gender
     language = st.session_state.language
     domain1 = st.session_state.domain1
     domain2 = st.session_state.domain2
     domain3 = st.session_state.domain3
     domain4 = st.session_state.domain4
     general_test = st.session_state.general_test
-    
+
     candidate_df = pd.DataFrame([[st.session_state.candidate_name, st.session_state.category, st.session_state.gender]], 
                                     columns=['Name', 'Category', 'Gender'])
     st.dataframe(candidate_df, hide_index=True, use_container_width=True)
 
     subjects_df = pd.DataFrame(
-            [[language, domain1, domain2, domain3, domain4, general_test]],
-            columns=['Language', 'Domain 1', 'Domain 2', 'Domain 3', 'Domain 4', 'General Test']
-        )
+        [[language, domain1, domain2, domain3, domain4, general_test]],
+        columns=['Language', 'Domain 1', 'Domain 2', 'Domain 3', 'Domain 4', 'General Test']
+    )
     st.dataframe(subjects_df, hide_index=True, use_container_width=True)
-
 
     # Check eligibility for each course
     eligible_courses = []
@@ -233,20 +249,84 @@ elif st.session_state.form_submitted:
     
     eligible_df = pd.DataFrame(eligible_courses)
     
-    # Display the results
     if not eligible_df.empty:
-        st.write("### Matching Courses:")
-        st.dataframe(eligible_df[['Course']], hide_index=True, use_container_width=True)
+        course_codes = eligible_df['CourseCode'].tolist()
+
+        # Filter supersheet data based on eligible course codes
+        filtered_supersheet_df = supersheet_df[supersheet_df['CourseCode'].isin(course_codes)]
+        
+        col1, col2, col3 = st.columns(3)
+
+        with col1:
+            if gender != 'Female':
+                filtered_supersheet_df = filtered_supersheet_df[filtered_supersheet_df['isGirls'] == 'No']
+            else:
+                show_girls_colleges = st.checkbox("Show Only Women's Colleges")
+                if show_girls_colleges:
+                    filtered_supersheet_df = filtered_supersheet_df[filtered_supersheet_df['isGirls'] == 'Yes']
+                else:
+                    filtered_supersheet_df = filtered_supersheet_df
+        with col2:
+            show_evening_colleges = st.checkbox("Show Evening Colleges")
+            if not show_evening_colleges:
+                filtered_supersheet_df = filtered_supersheet_df[filtered_supersheet_df['isEvening'] == 'No']
+
+        with col3:
+            if st.button("Clear Your Data", use_container_width=True):
+                st.session_state.clear()
+                filtered_supersheet_df = pd.DataFrame()
+
+        if not filtered_supersheet_df.empty:
+            if st.session_state.category == "UR":
+                display_columns = ['College Name', 'Program', 'UR']
+            elif st.session_state.category != "UR":
+                display_columns = ['College Name', 'Program', 'UR', st.session_state.category]
+            
+            filtered_display_df = filtered_supersheet_df[display_columns]
+
+            # Calculations
+            total_combinations = int(filtered_display_df.shape[0])
+            ur_seats = int(filtered_display_df['UR'].sum())
+            category_seats = int(filtered_display_df[category].sum())
+            unique_college_count = filtered_display_df['College Name'].nunique()
+            unique_course_count = filtered_display_df['Program'].nunique()
+
+            
+            col1, col2, col3 = st.columns(3)
+            with col1:
+                st.markdown(f"**Total Combinations: <p style='font-size:30px; font-weight:600;'>{total_combinations}</p>**", unsafe_allow_html=True)
+            with col2:
+                st.markdown(f"**UR Seats: <p style='font-size:30px; font-weight:600;'>{ur_seats}</p>**", unsafe_allow_html=True)
+            if category != 'UR':
+                with col3:
+                    st.markdown(f"**{category} Seats: <p style='font-size:30px; font-weight:600;'>{category_seats}</p>**", unsafe_allow_html=True)
+            
+            # Additional statistics
+            col4, col5 = st.columns(2)
+
+            with col4:
+                st.markdown(f"**Unique Colleges <p style='font-size:30px; font-weight:600;'>{unique_college_count}</p>**", unsafe_allow_html=True)
+
+            with col5:
+                st.markdown(f"**Unique Courses <p style='font-size:30px; font-weight:600;'>{unique_course_count}</p>**", unsafe_allow_html=True)
+
+            st.write("### Matching Colleges:")
+            filtered_display_df = filtered_supersheet_df[display_columns]
+            filtered_display_df.index = range(1, len(filtered_display_df) + 1)
+            st.dataframe(filtered_display_df, hide_index=False, use_container_width=True)
+
+            col1, col2 = st.columns(2)
+            with col1:
+                st.download_button(label="Download this file",
+                               data=filtered_display_df.to_csv(), 
+                               file_name=f"{candidate_name}.csv", 
+                               mime="text/csv", use_container_width=True)
+            
+            with col2:
+                #filter_btn = st.button("Filter Colleges and Courses", use_container_width=True)
+                pass
+
+        else:
+            st.write("No matching colleges found.")
     else:
         st.write("No matching courses found.")
-
-    col1, col2 = st.columns(2)
-    with col1:
-        if st.button("Check Possible Combinations", use_container_width=True):
-            import scripts.College_Seat_Matrix
-    with col2:
-        if st.button("Clear Data", use_container_width=True):
-            st.session_state.clear()
-            filtered_supersheet_df = pd.DataFrame()
-
-
