@@ -34,13 +34,6 @@ def recreate_database():
     os.remove('datasets/logs/user_interactions.db')
     os.system('python scripts/logger.py')
     
-# Set up the page
-st.set_page_config(
-    page_title="Admin Maintenance Page",
-    page_icon="🔧",
-    layout="centered",
-    initial_sidebar_state="collapsed"
-)
 
 # Initialize session state for login and data
 if 'logged_in' not in st.session_state:
