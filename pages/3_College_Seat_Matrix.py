@@ -231,15 +231,16 @@ elif st.session_state.form_submitted:
     domain4 = st.session_state.domain4
     general_test = st.session_state.general_test
 
-    candidate_df = pd.DataFrame([[st.session_state.candidate_name, st.session_state.category, st.session_state.gender]], 
-                                    columns=['Name', 'Category', 'Gender'])
-    st.dataframe(candidate_df, hide_index=True, use_container_width=True)
+    with st.expander("User Data"):
+        candidate_df = pd.DataFrame([[st.session_state.candidate_name, st.session_state.category, st.session_state.gender]], 
+                                        columns=['Name', 'Category', 'Gender'])
+        st.dataframe(candidate_df, hide_index=True, use_container_width=True)
 
-    subjects_df = pd.DataFrame(
-        [[language, domain1, domain2, domain3, domain4, general_test]],
-        columns=['Language', 'Domain 1', 'Domain 2', 'Domain 3', 'Domain 4', 'General Test']
-    )
-    st.dataframe(subjects_df, hide_index=True, use_container_width=True)
+        subjects_df = pd.DataFrame(
+            [[language, domain1, domain2, domain3, domain4, general_test]],
+            columns=['Language', 'Domain 1', 'Domain 2', 'Domain 3', 'Domain 4', 'General Test']
+        )
+        st.dataframe(subjects_df, hide_index=True, use_container_width=True)
 
     # Check eligibility for each course
     eligible_courses = []
@@ -310,7 +311,7 @@ elif st.session_state.form_submitted:
             with col5:
                 st.markdown(f"**Unique Courses <p style='font-size:30px; font-weight:600;'>{unique_course_count}</p>**", unsafe_allow_html=True)
 
-            st.write("### Matching Colleges:")
+            st.write("#### All Eligible Combinations:")
             filtered_display_df = filtered_supersheet_df[display_columns]
             filtered_display_df.index = range(1, len(filtered_display_df) + 1)
             st.dataframe(filtered_display_df, hide_index=False, use_container_width=True)
@@ -324,7 +325,31 @@ elif st.session_state.form_submitted:
             
             with col2:
                 #filter_btn = st.button("Filter Colleges and Courses", use_container_width=True)
-                pass
+                st.markdown("""
+                    <style>
+                    div[data-testid="stPageLink-NavLink"], .stPageLink{
+                        display: inline-flex;
+                        align-items: center;
+                        justify-content: center;
+                        text-align: center;
+                        font-weight: 400;
+                        border-radius: 0.5rem;
+                        margin: -10px 0px;
+                        padding-left: 50%;
+                        line-height: 1;
+                        text-decoration: none;
+                        width: 100%;
+                        background-color: rgb(255, 255, 255);
+                        color: rgb(0, 0, 0);
+                        border: 1px solid rgba(0, 0, 0, 0.2);        
+                    }
+                    div[data-testid="stPageLink"]:hover{
+                        border: 1px solid rgba(0, 0, 0, 1);
+                        background: white;
+                    }
+                    </style>
+                """, unsafe_allow_html=True)
+                st.page_link("app.py", label="Back to Home", use_container_width=True, icon="🔙")
 
         else:
             st.write("No matching colleges found.")

@@ -214,15 +214,16 @@ elif st.session_state.form_submitted:
     domain4 = st.session_state.domain4
     general_test = st.session_state.general_test
     
-    candidate_df = pd.DataFrame([[st.session_state.candidate_name, st.session_state.category, st.session_state.gender]], 
-                                    columns=['Name', 'Category', 'Gender'])
-    st.dataframe(candidate_df, hide_index=True, use_container_width=True)
+    with st.expander("User Data"):
+        candidate_df = pd.DataFrame([[st.session_state.candidate_name, st.session_state.category, st.session_state.gender]], 
+                                        columns=['Name', 'Category', 'Gender'])
+        st.dataframe(candidate_df, hide_index=True, use_container_width=True)
 
-    subjects_df = pd.DataFrame(
-            [[language, domain1, domain2, domain3, domain4, general_test]],
-            columns=['Language', 'Domain 1', 'Domain 2', 'Domain 3', 'Domain 4', 'General Test']
-        )
-    st.dataframe(subjects_df, hide_index=True, use_container_width=True)
+        subjects_df = pd.DataFrame(
+                [[language, domain1, domain2, domain3, domain4, general_test]],
+                columns=['Language', 'Domain 1', 'Domain 2', 'Domain 3', 'Domain 4', 'General Test']
+            )
+        st.dataframe(subjects_df, hide_index=True, use_container_width=True)
 
 
     # Check eligibility for each course
@@ -235,14 +236,39 @@ elif st.session_state.form_submitted:
     
     # Display the results
     if not eligible_df.empty:
-        st.write("### Matching Courses:")
-        st.dataframe(eligible_df[['Course']], hide_index=True, use_container_width=True)
+        with st.expander("### See Eligible Courses", True):
+            st.dataframe(eligible_df[['Course']], hide_index=True, use_container_width=True)
+            
     else:
         st.write("No matching courses found.")
 
     col1, col2 = st.columns(2)
     with col1:
-        st.link_button(label="Check Possible Combinations", url="College_Seat_Matrix" use_container_width=True)
+        st.markdown("""
+            <style>
+            div[data-testid="stPageLink"]{
+                display: inline-flex;
+                align-items: center;
+                justify-content: center;
+                text-align: center;
+                font-weight: 400;
+                border-radius: 0.5rem;
+                margin: -10px 0px;
+                padding-left: 30%;
+                line-height: 1;
+                text-decoration: none;
+                width: 100%;
+                background-color: rgb(255, 255, 255);
+                color: rgb(0, 0, 0);
+                border: 1px solid rgba(0, 0, 0, 0.2);        
+            }
+             div[data-testid="stPageLink"]:hover{
+                border: 1px solid rgba(0, 0, 0, 1);
+                background: white;
+            }
+            </style>
+        """, unsafe_allow_html=True)
+        st.page_link("pages/3_College_Seat_Matrix.py", label="Check Possible Combinations", use_container_width=True)
 
     with col2:
         if st.button("Clear Data", use_container_width=True):

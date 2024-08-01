@@ -20,4 +20,10 @@ hide_github_icon = """
 st.markdown(hide_github_icon, unsafe_allow_html=True)
 
 st.title("DU Analyser")
-st.write("Coming Soon...")
+
+colleges_campuses_df = pd.read_csv("datasets/Colleges_Campuses_Locations.csv")
+
+with st.expander("See Data", False):
+  st.dataframe(colleges_campuses_df, hide_index=True)
+
+st.toast("Success", icon="✅")

@@ -220,7 +220,7 @@ with tabs[2]:
         <div class="card">
             <h4>DU Analyser</h4>
             <p>Analyze various aspects of Delhi University.</p>
-            <a href="/du_analyser" target="_self"><button class="button">Go to DU Analyser</button></a>
+            <a href="/DU_Analyser" target="_self"><button class="button">Go to DU Analyser</button></a>
         </div>
         """, unsafe_allow_html=True)
     
