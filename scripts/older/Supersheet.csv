@@ -1,0 +1,1559 @@
+S.No.,College Name,Program,UR,OBC-NCL,SC,ST,EWS,Sikh,Christian,PwBD,CW,KM,CourseCode,isGirls,isEvening
+1,Acharya Narendra Dev College,B.Com. (Hons.),50,34,19,9,13,0,0,6,6,6,BcomH,No,No
+2,Acharya Narendra Dev College,B.Sc. (Hons.) Biomedical Sciences,26,17,9,5,6,0,0,3,3,3,BScBioMed,No,No
+3,Acharya Narendra Dev College,B.Sc. (Hons.) Botany,26,17,9,5,6,0,0,3,3,3,BScBot,No,No
+4,Acharya Narendra Dev College,B.Sc. (Hons.) Chemistry,26,17,9,5,6,0,0,3,3,3,BScChem,No,No
+5,Acharya Narendra Dev College,B.Sc. (Hons.) Computer Science,26,17,9,5,6,0,0,3,3,3,BScCS,No,No
+6,Acharya Narendra Dev College,B.Sc. (Hons.) Electronics,26,17,9,5,6,0,0,3,3,3,BScElec,No,No
+7,Acharya Narendra Dev College,B.Sc. (Hons.) Mathematics,26,17,9,5,6,0,0,3,3,3,BScMath,No,No
+8,Acharya Narendra Dev College,B.Sc. (Hons.) Physics,26,17,9,5,6,0,0,3,3,3,BScPhy,No,No
+9,Acharya Narendra Dev College,B.Sc. (Hons.) Zoology,26,17,9,5,6,0,0,3,3,3,BScZoo,No,No
+10,Acharya Narendra Dev College,B.Sc. (Prog.) Life Science,23,15,8,4,6,0,0,3,3,3,BScProgLS,No,No
+11,Acharya Narendra Dev College,B.Sc. (Prog.) Physical Science with Chemistry,23,15,8,4,6,0,0,3,3,3,BScPSwChem,No,No
+12,Acharya Narendra Dev College,B.Sc. (Prog.) Physical Science with Computer Science/Informatics Practices,23,15,8,4,6,0,0,3,3,3,BScPSwCSIP,No,No
+13,Acharya Narendra Dev College,B.Sc. (Prog.) Physical Science with Electronics,23,15,8,4,6,0,0,3,3,3,BScPSwElec,No,No
+14,Aditi Mahavidyalaya (W),"B.A Program (Advertising, Sales Promotion and Sales Management (ASPSM) + Economics)",10,6,4,2,3,0,0,1,1,1,BAP,Yes,No
+15,Aditi Mahavidyalaya (W),"B.A Program (Advertising, Sales Promotion and Sales Management (ASPSM) + Mathematics)",20,12,8,4,6,0,0,3,3,3,BAP,Yes,No
+16,Aditi Mahavidyalaya (W),B.A Program (Economics + Food Technology),10,6,4,2,3,0,0,1,1,1,BAP,Yes,No
+17,Aditi Mahavidyalaya (W),B.A Program (Economics + Mathematics),5,3,2,1,2,0,0,1,1,1,BAP,Yes,No
+18,Aditi Mahavidyalaya (W),B.A Program (Economics + Psychology),10,6,4,2,3,0,0,1,1,1,BAP,Yes,No
+19,Aditi Mahavidyalaya (W),B.A Program (Education + Geography),10,6,4,2,3,0,0,1,1,1,BAP,Yes,No
+20,Aditi Mahavidyalaya (W),B.A Program (Education + Human Development and Family Empowerment (HDFE)),8,4,3,2,2,0,0,1,1,1,BAP,Yes,No
+21,Aditi Mahavidyalaya (W),B.A Program (Education + Political Science),17,12,7,3,4,0,0,1,1,1,BAP,Yes,No
+22,Aditi Mahavidyalaya (W),B.A Program (Food Technology (FT) + Geography),13,10,4,2,2,0,0,1,1,1,BAP,Yes,No
+23,Aditi Mahavidyalaya (W),B.A Program (Geography + History),13,10,4,2,2,0,0,2,2,2,BAP,Yes,No
+24,Aditi Mahavidyalaya (W),B.A Program (Hindi + NHE),10,6,4,2,3,0,0,1,1,1,BAP,Yes,No
+25,Aditi Mahavidyalaya (W),B.A Program (Hindi + OMSP),9,6,3,2,2,0,0,1,1,1,BAP,Yes,No
+26,Aditi Mahavidyalaya (W),B.A Program (Hindi + Political Science),13,10,4,2,2,0,0,2,2,2,BAP,Yes,No
+27,Aditi Mahavidyalaya (W),B.A Program (Human Development and Family Empowerment (HDFE) + Political Science),15,11,6,2,4,0,0,1,1,1,BAP,Yes,No
+28,Aditi Mahavidyalaya (W),B.A Program (Mathematics + Psychology),13,10,4,2,2,0,0,2,2,2,BAP,Yes,No
+29,Aditi Mahavidyalaya (W),B.A Program (Music + Sociology),13,10,4,2,2,0,0,2,2,2,BAP,Yes,No
+30,Aditi Mahavidyalaya (W),B.A Program (NHE + Sociology),13,9,4,2,3,0,0,2,2,2,BAP,Yes,No
+31,Aditi Mahavidyalaya (W),B.A Program (Office Management & Secretarial Practice (OMSP) + Sociology),15,11,6,2,4,0,0,2,2,2,BAP,Yes,No
+32,Aditi Mahavidyalaya (W),B.A Program (Political Science + Sociology),20,12,8,4,6,0,0,3,3,3,BAP,Yes,No
+33,Aditi Mahavidyalaya (W),B.A Program (Sanskrit + History),20,12,8,4,6,0,0,3,3,3,BAP,Yes,No
+34,Aditi Mahavidyalaya (W),B.A Program (Sanskrit + Music),8,4,3,2,2,0,0,1,1,1,BAP,Yes,No
+35,Aditi Mahavidyalaya (W),B.A Program (Sanskrit + Political Science),7,5,3,2,2,0,0,1,1,1,BAP,Yes,No
+36,Aditi Mahavidyalaya (W),B.A. (Hons.) Geography,16,10,6,3,4,0,0,2,2,2,BAGeo,Yes,No
+37,Aditi Mahavidyalaya (W),B.A. (Hons.) Hindi Patrakarita,22,15,8,4,7,0,0,3,3,3,BAHP,Yes,No
+38,Aditi Mahavidyalaya (W),B.A. (Hons.) Social Work,22,15,8,4,7,0,0,3,3,3,BASW,Yes,No
+39,Aditi Mahavidyalaya (W),B.Com.,22,15,8,4,7,0,0,3,3,3,Bcom,Yes,No
+40,Aditi Mahavidyalaya (W),B.Com. (Hons.),27,18,10,5,8,0,0,3,3,3,BcomH,Yes,No
+41,Aditi Mahavidyalaya (W),Bachelor of Elementary Education (B. El. Ed),25,17,9,5,7,0,0,3,3,3,BElEd,Yes,No
+42,Aryabhatta College,B.A Program (Economics + Mathematics),21,14,8,4,5,0,0,3,3,3,BAP,No,No
+43,Aryabhatta College,B.A Program (English + Psychology),21,14,8,4,5,0,0,3,3,3,BAP,No,No
+44,Aryabhatta College,B.A Program (History + Political Science),21,14,8,4,5,0,0,3,3,3,BAP,No,No
+45,Aryabhatta College,B.A. (Hons.) Business Economics,42,28,16,8,10,0,0,5,5,5,BABE,No,No
+46,Aryabhatta College,B.A. (Hons.) Economics,21,14,8,4,5,0,0,3,3,3,BAEcon,No,No
+47,Aryabhatta College,B.A. (Hons.) English,21,14,8,4,5,0,0,3,3,3,BAEn,No,No
+48,Aryabhatta College,B.A. (Hons.) Hindi,21,14,8,4,5,0,0,3,3,3,BAHi,No,No
+49,Aryabhatta College,B.A. (Hons.) History,42,28,16,8,10,0,0,5,5,5,BAHist,No,No
+50,Aryabhatta College,B.A. (Hons.) Political Science,42,28,16,8,10,0,0,5,5,5,BAPS,No,No
+51,Aryabhatta College,B.A. (Hons.) Psychology,21,14,8,4,5,0,0,3,3,3,BAPsy,No,No
+52,Aryabhatta College,B.Com.,21,14,8,4,5,0,0,3,3,3,Bcom,No,No
+53,Aryabhatta College,B.Com. (Hons.),21,14,8,4,5,0,0,3,3,3,BcomH,No,No
+54,Aryabhatta College,B.Sc. (Hons.) Computer Science,21,14,8,4,5,0,0,3,3,3,BScCS,No,No
+55,Aryabhatta College,B.Sc. (Hons.) Mathematics,21,14,8,4,5,0,0,3,3,3,BScMath,No,No
+56,Aryabhatta College,Bachelor of Management Studies (BMS),42,28,16,8,10,0,0,5,5,5,BMS,No,No
+57,Atma Ram Sanatan Dharma College,B.A. (Hons.) English,19,13,7,4,6,0,0,2,2,2,BAEn,No,No
+58,Atma Ram Sanatan Dharma College,B.A. (Hons.) Hindi,19,13,7,4,6,0,0,2,2,2,BAHi,No,No
+59,Atma Ram Sanatan Dharma College,B.A. (Hons.) Economics,38,26,14,7,11,0,0,5,5,5,BAEcon,No,No
+60,Atma Ram Sanatan Dharma College,B.A. (Hons.) History,19,13,7,4,6,0,0,2,2,2,BAHist,No,No
+61,Atma Ram Sanatan Dharma College,B.A Program (Any two disciplines from (History/Political Sc./Economics)),30,17,8,4,4,0,0,1,1,1,BAP,No,No
+62,Atma Ram Sanatan Dharma College,B.A Program (Computer Applications + Any other discipline subject from (English/Hindi/Sanskrit/Political Sc./Economics/Mathematics/Comp. App./History)),3,3,2,1,2,0,0,1,1,1,BAP,No,No
+63,Atma Ram Sanatan Dharma College,B.A Program (English + Any other discipline subject from (English/Hindi/Sanskrit/Political Sc./Economics/Mathematics/Comp. App./History)),3,3,2,1,2,0,0,1,1,1,BAP,No,No
+64,Atma Ram Sanatan Dharma College,B.A Program (Hindi + Any other discipline subject from (English/Hindi/Sanskrit/Political Sc./Economics/Mathematics/Comp. App./History)),3,3,2,1,2,0,0,1,1,1,BAP,No,No
+65,Atma Ram Sanatan Dharma College,B.A Program (Mathematics + Any other discipline subject from (English/Hindi/Sanskrit/Political Sc./Economics/Mathematics/Comp. App./History)),3,3,2,1,2,0,0,1,1,1,BAP,No,No
+66,Atma Ram Sanatan Dharma College,B.A Program (Sanskrit + Any other discipline subject from (English/Hindi/Sanskrit/Political Sc./Economics/Mathematics/Comp. App./History)),3,3,2,1,2,0,0,1,1,1,BAP,No,No
+67,Atma Ram Sanatan Dharma College,B.A. (Hons.) Political Science,38,26,14,7,11,0,0,5,5,5,BAPS,No,No
+68,Atma Ram Sanatan Dharma College,B.Com.,77,52,29,14,21,0,0,10,10,10,Bcom,No,No
+69,Atma Ram Sanatan Dharma College,B.Com. (Hons.),71,47,26,13,17,0,0,9,9,9,BcomH,No,No
+70,Atma Ram Sanatan Dharma College,B.Sc. (Hons.) Chemistry,35,23,13,6,9,0,0,4,4,4,BScChem,No,No
+71,Atma Ram Sanatan Dharma College,B.Sc. (Hons.) Computer Science,24,16,9,4,5,0,0,3,3,3,BScCS,No,No
+72,Atma Ram Sanatan Dharma College,B.Sc. (Hons.) Electronics,16,11,6,3,3,0,0,2,2,2,BScElec,No,No
+73,Atma Ram Sanatan Dharma College,B.Sc. (Hons.) Mathematics,38,26,14,7,11,0,0,5,5,5,BScMath,No,No
+74,Atma Ram Sanatan Dharma College,B.Sc. (Hons.) Physics,35,23,13,6,9,0,0,4,4,4,BScPhy,No,No
+75,Atma Ram Sanatan Dharma College,B.Sc. (Prog.) Applied Physics with Industrial Chemistry,24,15,9,4,5,0,0,3,3,3,BScProgAPSI,No,No
+76,Atma Ram Sanatan Dharma College,B.Sc. (Prog.) Physical Science with Chemistry,31,21,12,6,7,0,0,4,4,4,BScPSwChem,No,No
+77,Atma Ram Sanatan Dharma College,B.Sc. (Prog.) Physical Science with Computer Science/Informatics Practices,31,20,12,5,7,0,0,4,4,4,BScPSwCSIP,No,No
+78,Atma Ram Sanatan Dharma College,B.Sc. (Prog.) Physical Science with Electronics,31,21,12,6,7,0,0,4,4,4,BScPSwElec,No,No
+79,Bhagini Nivedita College (W),B.A Program (Computer Applications + Economics),16,10,6,3,4,0,0,2,2,1,BAP,Yes,No
+80,Bhagini Nivedita College (W),B.A Program (Computer Applications + Political Science),4,3,1,1,1,0,0,1,1,1,BAP,Yes,No
+81,Bhagini Nivedita College (W),B.A Program (Economics + History),15,10,6,3,4,0,0,2,2,1,BAP,Yes,No
+82,Bhagini Nivedita College (W),B.A Program (Economics + OMSP),6,4,2,1,2,0,0,1,1,0,BAP,Yes,No
+83,Bhagini Nivedita College (W),B.A Program (Economics + Political Science),22,15,8,4,5,0,0,3,3,2,BAP,Yes,No
+84,Bhagini Nivedita College (W),B.A Program (Food Technology (FT) + History),9,6,4,2,2,0,0,1,1,1,BAP,Yes,No
+85,Bhagini Nivedita College (W),B.A Program (Food Technology (FT) + Political Science),10,7,4,2,3,0,0,1,1,1,BAP,Yes,No
+86,Bhagini Nivedita College (W),B.A Program (History + Apparel Design & Construction (ADC)),9,6,4,2,2,0,0,1,1,1,BAP,Yes,No
+87,Bhagini Nivedita College (W),B.A Program (History + Human Development and Family Empowerment (HDFE)),9,6,4,2,2,0,0,1,1,1,BAP,Yes,No
+88,Bhagini Nivedita College (W),B.A Program (History + Music),5,3,2,1,1,0,0,1,1,0,BAP,Yes,No
+89,Bhagini Nivedita College (W),B.A Program (History + Nutrition and Health Education (NHE)),9,6,4,2,2,0,0,1,1,1,BAP,Yes,No
+90,Bhagini Nivedita College (W),B.A Program (History + Political Science),22,15,8,4,5,0,0,3,3,2,BAP,Yes,No
+91,Bhagini Nivedita College (W),B.A Program (Human Development and Family Empowerment (HDFE) + Political Science),10,7,4,2,3,0,0,1,1,1,BAP,Yes,No
+92,Bhagini Nivedita College (W),B.A Program (Music + Political Science),5,3,2,1,1,0,0,1,1,0,BAP,Yes,No
+93,Bhagini Nivedita College (W),B.A Program (Office Management & Secretarial Practice (OMSP) + Political Science),4,2,1,1,1,0,0,1,1,0,BAP,Yes,No
+94,Bhagini Nivedita College (W),B.A Program (Political Science + Apparel Design & Construction (ADC)),10,7,4,2,3,0,0,1,1,1,BAP,Yes,No
+95,Bhagini Nivedita College (W),B.A Program (Political Science + Nutrition and Health Education (NHE)),10,7,4,2,3,0,0,1,1,1,BAP,Yes,No
+96,Bhagini Nivedita College (W),B.A Program (Sanskrit + History),9,6,4,2,2,0,0,1,1,1,BAP,Yes,No
+97,Bhagini Nivedita College (W),B.A Program (Sanskrit + Political Science),19,13,7,4,5,0,0,2,2,1,BAP,Yes,No
+98,Bhagini Nivedita College (W),B.A. (Hons.) Hindi,23,16,9,4,6,0,0,3,3,2,BAHi,Yes,No
+99,Bhagini Nivedita College (W),B.A. (Hons.) History,23,16,9,4,6,0,0,3,3,2,BAHist,Yes,No
+100,Bhagini Nivedita College (W),B.A. (Hons.) Political Science,23,16,9,4,6,0,0,3,3,2,BAPS,Yes,No
+101,Bhagini Nivedita College (W),B.Com.,46,31,17,9,12,0,0,6,6,3,Bcom,Yes,No
+102,Bhagini Nivedita College (W),B.Sc. (Hons.) Home Science,16,11,6,3,4,0,0,2,2,1,BScHome,Yes,No
+103,Bhagini Nivedita College (W),B.Sc. (Hons.) Physics,23,16,9,4,6,0,0,3,3,2,BScPhy,Yes,No
+104,Bhagini Nivedita College (W),B.Sc. (Prog.) Physical Science with Chemistry,18,12,7,3,4,0,0,2,2,1,BScPSwChem,Yes,No
+105,Bhagini Nivedita College (W),B.Sc. (Prog.) Physical Science with Computer Science/Informatics Practices,18,12,7,3,4,0,0,2,2,1,BScPSwCSIP,Yes,No
+106,Bharati College (W),B.A Program (Computer Applications + Economics),10,5,3,1,2,0,0,1,1,1,BAP,Yes,No
+107,Bharati College (W),B.A Program (Computer Applications + Political Science),9,6,4,2,2,0,0,1,1,1,BAP,Yes,No
+108,Bharati College (W),B.A Program (Economics + OMSP),7,4,2,1,1,0,0,1,1,1,BAP,Yes,No
+109,Bharati College (W),B.A Program (Economics + Political Science),9,7,4,2,3,0,0,1,1,1,BAP,Yes,No
+110,Bharati College (W),B.A Program (History + Music),7,4,2,1,1,0,0,1,1,1,BAP,Yes,No
+111,Bharati College (W),B.A Program (History + OMSP),4,3,2,1,1,0,0,1,1,1,BAP,Yes,No
+112,Bharati College (W),B.A Program (History + Political Science),10,7,4,2,3,0,0,1,1,1,BAP,Yes,No
+113,Bharati College (W),B.A Program (Human Development and Family Empowerment (HDFE) + Political Science),12,8,5,2,3,0,0,1,1,1,BAP,Yes,No
+114,Bharati College (W),B.A Program (Music + Political Science),6,4,2,1,1,0,0,1,1,1,BAP,Yes,No
+115,Bharati College (W),B.A Program (Punjabi + Economics),3,3,2,1,1,0,0,1,1,1,BAP,Yes,No
+116,Bharati College (W),B.A Program (Punjabi + History),2,2,1,0,1,0,0,0,0,0,BAP,Yes,No
+117,Bharati College (W),B.A Program (Sanskrit + Economics),3,2,1,1,1,0,0,1,1,1,BAP,Yes,No
+118,Bharati College (W),B.A Program (Sanskrit + History),11,7,4,2,3,0,0,1,1,1,BAP,Yes,No
+119,Bharati College (W),B.A. (Hons.) English,31,21,12,6,8,0,0,4,4,4,BAEn,Yes,No
+120,Bharati College (W),B.A. (Hons.) Hindi,31,21,12,6,8,0,0,4,4,4,BAHi,Yes,No
+121,Bharati College (W),B.A. (Hons.) History,31,21,12,6,8,0,0,4,4,4,BAHist,Yes,No
+122,Bharati College (W),B.A. (Hons.) Journalism,23,15,9,4,6,0,0,3,3,3,BAJo,Yes,No
+123,Bharati College (W),B.A. (Hons.) Political Science,31,21,12,6,8,0,0,4,4,4,BAPS,Yes,No
+124,Bharati College (W),B.A. (Hons.) Psychology,23,15,9,4,6,0,0,3,3,3,BAPsy,Yes,No
+125,Bharati College (W),B.A. (Hons.) Sanskrit,31,21,12,6,8,0,0,4,4,4,BASa,Yes,No
+126,Bharati College (W),B.A. (Hons.) Sociology,23,15,9,4,6,0,0,3,3,3,BASo,Yes,No
+127,Bharati College (W),B.Com.,78,52,29,14,19,0,0,10,10,10,Bcom,Yes,No
+128,Bharati College (W),B.Com. (Hons.),61,41,23,11,15,0,0,8,8,8,BcomH,Yes,No
+129,Bharati College (W),B.Sc. (Hons.) Mathematics,23,15,9,4,6,0,0,3,3,3,BScMath,Yes,No
+130,Bhaskaracharya College of Applied Sciences,B.Sc. (Hons.) Biomedical Sciences,24,16,9,4,6,0,0,3,3,3,BScBioMed,No,No
+131,Bhaskaracharya College of Applied Sciences,B.Sc. (Hons.) Botany,16,11,6,3,4,0,0,2,2,2,BScBot,No,No
+132,Bhaskaracharya College of Applied Sciences,B.Sc. (Hons.) Chemistry,16,11,6,3,4,0,0,2,2,2,BScChem,No,No
+133,Bhaskaracharya College of Applied Sciences,B.Sc. (Hons.) Computer Science,24,16,9,4,6,0,0,3,3,3,BScCS,No,No
+134,Bhaskaracharya College of Applied Sciences,B.Sc. (Hons.) Electronics,24,16,9,4,6,0,0,3,3,3,BScElec,No,No
+135,Bhaskaracharya College of Applied Sciences,B.Sc. (Hons.) Food Technology,24,16,9,4,6,0,0,3,3,3,BScFood,No,No
+136,Bhaskaracharya College of Applied Sciences,B.Sc. (Hons.) Instrumentation,24,16,9,4,6,0,0,3,3,3,BScInst,No,No
+137,Bhaskaracharya College of Applied Sciences,B.Sc. (Hons.) Microbiology,16,11,6,3,4,0,0,2,2,2,BScMicro,No,No
+138,Bhaskaracharya College of Applied Sciences,B.Sc. (Hons.) Physics,16,11,6,3,4,0,0,2,2,2,BScPhy,No,No
+139,Bhaskaracharya College of Applied Sciences,B.Sc. (Hons.) Polymer Science,24,16,9,4,6,0,0,3,3,3,BScPoly,No,No
+140,Bhaskaracharya College of Applied Sciences,B.Sc. (Hons.) Zoology,16,11,6,3,4,0,0,2,2,2,BScZoo,No,No
+141,Cluster Innovation Centre,B.A. (Hons.) Humanities & Social Sciences,20,14,7,4,5,0,0,3,3,0,BAHSS,No,No
+142,Cluster Innovation Centre,B.Tech. Information Technology and Mathematical Innovation (IT & MI),20,14,7,4,5,0,0,3,3,0,ITMI,No,No
+143,College of Vocational Studies,B.A. (Hons.) Business Economics,31,21,12,6,8,0,0,4,4,4,BABE,No,No
+144,College of Vocational Studies,B.A. (Hons.) English,23,16,9,4,6,0,0,3,3,3,BAEn,No,No
+145,College of Vocational Studies,B.A. (Hons.) Hindi,23,16,9,4,6,0,0,3,3,3,BAHi,No,No
+146,College of Vocational Studies,B.A. (Hons.) History,31,21,12,6,8,0,0,4,4,4,BAHist,No,No
+147,College of Vocational Studies,B.A.(Vocational Studies) Human Resource Management,51,34,19,9,13,0,0,6,6,6,BAVoc,No,No
+148,College of Vocational Studies,B.A.(Vocational Studies) Managementand Marketing of Insurance,25,17,9,5,6,0,0,3,3,3,BAVoc,No,No
+149,College of Vocational Studies,B.A.(Vocational Studies) Marketing Managementand Retail Business,51,34,19,9,13,0,0,6,6,6,BAVoc,No,No
+150,College of Vocational Studies,B.A.(Vocational Studies) Material Management,25,17,9,5,6,0,0,3,3,3,BAVoc,No,No
+151,College of Vocational Studies,B.A.(Vocational Studies) Tourism Management,51,34,19,9,13,0,0,6,6,6,BAVoc,No,No
+152,College of Vocational Studies,B.A.(Vocational Studies)Office Managementand Secretarial Practice,45,30,17,8,11,0,0,5,5,5,BAVoc,No,No
+153,College of Vocational Studies,B.A.(Vocational Studies)Small and Medium Enterprises,25,17,9,5,6,0,0,3,3,3,BAVoc,No,No
+154,College of Vocational Studies,B.Com. (Hons.),39,26,14,7,10,0,0,5,5,5,BcomH,No,No
+155,College of Vocational Studies,B.Sc. (Hons.) Computer Science,23,16,9,4,6,0,0,3,3,3,BScCS,No,No
+156,College of Vocational Studies,Bachelor of Management Studies (BMS),23,16,9,4,6,0,0,3,3,3,BMS,No,No
+157,College of Vocational Studies,B.A. (Hons.) Economics,31,21,12,6,8,0,0,4,4,4,BAEcon,No,No
+158,Daulat Ram College (W),B.A Program (Economics + Mathematics),10,6,3,1,2,0,0,1,1,1,BAP,Yes,No
+159,Daulat Ram College (W),B.A Program (English + History),10,5,4,1,1,0,0,1,1,1,BAP,Yes,No
+160,Daulat Ram College (W),B.A Program (Entrepreneurship And Small Business + Nutrition And Health Education),9,6,3,2,2,0,0,1,1,1,BAP,Yes,No
+161,Daulat Ram College (W),B.A Program (Hindi + Physical Education),10,8,5,2,4,0,0,1,1,1,BAP,Yes,No
+162,Daulat Ram College (W),B.A Program (History + Political Science),9,6,3,2,2,0,0,1,2,1,BAP,Yes,No
+163,Daulat Ram College (W),B.A Program (Music + Nutrition And Health Education(NHE)),9,6,3,2,2,0,0,2,1,2,BAP,Yes,No
+164,Daulat Ram College (W),B.A Program (Philosophy + Psychology),9,6,3,2,2,0,0,1,1,1,BAP,Yes,No
+165,Daulat Ram College (W),B.A Program (Physical Education + Political Science),10,8,5,2,4,0,0,1,1,1,BAP,Yes,No
+166,Daulat Ram College (W),B.A Program (Sanskrit + Music),9,6,3,2,2,0,0,1,1,1,BAP,Yes,No
+167,Daulat Ram College (W),B.A. (Hons.) - Hindustani Music: Percussion (Tabla/Pakhawaj),2,2,1,1,1,0,0,0,0,0,BAH-P,Yes,No
+168,Daulat Ram College (W),B.A. (Hons.) - Hindustani Music: Vocal/Instrumental (Star/Sarod/Guitar/Violin/Santoor),8,5,3,1,2,0,0,1,1,1,BAH-V,Yes,No
+169,Daulat Ram College (W),B.A. (Hons.) - Karnataka Music: Vocal / Instrumental (Veena/Violin),2,1,0,0,0,0,0,0,0,0,BAH-KM,Yes,No
+170,Daulat Ram College (W),B.A. (Hons.) Economics,47,31,17,9,11,0,0,6,6,6,BAEcon,Yes,No
+171,Daulat Ram College (W),B.A. (Hons.) English,31,21,12,6,8,0,0,4,5,4,BAEn,Yes,No
+172,Daulat Ram College (W),B.A. (Hons.) Hindi,47,31,17,9,11,0,0,7,6,6,BAHi,Yes,No
+173,Daulat Ram College (W),B.A. (Hons.) History,23,16,9,4,6,0,0,4,3,3,BAHist,Yes,No
+174,Daulat Ram College (W),B.A. (Hons.) Philosophy,19,13,8,4,5,0,0,2,3,2,BAPhil,Yes,No
+175,Daulat Ram College (W),B.A. (Hons.) Political Science,47,31,17,9,11,0,0,6,6,7,BAPS,Yes,No
+176,Daulat Ram College (W),B.A. (Hons.) Psychology,19,12,7,3,5,0,0,2,2,2,BAPsy,Yes,No
+177,Daulat Ram College (W),B.A. (Hons.) Sanskrit,19,12,7,3,5,0,0,2,2,2,BASa,Yes,No
+178,Daulat Ram College (W),B.Com.,39,26,14,7,10,0,0,5,5,5,Bcom,Yes,No
+179,Daulat Ram College (W),B.Com. (Hons.),56,38,21,10,14,0,0,7,7,7,BcomH,Yes,No
+180,Daulat Ram College (W),B.Sc. (Hons.) Biochemistry,12,8,4,2,3,0,0,1,1,1,BScBioChem,Yes,No
+181,Daulat Ram College (W),B.Sc. (Hons.) Botany,23,16,9,4,6,0,0,3,3,3,BScBot,Yes,No
+182,Daulat Ram College (W),B.Sc. (Hons.) Chemistry,12,8,4,2,3,0,0,1,1,1,BScChem,Yes,No
+183,Daulat Ram College (W),B.Sc. (Hons.) Mathematics,23,16,9,4,6,0,0,3,3,3,BScMath,Yes,No
+184,Daulat Ram College (W),B.Sc. (Hons.) Physics,23,16,9,4,6,0,0,2,2,2,BScPhy,Yes,No
+185,Daulat Ram College (W),B.Sc. (Hons.) Zoology,23,16,9,4,6,0,0,2,2,2,BScZoo,Yes,No
+186,Daulat Ram College (W),B.Sc. (Prog.) Life Science,31,21,12,6,8,0,0,4,4,4,BScProgLS,Yes,No
+187,Deen Dayal Upadhyaya College,B.A Program (Economics + History),16,11,6,3,4,0,0,2,2,2,BAP,No,No
+188,Deen Dayal Upadhyaya College,B.A Program (Economics + Political Science),16,11,6,3,4,0,0,2,2,2,BAP,No,No
+189,Deen Dayal Upadhyaya College,B.A Program (History + Political Science),16,11,6,3,4,0,0,2,2,2,BAP,No,No
+190,Deen Dayal Upadhyaya College,B.A. (Hons.) English,16,11,6,3,4,0,0,2,2,2,BAEn,No,No
+191,Deen Dayal Upadhyaya College,B.Com. (Hons.),62,42,23,12,15,0,0,8,8,7,BcomH,No,No
+192,Deen Dayal Upadhyaya College,B.Sc. (Hons.) Botany,16,11,6,3,4,0,0,2,2,2,BScBot,No,No
+193,Deen Dayal Upadhyaya College,B.Sc. (Hons.) Chemistry,16,11,6,3,4,0,0,2,2,2,BScChem,No,No
+194,Deen Dayal Upadhyaya College,B.Sc. (Hons.) Computer Science,24,16,9,5,6,0,0,3,3,3,BScCS,No,No
+195,Deen Dayal Upadhyaya College,B.Sc. (Hons.) Electronics,24,16,9,5,6,0,0,3,3,3,BScElec,No,No
+196,Deen Dayal Upadhyaya College,B.Sc. (Hons.) Mathematics,31,21,12,6,8,0,0,4,4,3,BScMath,No,No
+197,Deen Dayal Upadhyaya College,B.Sc. (Hons.) Physics,24,16,9,5,6,0,0,3,3,3,BScPhy,No,No
+198,Deen Dayal Upadhyaya College,B.Sc. (Hons.) Zoology,16,11,6,3,4,0,0,2,2,2,BScZoo,No,No
+199,Deen Dayal Upadhyaya College,B.Sc. (Prog.) Life Science,16,11,6,3,4,0,0,2,2,2,BScProgLS,No,No
+200,Deen Dayal Upadhyaya College,B.Sc. (Prog.) Mathematical Science,16,11,6,3,4,0,0,2,2,2,BScProgMS,No,No
+201,Deen Dayal Upadhyaya College,B.Sc. (Prog.) Physical Science with Chemistry,16,11,6,3,4,0,0,2,2,2,BScPSwChem,No,No
+202,Deen Dayal Upadhyaya College,B.Sc. (Prog.) Physical Science with Computer Science/Informatics Practices,16,11,6,3,4,0,0,2,2,2,BScPSwCSIP,No,No
+203,Deen Dayal Upadhyaya College,Bachelor of Management Studies (BMS),24,16,9,5,6,0,0,3,3,3,BMS,No,No
+204,Delhi College of Arts and Commerce,B.A. (Hons.) English,24,16,9,4,5,0,0,3,3,3,BAEn,No,No
+205,Delhi College of Arts and Commerce,B.A. (Hons.) History,24,16,9,4,5,0,0,3,3,3,BAHist,No,No
+206,Delhi College of Arts and Commerce,B.A. (Hons.) Journalism,16,11,6,3,3,0,0,2,2,2,BAJo,No,No
+207,Delhi College of Arts and Commerce,B.A Program (Accounting and Finance + Computer Applications),5,4,2,1,2,0,0,1,1,1,BAP,No,No
+208,Delhi College of Arts and Commerce,"B.A Program (Advertising, Sales Promotion and Sales Management (ASPSM) + Economics)",6,3,3,1,2,0,0,1,1,1,BAP,No,No
+209,Delhi College of Arts and Commerce,B.A Program (Computer Applications + Mathematics),6,4,2,1,1,0,0,1,1,1,BAP,No,No
+210,Delhi College of Arts and Commerce,B.A Program (Economics + Human Resource Management (HRM)),6,4,2,1,2,0,0,1,1,1,BAP,No,No
+211,Delhi College of Arts and Commerce,B.A Program (Economics + Mathematics),6,3,3,1,1,0,0,0,0,0,BAP,No,No
+212,Delhi College of Arts and Commerce,B.A Program (English + German),6,4,2,1,1,0,0,0,0,0,BAP,No,No
+213,Delhi College of Arts and Commerce,B.A Program (English + Spanish),6,4,2,1,1,0,0,0,0,0,BAP,No,No
+214,Delhi College of Arts and Commerce,B.A Program (Hindi + History),6,4,2,1,2,0,0,1,1,1,BAP,No,No
+215,Delhi College of Arts and Commerce,B.A Program (Hindi + Physical Education),5,4,2,2,1,0,0,0,0,0,BAP,No,No
+216,Delhi College of Arts and Commerce,B.A Program (Hindi + Political Science),6,4,2,1,1,0,0,1,1,1,BAP,No,No
+217,Delhi College of Arts and Commerce,B.A Program (History + Political Science),6,4,2,1,1,0,0,1,1,1,BAP,No,No
+218,Delhi College of Arts and Commerce,B.A Program (Operational Research (OR) + Computer Applications),5,4,2,1,2,0,0,1,1,1,BAP,No,No
+219,Delhi College of Arts and Commerce,B.A. (Hons.) Political Science,24,16,9,4,5,0,0,3,3,3,BAPS,No,No
+220,Delhi College of Arts and Commerce,B.Com.,69,46,26,13,17,0,0,8,8,8,Bcom,No,No
+221,Delhi College of Arts and Commerce,B.Com. (Hons.),46,31,17,9,12,0,0,6,6,6,BcomH,No,No
+222,Delhi College of Arts and Commerce,B.A. (Hons.) Economics,24,16,9,4,5,0,0,3,3,3,BAEcon,No,No
+223,Delhi School of Journalism,Five Year Integrated Program in Journalism,40,27,15,8,10,0,0,5,5,0,5YIPJ,No,No
+224,Department of Germanic and Romance Studies,B.A. (Hons.) French,19,13,7,4,6,0,0,2,2,2,BAFr,No,No
+225,Department of Germanic and Romance Studies,B.A. (Hons.) German,19,13,7,4,6,0,0,2,2,2,BAGe,No,No
+226,Department of Slavonic & Finno-Ugrian Studies,B.A. (Hons.) Russian,19,13,7,4,6,0,0,2,2,2,BARu,No,No
+227,Department of Germanic and Romance Studies,B.A. (Hons.) Italian,19,13,7,4,6,0,0,2,2,2,BAIt,No,No
+228,Department of Germanic and Romance Studies,B.A. (Hons.) Spanish,19,13,7,4,6,0,0,2,2,2,BASp,No,No
+229,Deshbandhu College,B.A Program (Bengali + History),3,2,0,0,0,0,0,0,0,0,BAP,No,No
+230,Deshbandhu College,B.A Program (Bengali + Political Science),3,1,0,0,1,0,0,0,0,0,BAP,No,No
+231,Deshbandhu College,B.A Program (Economics + English),3,2,1,1,1,0,0,1,1,1,BAP,No,No
+232,Deshbandhu College,B.A Program (Economics + Hindi),2,2,1,1,0,0,0,0,0,0,BAP,No,No
+233,Deshbandhu College,B.A Program (Economics + History),3,1,1,0,1,0,0,1,1,1,BAP,No,No
+234,Deshbandhu College,B.A Program (Economics + Mathematics),2,1,1,0,1,0,0,1,1,1,BAP,No,No
+235,Deshbandhu College,B.A Program (Economics + Philosophy),2,1,1,0,1,0,0,0,0,0,BAP,No,No
+236,Deshbandhu College,B.A Program (Economics + Political Science),4,3,3,2,2,0,0,1,1,1,BAP,No,No
+237,Deshbandhu College,B.A Program (Economics + Sanskrit),3,3,1,0,0,0,0,0,0,0,BAP,No,No
+238,Deshbandhu College,B.A Program (English + History),3,1,1,0,1,0,0,1,1,1,BAP,No,No
+239,Deshbandhu College,B.A Program (English + Mathematics),2,1,1,0,1,0,0,1,1,1,BAP,No,No
+240,Deshbandhu College,B.A Program (English + Philosophy),5,4,3,1,2,0,0,0,0,0,BAP,No,No
+241,Deshbandhu College,B.A Program (English + Political Science),4,4,2,1,1,0,0,1,1,1,BAP,No,No
+242,Deshbandhu College,B.A Program (Hindi + History),3,2,1,1,1,0,0,1,1,1,BAP,No,No
+243,Deshbandhu College,B.A Program (Hindi + Philosophy),2,1,1,0,1,0,0,0,0,0,BAP,No,No
+244,Deshbandhu College,B.A Program (Hindi + Political Science),4,2,1,1,1,0,0,1,1,1,BAP,No,No
+245,Deshbandhu College,B.A Program (History + Mathematics),2,1,1,0,1,0,0,0,0,0,BAP,No,No
+246,Deshbandhu College,B.A Program (History + Philosophy),2,1,1,1,0,0,0,0,0,0,BAP,No,No
+247,Deshbandhu College,B.A Program (History + Political Science),20,16,8,5,3,0,0,3,3,3,BAP,No,No
+248,Deshbandhu College,B.A Program (History + Punjabi),3,1,0,0,1,0,0,0,0,0,BAP,No,No
+249,Deshbandhu College,B.A Program (History + Sanskrit),5,5,1,2,0,0,0,0,0,0,BAP,No,No
+250,Deshbandhu College,B.A Program (History + Sindhi),2,1,1,1,0,0,0,0,0,0,BAP,No,No
+251,Deshbandhu College,B.A Program (Mathematics + Philosophy),2,1,1,0,1,0,0,0,0,0,BAP,No,No
+252,Deshbandhu College,B.A Program (Mathematics + Political Science),2,1,1,0,1,0,0,0,0,0,BAP,No,No
+253,Deshbandhu College,B.A Program (Philosophy + Political Science),4,2,1,1,1,0,0,0,0,0,BAP,No,No
+254,Deshbandhu College,B.A Program (Punjabi + Political Science),3,2,0,0,1,0,0,0,0,0,BAP,No,No
+255,Deshbandhu College,B.A Program (Sanskrit + Philosophy),3,2,1,0,0,0,0,0,0,0,BAP,No,No
+256,Deshbandhu College,B.A. (Hons.) Economics,31,21,12,6,8,0,0,4,4,4,BAEcon,No,No
+257,Deshbandhu College,B.A. (Hons.) English,31,21,12,6,8,0,0,4,4,4,BAEn,No,No
+258,Deshbandhu College,B.A. (Hons.) Hindi,31,21,12,6,8,0,0,4,4,4,BAHi,No,No
+259,Deshbandhu College,B.A. (Hons.) History,47,32,18,9,11,0,0,6,6,6,BAHist,No,No
+260,Deshbandhu College,B.A. (Hons.) Political Science,62,42,23,12,15,0,0,8,8,8,BAPS,No,No
+261,Deshbandhu College,B.A. (Hons.) Sanskrit,31,21,12,6,8,0,0,4,4,4,BASa,No,No
+262,Deshbandhu College,B.Com. (Hons.),31,21,12,6,8,0,0,4,4,4,BcomH,No,No
+263,Deshbandhu College,B.Sc. (Hons.) Biochemistry,16,11,6,3,3,0,0,2,2,2,BScBioChem,No,No
+264,Deshbandhu College,B.Sc. (Hons.) Botany,31,21,12,6,8,0,0,4,4,4,BScBot,No,No
+265,Deshbandhu College,B.Sc. (Hons.) Chemistry,16,11,6,3,3,0,0,2,2,2,BScChem,No,No
+266,Deshbandhu College,B.Sc. (Hons.) Mathematics,47,32,18,9,11,0,0,6,6,6,BScMath,No,No
+267,Deshbandhu College,B.Sc. (Hons.) Physics,31,21,12,6,8,0,0,4,4,4,BScPhy,No,No
+268,Deshbandhu College,B.Sc. (Hons.) Zoology,31,21,12,6,8,0,0,4,4,4,BScZoo,No,No
+269,Deshbandhu College,B.Sc. (Prog.) Applied Physics with Industrial Chemistry,31,21,12,6,8,0,0,4,4,4,BScProgAPSI,No,No
+270,Deshbandhu College,B.Sc. (Prog.) Life Science,31,21,12,6,8,0,0,4,4,4,BScProgLS,No,No
+271,Deshbandhu College,B.Sc. (Prog.) Physical Science with Chemistry,62,42,23,12,15,0,0,8,8,8,BScPSwChem,No,No
+272,Deshbandhu College,B.Sc. (Prog.) Physical Science with Computer Science/Informatics Practices,31,21,12,6,8,0,0,4,4,4,BScPSwCSIP,No,No
+273,Dr. Bhim Rao Ambedkar College,B.A Program (Economics + Geography),15,10,6,3,4,0,0,1,2,2,BAP,No,No
+274,Dr. Bhim Rao Ambedkar College,B.A Program (Economics + Human Resource Management (HRM)),8,4,5,2,1,0,0,1,1,1,BAP,No,No
+275,Dr. Bhim Rao Ambedkar College,B.A Program (Economics + Mathematics),11,8,4,3,3,0,0,1,1,2,BAP,No,No
+276,Dr. Bhim Rao Ambedkar College,B.A Program (Economics + OMSP),9,6,4,2,3,0,0,1,1,2,BAP,No,No
+277,Dr. Bhim Rao Ambedkar College,B.A Program (English + History),11,9,4,2,3,0,0,1,1,1,BAP,No,No
+278,Dr. Bhim Rao Ambedkar College,B.A Program (English + Psychology),8,6,3,2,2,0,0,0,1,1,BAP,No,No
+279,Dr. Bhim Rao Ambedkar College,B.A Program (Geography + Psychology),8,5,3,2,1,0,0,1,1,1,BAP,No,No
+280,Dr. Bhim Rao Ambedkar College,B.A Program (Hindi + History),11,9,4,2,3,0,0,2,1,1,BAP,No,No
+281,Dr. Bhim Rao Ambedkar College,B.A Program (Hindi + Political Science),16,13,6,3,7,0,0,2,2,2,BAP,No,No
+282,Dr. Bhim Rao Ambedkar College,B.A Program (History + Political Science),20,14,7,4,5,0,0,3,3,3,BAP,No,No
+283,Dr. Bhim Rao Ambedkar College,B.A Program (Human Resource Management (HRM) + Mathematics),4,2,2,1,1,0,0,0,1,0,BAP,No,No
+284,Dr. Bhim Rao Ambedkar College,B.A Program (Human Resource Management (HRM) + Psychology),6,3,2,1,1,0,0,1,1,1,BAP,No,No
+285,Dr. Bhim Rao Ambedkar College,B.A Program (Office Management & Secretarial Practice (OMSP) + Political Science),6,4,2,1,1,0,0,1,0,0,BAP,No,No
+286,Dr. Bhim Rao Ambedkar College,B.A Program (Sanskrit + OMSP),6,3,2,1,1,0,0,0,0,0,BAP,No,No
+287,Dr. Bhim Rao Ambedkar College,B.A Program (Sanskrit + Political Science),6,3,2,1,1,0,0,1,1,0,BAP,No,No
+288,Dr. Bhim Rao Ambedkar College,B.A Program (Urdu + History),9,5,3,1,1,0,0,1,1,1,BAP,No,No
+289,Dr. Bhim Rao Ambedkar College,B.A Program (Urdu + Political Science),10,5,2,1,1,0,0,1,1,1,BAP,No,No
+290,Dr. Bhim Rao Ambedkar College,B.A. (Hons.) Hindi,24,15,9,5,5,0,0,3,3,3,BAHi,No,No
+291,Dr. Bhim Rao Ambedkar College,B.A. (Hons.) Applied Psychology,20,13,7,4,5,0,0,2,2,2,BAAPsy,No,No
+292,Dr. Bhim Rao Ambedkar College,B.A. (Hons.) Economics,24,15,9,5,5,0,0,3,3,3,BAEcon,No,No
+293,Dr. Bhim Rao Ambedkar College,B.A. (Hons.) Geography,31,21,12,6,7,0,0,4,4,4,BAGeo,No,No
+294,Dr. Bhim Rao Ambedkar College,B.A. (Hons.) Hindi Patrakarita,31,21,11,6,8,0,0,4,4,4,BAHP,No,No
+295,Dr. Bhim Rao Ambedkar College,B.A. (Hons.) History,24,15,9,5,5,0,0,3,3,3,BAHist,No,No
+296,Dr. Bhim Rao Ambedkar College,B.A. (Hons.) Business Economics,31,21,11,6,8,0,0,4,4,4,BABE,No,No
+297,Dr. Bhim Rao Ambedkar College,B.A. (Hons.) Social Work,31,21,11,6,8,0,0,4,4,4,BASW,No,No
+298,Dr. Bhim Rao Ambedkar College,B.Com.,93,62,35,18,23,0,0,12,12,12,Bcom,No,No
+299,Dr. Bhim Rao Ambedkar College,B.Com. (Hons.),63,42,23,12,14,0,0,8,8,8,BcomH,No,No
+300,Dyal Singh College,B.A Program (Bengali + Geography),3,1,1,0,0,0,0,0,0,0,BAP,No,No
+301,Dyal Singh College,B.A Program (Bengali + History),3,2,2,1,1,0,0,1,1,0,BAP,No,No
+302,Dyal Singh College,B.A Program (Bengali + Political Science),4,3,2,1,1,0,0,1,1,1,BAP,No,No
+303,Dyal Singh College,B.A Program (Commerce + Economics),9,6,3,2,2,0,0,2,1,0,BAP,No,No
+304,Dyal Singh College,B.A Program (Economics + Geography),3,1,1,0,0,0,0,0,0,0,BAP,No,No
+305,Dyal Singh College,B.A Program (Economics + History),2,1,1,0,1,0,0,0,0,0,BAP,No,No
+306,Dyal Singh College,B.A Program (Economics + Mathematics),5,3,2,1,1,0,0,1,1,1,BAP,No,No
+307,Dyal Singh College,B.A Program (Economics + Philosophy),2,2,1,0,1,0,0,0,0,1,BAP,No,No
+308,Dyal Singh College,B.A Program (Economics + Political Science),2,1,1,0,0,0,0,0,0,0,BAP,No,No
+309,Dyal Singh College,B.A Program (English + Economics),3,2,1,0,1,0,0,1,1,0,BAP,No,No
+310,Dyal Singh College,B.A Program (English + History),3,2,1,0,1,0,0,0,0,0,BAP,No,No
+311,Dyal Singh College,B.A Program (English + Political Science),3,2,1,1,1,0,0,0,0,1,BAP,No,No
+312,Dyal Singh College,B.A Program (Geography + History),2,1,1,1,0,0,0,0,0,0,BAP,No,No
+313,Dyal Singh College,B.A Program (Geography + Mathematics),4,3,2,0,1,0,0,1,1,1,BAP,No,No
+314,Dyal Singh College,B.A Program (Geography + Political Science),2,1,1,0,0,0,0,0,0,0,BAP,No,No
+315,Dyal Singh College,B.A Program (Hindi + Geography),2,3,1,0,1,0,0,0,0,0,BAP,No,No
+316,Dyal Singh College,B.A Program (Hindi + History),4,2,1,0,1,0,0,1,0,1,BAP,No,No
+317,Dyal Singh College,B.A Program (Hindi + Political Science),2,2,1,1,1,0,0,0,1,0,BAP,No,No
+318,Dyal Singh College,B.A Program (History + Philosophy),3,2,1,1,1,0,0,0,1,0,BAP,No,No
+319,Dyal Singh College,B.A Program (History + Political Science),3,2,1,1,0,0,0,0,1,1,BAP,No,No
+320,Dyal Singh College,B.A Program (Philosophy + Political Science),3,2,1,1,1,0,0,0,0,1,BAP,No,No
+321,Dyal Singh College,B.A Program (Punjabi + Economics),2,2,1,0,1,0,0,0,0,0,BAP,No,No
+322,Dyal Singh College,B.A Program (Punjabi + History),3,2,1,1,1,0,0,0,0,1,BAP,No,No
+323,Dyal Singh College,B.A Program (Punjabi + Political Science),3,2,1,1,1,0,0,1,1,0,BAP,No,No
+324,Dyal Singh College,B.A Program (Sanskrit + Geography),2,2,1,0,1,0,0,0,0,0,BAP,No,No
+325,Dyal Singh College,B.A Program (Sanskrit + History),3,2,1,1,1,0,0,1,1,0,BAP,No,No
+326,Dyal Singh College,B.A Program (Sanskrit + Political Science),4,2,1,1,0,0,0,0,0,1,BAP,No,No
+327,Dyal Singh College,B.A Program (Urdu + Economics),2,2,1,0,1,0,0,0,0,1,BAP,No,No
+328,Dyal Singh College,B.A Program (Urdu + History),3,2,1,1,1,0,0,0,0,1,BAP,No,No
+329,Dyal Singh College,B.A Program (Urdu + Political Science),4,2,1,1,0,0,0,1,1,0,BAP,No,No
+330,Dyal Singh College,B.A. (Hons.) Economics,31,21,12,6,7,0,0,4,4,4,BAEcon,No,No
+331,Dyal Singh College,B.A. (Hons.) English,31,21,12,6,7,0,0,4,4,4,BAEn,No,No
+332,Dyal Singh College,B.A. (Hons.) Geography,23,16,9,4,6,0,0,3,3,3,BAGeo,No,No
+333,Dyal Singh College,B.A. (Hons.) Hindi,31,21,12,6,7,0,0,4,4,4,BAHi,No,No
+334,Dyal Singh College,B.A. (Hons.) History,31,21,12,6,7,0,0,4,4,4,BAHist,No,No
+335,Dyal Singh College,B.A. (Hons.) Philosophy,23,16,9,4,6,0,0,3,3,3,BAPhil,No,No
+336,Dyal Singh College,B.A. (Hons.) Political Science,31,21,12,6,7,0,0,4,4,4,BAPS,No,No
+337,Dyal Singh College,B.A. (Hons.) Punjabi,23,16,9,4,6,0,0,3,3,3,BAPu,No,No
+338,Dyal Singh College,B.A. (Hons.) Sanskrit,23,16,9,4,6,0,0,3,3,3,BASa,No,No
+339,Dyal Singh College,B.A. (Hons.) Urdu,23,16,9,4,6,0,0,3,3,3,BAUr,No,No
+340,Dyal Singh College,B.Com.,93,62,36,17,23,0,0,12,11,12,Bcom,No,No
+341,Dyal Singh College,B.Com. (Hons.),93,62,36,17,23,0,0,12,12,12,BcomH,No,No
+342,Dyal Singh College,B.Sc. (Hons.) Botany,16,10,6,3,4,0,0,2,2,2,BScBot,No,No
+343,Dyal Singh College,B.Sc. (Hons.) Chemistry,16,10,6,3,4,0,0,2,2,2,BScChem,No,No
+344,Dyal Singh College,B.Sc. (Hons.) Computer Science,23,16,9,4,6,0,0,3,3,3,BScCS,No,No
+345,Dyal Singh College,B.Sc. (Hons.) Mathematics,47,32,18,9,11,0,0,6,6,6,BScMath,No,No
+346,Dyal Singh College,B.Sc. (Hons.) Physics,31,21,12,6,7,0,0,4,4,4,BScPhy,No,No
+347,Dyal Singh College,B.Sc. (Hons.) Zoology,16,10,6,3,4,0,0,2,2,2,BScZoo,No,No
+348,Dyal Singh College,B.Sc. (Prog.) Life Science,31,21,12,6,7,0,0,4,4,4,BScProgLS,No,No
+349,Dyal Singh College,B.Sc. (Prog.) Physical Science with Chemistry,62,42,24,11,15,0,0,8,7,8,BScPSwChem,No,No
+350,Dyal Singh College,B.Sc. (Prog.) Physical Science with Computer Science/Informatics Practices,31,21,12,6,7,0,0,4,4,4,BScPSwCSIP,No,No
+351,Dyal Singh College (Evening),B.A Program (Computer Applications + Economics),24,17,9,4,6,0,0,3,3,3,BAP,No,Yes
+352,Dyal Singh College (Evening),B.A Program (Entrepreneurship and Small Business (ESB) + History),12,8,5,2,3,0,0,2,2,2,BAP,No,Yes
+353,Dyal Singh College (Evening),B.A Program (Entrepreneurship and Small Business (ESB) + Political Science),13,8,5,2,3,0,0,1,1,1,BAP,No,Yes
+354,Dyal Singh College (Evening),B.A Program (Human Resource Management (HRM) + Economics),24,17,9,4,6,0,0,3,3,3,BAP,No,Yes
+355,Dyal Singh College (Evening),B.A Program (Mathematics + Economics),24,17,9,4,6,0,0,3,3,3,BAP,No,Yes
+356,Dyal Singh College (Evening),B.A Program (Political Science + Economics),12,8,4,3,4,0,0,1,1,1,BAP,No,Yes
+357,Dyal Singh College (Evening),B.A Program (Political Science + History),12,8,5,2,3,0,0,2,2,2,BAP,No,Yes
+358,Dyal Singh College (Evening),B.A Program (Punjabi + History),13,8,4,3,3,0,0,1,1,1,BAP,No,Yes
+359,Dyal Singh College (Evening),B.A Program (Sanskrit + History),12,8,5,3,3,0,0,1,1,1,BAP,No,Yes
+360,Dyal Singh College (Evening),B.A Program (Tamil + Political Science),12,8,5,2,3,0,0,2,2,2,BAP,No,Yes
+361,Dyal Singh College (Evening),B.A Program (Urdu + History),12,8,5,2,3,0,0,2,2,2,BAP,No,Yes
+362,Dyal Singh College (Evening),B.A. (Hons.) English,39,26,14,7,10,0,0,5,5,5,BAEn,No,Yes
+363,Dyal Singh College (Evening),B.A. (Hons.) History,21,15,8,4,5,0,0,3,3,3,BAHist,No,Yes
+364,Dyal Singh College (Evening),B.A. (Hons.) Political Science,39,26,14,7,10,0,0,5,5,5,BAPS,No,Yes
+365,Dyal Singh College (Evening),B.Com.,77,52,29,15,20,0,0,10,10,10,Bcom,No,Yes
+366,Dyal Singh College (Evening),B.Com. (Hons.),39,26,14,7,10,0,0,5,5,5,BcomH,No,Yes
+367,Gargi College (W),B.A Program (Computer Applications + Economics),2,2,1,0,1,0,0,0,0,0,BAP,Yes,No
+368,Gargi College (W),B.A Program (Computer Applications + Entrepreneurship and Small Business (ESB)),4,3,2,1,1,0,0,0,0,1,BAP,Yes,No
+369,Gargi College (W),B.A Program (Computer Applications + Mathematics),2,2,1,0,1,0,0,0,0,0,BAP,Yes,No
+370,Gargi College (W),B.A Program (Economics + Entrepreneurship and Small Business (ESB)),6,4,2,1,2,0,0,1,1,0,BAP,Yes,No
+371,Gargi College (W),B.A Program (Economics + Mathematics),3,2,0,0,1,0,0,0,0,0,BAP,Yes,No
+372,Gargi College (W),B.A Program (Economics + Political Science),6,3,1,1,1,0,0,1,1,0,BAP,Yes,No
+373,Gargi College (W),B.A Program (Economics + Psychology),4,3,2,1,1,0,0,1,1,0,BAP,Yes,No
+374,Gargi College (W),B.A Program (English + German),4,2,2,2,1,0,0,1,1,0,BAP,Yes,No
+375,Gargi College (W),B.A Program (English + History),2,2,1,1,0,0,0,0,0,0,BAP,Yes,No
+376,Gargi College (W),B.A Program (English + Philosophy),3,2,1,0,1,0,0,0,0,0,BAP,Yes,No
+377,Gargi College (W),B.A Program (English + Psychology),5,3,2,1,1,0,0,1,1,0,BAP,Yes,No
+378,Gargi College (W),B.A Program (Entrepreneurship and Small Business (ESB) + Mathematics),2,2,1,0,1,0,0,0,0,0,BAP,Yes,No
+379,Gargi College (W),B.A Program (German + History),3,1,1,0,1,0,0,0,0,0,BAP,Yes,No
+380,Gargi College (W),B.A Program (German + Political Science),4,3,2,1,1,0,0,1,1,0,BAP,Yes,No
+381,Gargi College (W),B.A Program (Hindi + History),4,3,2,1,1,0,0,1,1,0,BAP,Yes,No
+382,Gargi College (W),B.A Program (Hindi + Political Science),10,6,3,2,1,0,0,1,1,1,BAP,Yes,No
+383,Gargi College (W),B.A Program (History + Philosophy),2,2,1,0,1,0,0,0,0,0,BAP,Yes,No
+384,Gargi College (W),B.A Program (History + Political Science),18,11,7,4,3,0,0,2,2,1,BAP,Yes,No
+385,Gargi College (W),B.A Program (Philosophy + Political Science),7,4,2,1,2,0,0,0,1,1,BAP,Yes,No
+386,Gargi College (W),B.A Program (Philosophy + Psychology),2,2,1,0,1,0,0,0,0,0,BAP,Yes,No
+387,Gargi College (W),B.A. (Hons.) Applied Psychology,19,13,7,3,5,0,0,2,2,1,BAAPsy,Yes,No
+388,Gargi College (W),B.A. (Hons.) Business Economics,24,16,9,4,6,0,0,3,0,1,BABE,Yes,No
+389,Gargi College (W),B.A. (Hons.) Economics,24,16,9,4,6,0,0,3,3,1,BAEcon,Yes,No
+390,Gargi College (W),B.A. (Hons.) English,24,16,9,4,6,0,0,3,3,1,BAEn,Yes,No
+391,Gargi College (W),B.A. (Hons.) Hindi,24,16,9,4,6,0,0,3,3,1,BAHi,Yes,No
+392,Gargi College (W),B.A. (Hons.) History,24,16,9,4,6,0,0,3,3,1,BAHist,Yes,No
+393,Gargi College (W),B.A. (Hons.) Philosophy,16,11,6,3,4,0,0,2,2,1,BAPhil,Yes,No
+394,Gargi College (W),B.A. (Hons.) Political Science,46,31,17,9,11,0,0,6,6,2,BAPS,Yes,No
+395,Gargi College (W),B.A. (Hons.) Sanskrit,19,13,7,3,5,0,0,2,2,1,BASa,Yes,No
+396,Gargi College (W),B.Com.,93,62,35,17,23,0,0,11,11,4,Bcom,Yes,No
+397,Gargi College (W),B.Com. (Hons.),63,42,23,12,16,0,0,8,8,2,BcomH,Yes,No
+398,Gargi College (W),B.Sc. (Hons.) Botany,31,21,11,6,8,0,0,4,4,1,BScBot,Yes,No
+399,Gargi College (W),B.Sc. (Hons.) Chemistry,16,11,6,3,4,0,0,2,2,1,BScChem,Yes,No
+400,Gargi College (W),B.Sc. (Hons.) Mathematics,24,16,9,4,6,0,0,3,3,1,BScMath,Yes,No
+401,Gargi College (W),B.Sc. (Hons.) Microbiology,16,11,6,3,4,0,0,2,2,1,BScMicro,Yes,No
+402,Gargi College (W),B.Sc. (Hons.) Physics,16,11,6,3,4,0,0,2,2,1,BScPhy,Yes,No
+403,Gargi College (W),B.Sc. (Hons.) Zoology,31,21,11,6,8,0,0,4,4,1,BScZoo,Yes,No
+404,Gargi College (W),B.Sc. (Prog.) Life Science,46,31,17,9,11,0,0,6,6,2,BScProgLS,Yes,No
+405,Gargi College (W),B.Sc. (Prog.) Physical Science with Chemistry,31,21,11,6,8,0,0,4,4,1,BScPSwChem,Yes,No
+406,Gargi College (W),Bachelor of Elementary Education (B. El. Ed),25,17,9,5,7,0,0,3,1,1,BElEd,Yes,No
+407,Hansraj College,B.A Program (Commerce + Economics),20,14,8,4,4,0,0,3,3,3,BAP,No,No
+408,Hansraj College,B.A Program (Economics + History),20,14,8,4,4,0,0,3,3,3,BAP,No,No
+409,Hansraj College,B.A Program (Hindi + Physical Education),20,14,8,4,4,0,0,3,3,3,BAP,No,No
+410,Hansraj College,B.A Program (Philosophy + Physical Education),20,14,8,4,4,0,0,3,3,3,BAP,No,No
+411,Hansraj College,B.A Program (Sanskrit + Philosophy),20,14,8,4,4,,,3,3,3,BAP,No,No
+412,Hansraj College,B.A. (Hons.) Economics,55,36,20,10,14,0,0,7,7,7,BAEcon,No,No
+413,Hansraj College,B.A. (Hons.) English,27,18,10,5,8,0,0,3,3,3,BAEn,No,No
+414,Hansraj College,B.A. (Hons.) Hindi,27,18,10,5,8,0,0,3,3,3,BAHi,No,No
+415,Hansraj College,B.A. (Hons.) History,27,18,10,5,8,0,0,3,3,3,BAHist,No,No
+416,Hansraj College,B.A. (Hons.) Philosophy,23,16,9,4,6,0,0,3,3,3,BAPhil,No,No
+417,Hansraj College,B.A. (Hons.) Sanskrit,20,13,7,4,5,0,0,2,2,2,BASa,No,No
+418,Hansraj College,B.Com. (Hons.),105,70,39,20,26,0,0,13,13,13,BcomH,No,No
+419,Hansraj College,B.Sc. (Hons.) Anthropology,16,11,6,3,3,0,0,2,2,2,BScAnt,No,No
+420,Hansraj College,B.Sc. (Hons.) Botany,31,21,12,6,8,0,0,4,4,4,BScBot,No,No
+421,Hansraj College,B.Sc. (Hons.) Chemistry,35,23,13,7,9,0,0,4,4,4,BScChem,No,No
+422,Hansraj College,B.Sc. (Hons.) Computer Science,23,16,9,4,6,0,0,3,3,3,BScCS,No,No
+423,Hansraj College,B.Sc. (Hons.) Electronics,16,11,6,3,3,0,0,2,2,2,BScElec,No,No
+424,Hansraj College,B.Sc. (Hons.) Geology,23,16,9,4,6,0,0,3,3,3,BScGeo,No,No
+425,Hansraj College,B.Sc. (Hons.) Mathematics,31,21,12,6,8,0,0,4,4,4,BScMath,No,No
+426,Hansraj College,B.Sc. (Hons.) Physics,35,23,13,7,9,0,0,4,4,4,BScPhy,No,No
+427,Hansraj College,B.Sc. (Hons.) Zoology,31,21,12,6,8,0,0,4,4,4,BScZoo,No,No
+428,Hansraj College,B.Sc. (Prog.) Life Science,31,21,12,6,8,0,0,4,4,4,BScProgLS,No,No
+429,Hansraj College,B.Sc. (Prog.) Physical Science with Chemistry,16,11,6,3,3,0,0,2,2,2,BScPSwChem,No,No
+430,Hansraj College,B.Sc. (Prog.) Physical Science with Computer Science/Informatics Practices,16,11,6,3,3,0,0,2,2,2,BScPSwCSIP,No,No
+431,Hindu College,B.A Program (English + Economics),5,4,2,1,1,0,0,1,1,1,BAP,No,No
+432,Hindu College,B.A Program (Hindi + Philosophy),5,3,2,1,1,0,0,1,1,1,BAP,No,No
+433,Hindu College,B.A Program (History + Political Science),5,4,2,1,1,0,0,1,1,1,BAP,No,No
+434,Hindu College,B.A Program (Sanskrit + Political Science),5,3,2,1,1,0,0,1,1,1,BAP,No,No
+435,Hindu College,B.A. (Hons.) - Hindustani Music: Percussion (Tabla/Pakhawaj),2,1,1,0,1,0,0,0,0,0,BAH-P,No,No
+436,Hindu College,B.A. (Hons.) - Hindustani Music: Vocal/Instrumental (Star/Sarod/Guitar/Violin/Santoor),5,3,2,0,1,0,0,1,0,0,BAH-V,No,No
+437,Hindu College,B.A. (Hons.) - Karnataka Music: Vocal / Instrumental (Veena/Violin),1,1,0,1,0,0,0,0,0,0,BAH-KM,No,No
+438,Hindu College,B.A. (Hons.) Economics,28,18,10,5,7,0,0,3,3,3,BAEcon,No,No
+439,Hindu College,B.A. (Hons.) English,20,13,7,4,5,0,0,2,2,2,BAEn,No,No
+440,Hindu College,B.A. (Hons.) Hindi,16,11,6,3,4,0,0,2,2,2,BAHi,No,No
+441,Hindu College,B.A. (Hons.) History,20,13,7,4,5,0,0,2,2,2,BAHist,No,No
+442,Hindu College,B.A. (Hons.) Philosophy,20,13,7,4,5,0,0,2,2,2,BAPhil,No,No
+443,Hindu College,B.A. (Hons.) Political Science,20,13,7,4,5,0,0,2,2,2,BAPS,No,No
+444,Hindu College,B.A. (Hons.) Sanskrit,12,8,4,2,3,0,0,1,1,1,BASa,No,No
+445,Hindu College,B.A. (Hons.) Sociology,20,13,7,4,5,0,0,2,2,2,BASo,No,No
+446,Hindu College,B.Com. (Hons.),32,21,12,6,8,0,0,4,4,4,BcomH,No,No
+447,Hindu College,B.Sc. (Hons.) Botany,16,11,6,3,4,0,0,2,2,2,BScBot,No,No
+448,Hindu College,B.Sc. (Hons.) Chemistry,32,21,12,6,8,0,0,4,4,4,BScChem,No,No
+449,Hindu College,B.Sc. (Hons.) Mathematics,20,13,7,4,5,0,0,2,2,2,BScMath,No,No
+450,Hindu College,B.Sc. (Hons.) Physics,32,21,12,6,8,0,0,4,4,4,BScPhy,No,No
+451,Hindu College,B.Sc. (Hons.) Statistics,16,,6,3,4,0,0,2,2,2,BScStat,No,No
+452,Hindu College,B.Sc. (Hons.) Zoology,16,11,6,3,4,0,0,2,2,2,BScZoo,No,No
+453,Hindu College,B.Sc. (Prog.) Physical Science with Chemistry,24,16,9,4,6,0,0,3,3,3,BScPSwChem,No,No
+454,Hindu College,B.Sc. (Prog.) Physical Science with Electronics,16,11,6,3,4,0,0,2,2,2,BScPSwElec,No,No
+455,Indira Gandhi Institute of Physical Educationand Sports Sciences,"B.Sc. In Physical Education, Health Education & Sports",54,36,20,10,15,0,0,0,0,0,BScPEHS,No,No
+456,Indraprastha College for Women (W),B.A. (Hons.) Economics,26,18,10,5,6,0,0,3,3,3,BAEcon,Yes,No
+457,Indraprastha College for Women (W),B.A. (Hons.) English,26,18,10,5,6,0,0,3,3,3,BAEn,Yes,No
+458,Indraprastha College for Women (W),B.A. (Hons.) Geography,23,15,8,4,7,0,0,1,3,3,BAGeo,Yes,No
+459,Indraprastha College for Women (W),B.A. (Hons.) Hindi,26,18,10,5,6,0,0,5,3,3,BAHi,Yes,No
+460,Indraprastha College for Women (W),B.A. (Hons.) History,26,18,10,5,6,0,0,3,3,3,BAHist,Yes,No
+461,Indraprastha College for Women (W),B.A. (Hons.) Psychology,26,18,10,5,6,0,0,3,3,3,BAPsy,Yes,No
+462,Indraprastha College for Women (W),B.A. (Hons.) Sanskrit,26,18,10,5,6,0,0,4,3,3,BASa,Yes,No
+463,Indraprastha College for Women (W),B.A Program (Commerce + Computer Applications),5,3,2,1,1,0,0,0,1,0,BAP,Yes,No
+464,Indraprastha College for Women (W),B.A Program (Commerce + Economics),3,3,2,1,1,0,0,0,1,0,BAP,Yes,No
+465,Indraprastha College for Women (W),B.A Program (Commerce + Mathematics),3,3,2,1,1,0,0,1,1,1,BAP,Yes,No
+466,Indraprastha College for Women (W),B.A Program (Commerce + Psychology),4,2,1,1,0,0,0,1,0,1,BAP,Yes,No
+467,Indraprastha College for Women (W),B.A Program (Computer Applications + Economics),3,3,2,1,1,0,0,1,1,1,BAP,Yes,No
+468,Indraprastha College for Women (W),B.A Program (Computer Applications + Mathematics),8,5,2,1,2,0,0,0,0,0,BAP,Yes,No
+469,Indraprastha College for Women (W),B.A Program (Economics + Mathematics),5,3,2,1,1,0,0,1,1,1,BAP,Yes,No
+470,Indraprastha College for Women (W),B.A Program (Economics + Political Science),4,2,1,1,0,0,0,1,1,1,BAP,Yes,No
+471,Indraprastha College for Women (W),B.A Program (English + Geography),3,3,2,1,1,0,0,1,1,1,BAP,Yes,No
+472,Indraprastha College for Women (W),B.A Program (English + History),4,2,1,1,0,0,0,1,1,1,BAP,Yes,No
+473,Indraprastha College for Women (W),B.A Program (English + Human Development and Family Empowerment (HDFE)),5,3,2,1,1,0,0,0,1,0,BAP,Yes,No
+474,Indraprastha College for Women (W),B.A Program (English + Political Science),4,2,1,1,0,0,0,1,1,1,BAP,Yes,No
+475,Indraprastha College for Women (W),B.A Program (Geography + Hindi),2,2,1,1,0,0,0,0,0,0,BAP,Yes,No
+476,Indraprastha College for Women (W),B.A Program (Geography + History),2,1,0,1,1,0,0,0,0,0,BAP,Yes,No
+477,Indraprastha College for Women (W),B.A Program (Geography + Political Science),5,3,1,1,0,0,0,0,0,0,BAP,Yes,No
+478,Indraprastha College for Women (W),B.A Program (Geography + Sanskrit),2,1,1,0,0,0,0,0,0,0,BAP,Yes,No
+479,Indraprastha College for Women (W),B.A Program (Hindi + History),3,3,2,1,1,0,0,0,1,0,BAP,Yes,No
+480,Indraprastha College for Women (W),B.A Program (Hindi + Political Science),5,2,2,1,2,0,0,0,2,0,BAP,Yes,No
+481,Indraprastha College for Women (W),B.A Program (Hindi + Pyschology),2,2,1,1,0,0,0,0,0,0,BAP,Yes,No
+482,Indraprastha College for Women (W),B.A Program (History + Philosophy),3,2,2,1,2,0,0,1,1,1,BAP,Yes,No
+483,Indraprastha College for Women (W),B.A Program (History + Political Science),10,4,3,2,1,0,0,2,2,2,BAP,Yes,No
+484,Indraprastha College for Women (W),B.A Program (History + Sociology),2,2,1,0,1,0,0,0,0,0,BAP,Yes,No
+485,Indraprastha College for Women (W),B.A Program (Human Development and Family Empowerment (HDFE) + Hindi),2,2,1,0,1,0,0,0,1,0,BAP,Yes,No
+486,Indraprastha College for Women (W),B.A Program (Human Development and Family Empowerment (HDFE) + Philosophy),2,2,1,0,1,0,0,1,1,1,BAP,Yes,No
+487,Indraprastha College for Women (W),B.A Program (Human Development and Family Empowerment (HDFE) + Psychology),3,3,2,1,1,0,0,1,1,1,BAP,Yes,No
+488,Indraprastha College for Women (W),B.A Program (Human Development and Family Empowerment (HDFE) + Sociology),2,2,1,0,1,0,0,0,0,0,BAP,Yes,No
+489,Indraprastha College for Women (W),B.A Program (Philosophy + Psychology),5,3,1,1,0,0,0,1,0,1,BAP,Yes,No
+490,Indraprastha College for Women (W),B.A Program (Philosophy + Sanskrit),4,2,1,1,0,0,0,0,1,0,BAP,Yes,No
+491,Indraprastha College for Women (W),B.A Program (Philosophy + Sociolgy),2,2,1,0,1,0,0,0,0,0,BAP,Yes,No
+492,Indraprastha College for Women (W),B.A Program (Political Science + Sanskrit),3,2,1,0,0,0,0,0,1,0,BAP,Yes,No
+493,Indraprastha College for Women (W),B.A Program (Psychology + Sociology),3,1,1,0,1,0,0,0,0,0,BAP,Yes,No
+494,Indraprastha College for Women (W),B.A Program (Sanskrit + History),2,2,1,0,1,0,0,0,1,0,BAP,Yes,No
+495,Indraprastha College for Women (W),B.A. (Hons.) - Hindustani Music: Percussion (Tabla/Pakhawaj),2,3,2,1,1,0,0,0,1,1,BAH-P,Yes,No
+496,Indraprastha College for Women (W),B.A. (Hons.) - Hindustani Music: Vocal/Instrumental (Star/Sarod/Guitar/Violin/Santoor),15,8,4,2,3,0,0,2,1,1,BAH-V,Yes,No
+497,Indraprastha College for Women (W),B.A. (Hons.) - Karnataka Music: Vocal / Instrumental (Veena/Violin),2,2,1,0,1,0,0,0,1,1,BAH-KM,Yes,No
+498,Indraprastha College for Women (W),B.A. (Hons.) Multimedia & Mass Communication,26,18,10,5,6,0,0,1,3,3,BAMM,Yes,No
+499,Indraprastha College for Women (W),B.A. (Hons.) Philosophy,26,18,10,5,6,0,0,3,3,3,BAPhil,Yes,No
+500,Indraprastha College for Women (W),B.A. (Hons.) Political Science,57,38,21,11,15,0,0,7,8,8,BAPS,Yes,No
+501,Indraprastha College for Women (W),B.A. (Hons.) Sociology,23,15,8,4,7,0,0,3,3,3,BASo,Yes,No
+502,Indraprastha College for Women (W),B.Com. (Hons.),57,38,21,11,15,0,0,4,8,8,BcomH,Yes,No
+503,Indraprastha College for Women (W),B.Sc. (Hons.) Computer Science,26,18,10,5,6,0,0,2,3,3,BScCS,Yes,No
+504,Indraprastha College for Women (W),B.Sc. (Hons.) Mathematics,26,18,10,5,6,0,0,3,3,3,BScMath,Yes,No
+505,Institute of Home Economics (W),B.A. (Hons.) Journalism,23,16,9,4,6,0,0,3,3,3,BAJo,Yes,No
+506,Institute of Home Economics (W),B.Sc. (Hons.) Food Technology,16,11,6,3,4,0,0,2,2,2,BScFood,Yes,No
+507,Institute of Home Economics (W),B.Sc. (Hons.) Home Science,46,31,17,9,12,0,0,6,6,6,BScHome,Yes,No
+508,Institute of Home Economics (W),B.Sc. (Pass) Home Science,109,73,41,20,27,0,0,14,14,14,BScPHome,Yes,No
+509,Institute of Home Economics (W),Bachelor of Elementary Education (B. El. Ed),26,17,9,5,6,0,0,3,3,0,BElEd,Yes,No
+510,Institute of Home Economics (W),B.Sc. (Hons.) Biochemistry,15,11,6,3,4,0,0,2,2,2,BScBioChem,Yes,No
+511,Institute of Home Economics (W),B.Sc. (Hons.) Microbiology,15,11,6,3,4,0,0,2,2,2,BScMicro,Yes,No
+512,Janki Devi Memorial College (W),B.A. (Hons.) Economics,27,19,10,5,7,0,0,3,3,3,BAEcon,Yes,No
+513,Janki Devi Memorial College (W),B.A. (Hons.) English,27,19,10,5,7,0,0,3,3,3,BAEn,Yes,No
+514,Janki Devi Memorial College (W),B.A. (Hons.) Hindi,23,15,9,4,6,0,0,3,3,3,BAHi,Yes,No
+515,Janki Devi Memorial College (W),B.A. (Hons.) History,39,26,14,7,10,0,0,5,5,5,BAHist,Yes,No
+516,Janki Devi Memorial College (W),B.A Program (Economics + HDFE),3,2,2,1,1,0,0,0,0,0,BAP,Yes,No
+517,Janki Devi Memorial College (W),B.A Program (Economics + History),5,3,1,1,1,0,0,1,1,1,BAP,Yes,No
+518,Janki Devi Memorial College (W),B.A Program (Economics + Mathematics),6,3,2,1,1,0,0,1,1,1,BAP,Yes,No
+519,Janki Devi Memorial College (W),B.A Program (Economics + Music),2,1,1,1,1,0,0,0,0,0,BAP,Yes,No
+520,Janki Devi Memorial College (W),B.A Program (Economics + Philosophy),2,1,1,1,1,0,0,0,0,0,BAP,Yes,No
+521,Janki Devi Memorial College (W),B.A Program (Economics + Political Science),5,3,1,1,1,0,0,1,1,1,BAP,Yes,No
+522,Janki Devi Memorial College (W),B.A Program (English + Economics),5,3,1,1,1,0,0,1,1,1,BAP,Yes,No
+523,Janki Devi Memorial College (W),B.A Program (English + History),4,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+524,Janki Devi Memorial College (W),B.A Program (English + Mathematics),2,1,1,1,1,0,0,0,0,0,BAP,Yes,No
+525,Janki Devi Memorial College (W),B.A Program (English + Philosophy),2,1,1,1,1,0,0,0,0,0,BAP,Yes,No
+526,Janki Devi Memorial College (W),B.A Program (Hindi + History),5,3,1,1,1,0,0,1,1,1,BAP,Yes,No
+527,Janki Devi Memorial College (W),B.A Program (Hindi + Music),2,1,1,1,1,0,0,0,0,0,BAP,Yes,No
+528,Janki Devi Memorial College (W),B.A Program (Hindi + Political Science),5,3,1,1,1,0,0,1,1,1,BAP,Yes,No
+529,Janki Devi Memorial College (W),B.A Program (History + Music),2,1,1,1,1,0,0,0,0,0,BAP,Yes,No
+530,Janki Devi Memorial College (W),B.A Program (History + Philosophy),3,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+531,Janki Devi Memorial College (W),B.A Program (History + Political Science),30,20,11,5,7,0,0,4,4,4,BAP,Yes,No
+532,Janki Devi Memorial College (W),B.A Program (Human Development and Family Empowerment (HDFE) + Philosophy),6,3,2,1,1,0,0,1,1,1,BAP,Yes,No
+533,Janki Devi Memorial College (W),B.A Program (Human Development and Family Empowerment (HDFE) + Political Science),8,6,3,2,2,0,0,1,1,1,BAP,Yes,No
+534,Janki Devi Memorial College (W),B.A Program (Music + Philosophy),2,1,1,1,1,0,0,0,0,0,BAP,Yes,No
+535,Janki Devi Memorial College (W),B.A Program (Music + Political Science),2,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+536,Janki Devi Memorial College (W),B.A Program (Philosophy + Political Science),5,3,1,1,1,0,0,1,1,1,BAP,Yes,No
+537,Janki Devi Memorial College (W),B.A Program (Sanskrit + HDFE),2,1,1,0,0,0,0,0,0,0,BAP,Yes,No
+538,Janki Devi Memorial College (W),B.A Program (Sanskrit + History),2,1,1,1,1,0,0,0,0,0,BAP,Yes,No
+539,Janki Devi Memorial College (W),B.A Program (Sanskrit + Music),2,1,1,1,1,0,0,0,0,0,BAP,Yes,No
+540,Janki Devi Memorial College (W),B.A Program (Sanskrit + Philosophy),2,1,1,0,1,0,0,0,0,0,BAP,Yes,No
+541,Janki Devi Memorial College (W),B.A Program (Sanskrit + Political Science),2,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+542,Janki Devi Memorial College (W),B.A. (Hons.) Philosophy,15,11,6,3,4,0,0,2,2,2,BAPhil,Yes,No
+543,Janki Devi Memorial College (W),B.A. (Hons.) Political Science,47,31,17,9,11,0,0,6,6,6,BAPS,Yes,No
+544,Janki Devi Memorial College (W),B.A. (Hons.) Sociology,23,15,9,4,6,0,0,3,3,3,BASo,Yes,No
+545,Janki Devi Memorial College (W),B.Com.,47,31,17,9,11,0,0,6,6,6,Bcom,Yes,No
+546,Janki Devi Memorial College (W),B.Com. (Hons.),70,46,26,13,17,0,0,9,9,9,BcomH,Yes,No
+547,Janki Devi Memorial College (W),B.Sc. (Hons.) Mathematics,51,34,19,9,12,0,0,6,6,6,BScMath,Yes,No
+548,Janki Devi Memorial College (W),B.A. (Hons.) Sanskrit,16,10,6,3,4,0,0,2,2,2,BASa,Yes,No
+549,Jesus & Mary College (W),B.A Program (Computer Applications + Economics),13,0,0,0,0,0,13,1,1,1,BAP,Yes,No
+550,Jesus & Mary College (W),B.A Program (Computer Applications + Mathematics),13,0,0,0,0,0,13,1,1,1,BAP,Yes,No
+551,Jesus & Mary College (W),"B.A Program (Economics + Advertising, Sales Promotion and Sales Management)",13,0,0,0,0,0,13,1,1,1,BAP,Yes,No
+552,Jesus & Mary College (W),B.A Program (Economics + Human Resource Management (HRM)),13,0,0,0,0,0,13,1,1,1,BAP,Yes,No
+553,Jesus & Mary College (W),B.A Program (Economics + Mathematics),13,0,0,0,0,0,13,1,1,1,BAP,Yes,No
+554,Jesus & Mary College (W),"B.A Program (English + Advertising, Sales Promotion and Sales Management)",13,0,0,0,0,0,13,1,1,1,BAP,Yes,No
+555,Jesus & Mary College (W),B.A Program (English + French),13,0,0,0,0,0,13,1,1,1,BAP,Yes,No
+556,Jesus & Mary College (W),B.A Program (English + History),13,0,0,0,0,0,13,1,1,1,BAP,Yes,No
+557,Jesus & Mary College (W),B.A Program (English + Philosophy),13,0,0,0,0,0,13,1,1,1,BAP,Yes,No
+558,Jesus & Mary College (W),B.A Program (English + Sociology),13,0,0,0,0,0,13,1,1,1,BAP,Yes,No
+559,Jesus & Mary College (W),B.A Program (French + Philosophy),13,0,0,0,0,0,13,1,1,1,BAP,Yes,No
+560,Jesus & Mary College (W),B.A Program (History + Political Science),13,0,0,0,0,0,13,1,1,1,BAP,Yes,No
+561,Jesus & Mary College (W),B.A Program (History + Spanish),13,0,0,0,0,0,13,1,1,1,BAP,Yes,No
+562,Jesus & Mary College (W),B.A Program (Physical Education + History),13,0,0,0,0,0,13,1,1,1,BAP,Yes,No
+563,Jesus & Mary College (W),B.A Program (Physical Education + Sociology),13,0,0,0,0,0,13,1,1,1,BAP,Yes,No
+564,Jesus & Mary College (W),B.A Program (Political Science + Sociology),13,0,0,0,0,0,13,1,1,1,BAP,Yes,No
+565,Jesus & Mary College (W),B.A Program (Psychology + Human Resource Management (HRM)),13,0,0,0,0,0,13,1,1,1,BAP,Yes,No
+566,Jesus & Mary College (W),B.A Program (Psychology + Philosophy),13,0,0,0,0,0,13,1,1,1,BAP,Yes,No
+567,Jesus & Mary College (W),B.A Program (Psychology + Sociology),13,0,0,0,0,0,13,1,1,1,BAP,Yes,No
+568,Jesus & Mary College (W),"B.A Program (Spanish + Advertising, Sales Promotion and Sales Management)",13,0,0,0,0,0,13,1,1,1,BAP,Yes,No
+569,Jesus & Mary College (W),B.A Program (Spanish + Sociology),13,0,0,0,0,0,13,1,1,1,BAP,Yes,No
+570,Jesus & Mary College (W),B.A. (Hons.) Economics,25,0,0,0,0,0,25,3,3,2,BAEcon,Yes,No
+571,Jesus & Mary College (W),B.A. (Hons.) English,50,0,0,0,0,0,50,5,5,4,BAEn,Yes,No
+572,Jesus & Mary College (W),B.A. (Hons.) Hindi,25,0,0,0,0,0,25,3,3,2,BAHi,Yes,No
+573,Jesus & Mary College (W),B.A. (Hons.) History,25,0,0,0,0,0,25,3,3,2,BAHist,Yes,No
+574,Jesus & Mary College (W),B.A. (Hons.) Political Science,25,0,0,0,0,0,25,3,3,2,BAPS,Yes,No
+575,Jesus & Mary College (W),B.A. (Hons.) Psychology,25,0,0,0,0,0,25,3,3,2,BAPsy,Yes,No
+576,Jesus & Mary College (W),B.A. (Hons.) Sociology,25,0,0,0,0,0,25,3,3,2,BASo,Yes,No
+577,Jesus & Mary College (W),B.Com.,25,0,0,0,0,0,25,3,3,2,Bcom,Yes,No
+578,Jesus & Mary College (W),B.Com. (Hons.),50,0,0,0,0,0,50,5,5,4,BcomH,Yes,No
+579,Jesus & Mary College (W),B.Sc. (Hons.) Mathematics,25,0,0,0,0,0,25,3,3,2,BScMath,Yes,No
+580,Jesus & Mary College (W),B.Voc. Health Care Management,25,0,0,0,0,0,25,3,3,2,BVocHCM,Yes,No
+581,Jesus & Mary College (W),B.Voc. Retail Management & IT,25,0,0,0,0,0,25,3,3,2,BVocRetailIT,Yes,No
+582,Jesus & Mary College (W),Bachelor of Elementary Education (B. El. Ed),25,0,0,0,0,0,25,3,3,0,BElEd,Yes,No
+583,Kalindi College (W),B.A Program (Buddhist Studies + History),2,1,1,0,1,0,0,0,0,0,BAP,Yes,No
+584,Kalindi College (W),B.A Program (Buddhist Studies + Music),2,1,1,0,0,0,0,0,0,0,BAP,Yes,No
+585,Kalindi College (W),B.A Program (Buddhist Studies + Political Science),2,3,1,1,1,0,0,0,1,0,BAP,Yes,No
+586,Kalindi College (W),B.A Program (Computer Applications + Economics),5,4,2,1,1,0,0,0,1,0,BAP,Yes,No
+587,Kalindi College (W),B.A Program (Computer Applications + Entrepreneurship and Small Business (ESB)),3,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+588,Kalindi College (W),B.A Program (Computer Applications + Geography),2,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+589,Kalindi College (W),B.A Program (Computer Applications + Mathematics),4,3,2,1,2,0,0,0,0,0,BAP,Yes,No
+590,Kalindi College (W),B.A Program (Economics + Entrepreneurship and Small Business (ESB)),5,4,2,1,1,0,0,0,0,0,BAP,Yes,No
+591,Kalindi College (W),B.A Program (Economics + Geography),7,5,3,1,2,0,0,0,0,0,BAP,Yes,No
+592,Kalindi College (W),B.A Program (Economics + History),7,5,3,1,2,0,0,0,1,0,BAP,Yes,No
+593,Kalindi College (W),B.A Program (Economics + Mathematics),4,3,1,1,1,0,0,0,0,0,BAP,Yes,No
+594,Kalindi College (W),B.A Program (Economics + Political Science),17,8,4,1,3,0,0,0,0,0,BAP,Yes,No
+595,Kalindi College (W),B.A Program (Entrepreneurship and Small Business (ESB) + Geography),2,1,1,0,1,0,0,0,0,0,BAP,Yes,No
+596,Kalindi College (W),B.A Program (Entrepreneurship and Small Business (ESB) + History),2,1,1,0,1,0,0,0,0,0,BAP,Yes,No
+597,Kalindi College (W),B.A Program (Entrepreneurship and Small Business (ESB) + Mathematics),4,2,1,1,1,0,0,0,1,0,BAP,Yes,No
+598,Kalindi College (W),B.A Program (Entrepreneurship and Small Business (ESB) + Political Science),3,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+599,Kalindi College (W),B.A Program (Geography + History),2,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+600,Kalindi College (W),B.A Program (Geography + Mathematics),3,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+601,Kalindi College (W),B.A Program (Geography + Political Science),8,5,3,2,2,0,0,0,1,0,BAP,Yes,No
+602,Kalindi College (W),B.A Program (History + Music),2,1,1,0,0,0,0,0,0,0,BAP,Yes,No
+603,Kalindi College (W),B.A Program (History + Political Science),6,4,2,1,2,0,0,0,1,0,BAP,Yes,No
+604,Kalindi College (W),B.A Program (Music + Political Science),3,3,2,1,1,0,0,0,0,0,BAP,Yes,No
+605,Kalindi College (W),B.A Program (Sanskrit + Buddhist Studies),4,2,1,1,0,0,0,0,0,0,BAP,Yes,No
+606,Kalindi College (W),B.A Program (Sanskrit + History),8,5,2,1,1,0,0,0,0,0,BAP,Yes,No
+607,Kalindi College (W),B.A Program (Sanskrit + Music),4,2,1,1,0,0,0,0,1,0,BAP,Yes,No
+608,Kalindi College (W),B.A Program (Sanskrit + Political Science),6,5,3,1,2,0,0,0,0,0,BAP,Yes,No
+609,Kalindi College (W),B.A. (Hons.) Economics,31,21,11,5,10,0,0,4,4,1,BAEcon,Yes,No
+610,Kalindi College (W),B.A. (Hons.) English,31,21,11,5,10,0,0,4,4,1,BAEn,Yes,No
+611,Kalindi College (W),B.A. (Hons.) Geography,24,15,9,3,7,0,0,3,3,1,BAGeo,Yes,No
+612,Kalindi College (W),B.A. (Hons.) Hindi,31,21,11,5,10,0,0,4,4,1,BAHi,Yes,No
+613,Kalindi College (W),B.A. (Hons.) History,31,21,11,5,10,0,0,4,4,1,BAHist,Yes,No
+614,Kalindi College (W),B.A. (Hons.) Journalism,24,15,9,3,7,0,0,3,3,1,BAJo,Yes,No
+615,Kalindi College (W),B.A. (Hons.) Political Science,63,41,23,9,18,0,0,8,8,2,BAPS,Yes,No
+616,Kalindi College (W),B.A. (Hons.) Sanskrit,31,21,11,5,10,0,0,4,4,1,BASa,Yes,No
+617,Kalindi College (W),B.Com.,46,31,17,7,14,0,0,6,6,1,Bcom,Yes,No
+618,Kalindi College (W),B.Com. (Hons.),24,15,9,3,7,0,0,3,3,1,BcomH,Yes,No
+619,Kalindi College (W),B.Sc. (Hons.) Botany,16,11,6,2,5,0,0,2,2,1,BScBot,Yes,No
+620,Kalindi College (W),B.Sc. (Hons.) Chemistry,16,11,6,2,5,0,0,2,2,1,BScChem,Yes,No
+621,Kalindi College (W),B.Sc. (Hons.) Computer Science,24,15,9,3,7,0,0,3,3,3,BScCS,Yes,No
+622,Kalindi College (W),B.Sc. (Hons.) Mathematics,16,10,6,2,5,0,0,2,2,1,BScMath,Yes,No
+623,Kalindi College (W),B.Sc. (Hons.) Physics,16,10,6,2,5,0,0,2,2,2,BScPhy,Yes,No
+624,Kalindi College (W),B.Sc. (Hons.) Zoology,16,11,6,2,5,0,0,2,2,2,BScZoo,Yes,No
+625,Kalindi College (W),B.Sc. (Prog.) Life Science,31,21,11,5,10,0,0,4,4,1,BScProgLS,Yes,No
+626,Kalindi College (W),B.Sc. (Prog.) Physical Science with Computer Science/Informatics Practices,24,15,9,3,7,0,0,3,3,1,BScPSwCSIP,Yes,No
+627,Kamala Nehru College (W),"B.A Program (Advertising, Sales Promotion and Sales Management (ASPSM) + Economics)",4,2,1,1,1,0,0,1,1,1,BAP,Yes,No
+628,Kamala Nehru College (W),"B.A Program (Advertising, Sales Promotion and Sales Management (ASPSM) + Psychology)",4,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+629,Kamala Nehru College (W),B.A Program (Economics + Mathematics),3,2,1,1,1,0,0,0,0,1,BAP,Yes,No
+630,Kamala Nehru College (W),B.A Program (Economics + Sociology),4,2,1,1,1,0,0,1,1,1,BAP,Yes,No
+631,Kamala Nehru College (W),"B.A Program (English + Advertising, Sales Promotion and Sales Management (ASPSM))",4,2,2,1,1,0,0,1,1,1,BAP,Yes,No
+632,Kamala Nehru College (W),B.A Program (English + Psychology),4,3,1,1,1,0,0,0,0,0,BAP,Yes,No
+633,Kamala Nehru College (W),B.A Program (Geography + History),4,3,2,0,1,0,0,0,0,0,BAP,Yes,No
+634,Kamala Nehru College (W),B.A Program (Geography + Political Science),5,3,2,1,1,0,0,1,0,0,BAP,Yes,No
+635,Kamala Nehru College (W),B.A Program (Hindi + OMSP),4,2,1,1,1,0,0,0,1,1,BAP,Yes,No
+636,Kamala Nehru College (W),B.A Program (Hindi + Sanskrit),2,2,1,0,1,0,0,1,1,1,BAP,Yes,No
+637,Kamala Nehru College (W),B.A Program (History + Physical Education),2,2,1,0,1,0,0,1,0,1,BAP,Yes,No
+638,Kamala Nehru College (W),B.A Program (History + Political Science),3,3,2,1,1,0,0,0,0,0,BAP,Yes,No
+639,Kamala Nehru College (W),B.A Program (Human Resource Management (HRM) + English),2,2,1,0,0,0,0,1,0,1,BAP,Yes,No
+640,Kamala Nehru College (W),B.A Program (Human Resource Management (HRM) + Physical Education),3,2,1,1,1,0,0,0,1,1,BAP,Yes,No
+641,Kamala Nehru College (W),B.A Program (Mathematics + Philosophy),2,2,1,0,1,0,0,1,1,1,BAP,Yes,No
+642,Kamala Nehru College (W),B.A Program (Office Management & Secretarial Practice (OMSP) + Political Science),3,2,1,0,0,0,0,0,0,0,BAP,Yes,No
+643,Kamala Nehru College (W),B.A Program (Philosophy + Sociology),3,2,1,1,1,0,0,0,1,1,BAP,Yes,No
+644,Kamala Nehru College (W),B.A Program (Psychology + Sociology),3,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+645,Kamala Nehru College (W),B.A Program (Sanskrit + Physical Education),3,2,1,0,0,0,0,0,0,1,BAP,Yes,No
+646,Kamala Nehru College (W),B.A. (Hons.) Economics,23,16,9,4,6,0,0,3,3,1,BAEcon,Yes,No
+647,Kamala Nehru College (W),B.A. (Hons.) English,23,16,9,4,6,0,0,3,3,0,BAEn,Yes,No
+648,Kamala Nehru College (W),B.A. (Hons.) Geography,23,16,9,4,6,0,0,3,3,1,BAGeo,Yes,No
+649,Kamala Nehru College (W),B.A. (Hons.) Hindi,23,16,9,4,6,0,0,3,3,0,BAHi,Yes,No
+650,Kamala Nehru College (W),B.A. (Hons.) History,23,16,9,4,6,0,0,3,3,1,BAHist,Yes,No
+651,Kamala Nehru College (W),B.A. (Hons.) Journalism,19,14,7,4,5,0,0,2,2,0,BAJo,Yes,No
+652,Kamala Nehru College (W),B.A. (Hons.) Philosophy,23,16,9,4,6,0,0,3,3,1,BAPhil,Yes,No
+653,Kamala Nehru College (W),B.A. (Hons.) Political Science,47,31,17,9,12,0,0,6,6,1,BAPS,Yes,No
+654,Kamala Nehru College (W),B.A. (Hons.) Psychology,23,16,9,4,6,0,0,3,3,0,BAPsy,Yes,No
+655,Kamala Nehru College (W),B.A. (Hons.) Sanskrit,16,10,6,3,4,0,0,2,2,1,BASa,Yes,No
+656,Kamala Nehru College (W),B.A. (Hons.) Sociology,23,16,9,4,6,0,0,3,3,1,BASo,Yes,No
+657,Kamala Nehru College (W),B.Com.,62,42,23,12,16,0,0,8,8,1,Bcom,Yes,No
+658,Kamala Nehru College (W),B.Com. (Hons.),27,19,10,5,7,0,0,3,3,0,BcomH,Yes,No
+659,Kamala Nehru College (W),B.Sc. (Hons.) Mathematics,19,14,7,4,5,0,0,2,2,1,BScMath,Yes,No
+660,Keshav Mahavidyalaya,B.A. (Hons.) Psychology,16,11,6,3,4,0,0,2,2,2,BAPsy,No,No
+661,Keshav Mahavidyalaya,B.Com. (Hons.),77,52,29,15,19,0,0,10,10,10,BcomH,No,No
+662,Keshav Mahavidyalaya,B.Sc. (Hons.) Computer Science,46,31,17,9,12,0,0,6,6,6,BScCS,No,No
+663,Keshav Mahavidyalaya,B.Sc. (Hons.) Electronics,16,11,6,3,4,0,0,2,2,2,BScElec,No,No
+664,Keshav Mahavidyalaya,B.Sc. (Hons.) Mathematics,24,16,9,4,6,0,0,3,3,3,BScMath,No,No
+665,Keshav Mahavidyalaya,B.Sc. (Hons.) Physics,16,11,6,3,4,0,0,2,2,2,BScPhy,No,No
+666,Keshav Mahavidyalaya,B.Sc. (Prog.) Mathematical Science,24,16,9,4,6,0,0,3,3,3,BScProgMS,No,No
+667,Keshav Mahavidyalaya,B.Sc. (Prog.) Physical Science with Computer Science/Informatics Practices,24,16,9,4,6,0,0,3,3,3,BScPSwCSIP,No,No
+668,Keshav Mahavidyalaya,Bachelor of Management Studies (BMS),24,16,9,4,6,0,0,3,3,0,BMS,No,No
+669,Kirori Mal College,B.A Program (Bengali + History),3,2,1,1,1,0,0,0,0,0,BAP,No,No
+670,Kirori Mal College,B.A Program (Bengali + Political Science),3,2,1,1,1,0,0,0,0,0,BAP,No,No
+671,Kirori Mal College,B.A Program (Economics + History),4,2,2,1,1,0,0,1,1,1,BAP,No,No
+672,Kirori Mal College,B.A Program (Economics + Philosophy),4,2,2,1,1,0,0,0,0,0,BAP,No,No
+673,Kirori Mal College,B.A Program (Economics + Political Science),7,5,3,1,1,0,0,1,1,1,BAP,No,No
+674,Kirori Mal College,B.A Program (English + Political Science),3,2,1,1,1,0,0,1,1,1,BAP,No,No
+675,Kirori Mal College,B.A Program (Hindi + Political Science),3,2,1,1,1,0,0,1,1,1,BAP,No,No
+676,Kirori Mal College,B.A Program (History + Philosophy),4,2,2,1,1,0,0,0,0,0,BAP,No,No
+677,Kirori Mal College,B.A Program (History + Political Science),8,5,2,1,1,0,0,1,1,1,BAP,No,No
+678,Kirori Mal College,B.A Program (Philosophy + Political Science),4,2,2,1,1,0,0,0,0,0,BAP,No,No
+679,Kirori Mal College,B.A. (Hons.) Economics,31,21,12,6,8,0,0,4,4,4,BAEcon,No,No
+680,Kirori Mal College,B.A. (Hons.) English,22,15,8,4,5,0,0,3,3,3,BAEn,No,No
+681,Kirori Mal College,B.A. (Hons.) Geography,22,15,8,4,5,0,0,3,3,3,BAGeo,No,No
+682,Kirori Mal College,B.A. (Hons.) Hindi,22,15,8,4,5,0,0,3,3,3,BAHi,No,No
+683,Kirori Mal College,B.A. (Hons.) History,22,15,8,4,5,0,0,3,3,3,BAHist,No,No
+684,Kirori Mal College,B.A. (Hons.) Political Science,26,18,10,5,6,0,0,3,3,3,BAPS,No,No
+685,Kirori Mal College,B.A. (Hons.) Sanskrit,9,6,4,2,2,0,0,1,1,1,BASa,No,No
+686,Kirori Mal College,B.A. (Hons.) Urdu,9,6,4,2,2,0,0,1,1,1,BAUr,No,No
+687,Kirori Mal College,B.Com.,43,29,16,8,10,0,0,5,5,5,Bcom,No,No
+688,Kirori Mal College,B.Com. (Hons.),43,29,16,8,10,0,0,5,5,5,BcomH,No,No
+689,Kirori Mal College,B.Sc. (Hons.) Botany,19,14,7,4,5,0,0,2,2,2,BScBot,No,No
+690,Kirori Mal College,B.Sc. (Hons.) Chemistry,58,39,22,11,14,0,0,7,7,7,BScChem,No,No
+691,Kirori Mal College,B.Sc. (Hons.) Mathematics,33,23,13,6,8,0,0,4,4,4,BScMath,No,No
+692,Kirori Mal College,B.Sc. (Hons.) Physics,58,39,22,11,14,0,0,7,7,7,BScPhy,No,No
+693,Kirori Mal College,B.Sc. (Hons.) Statistics,19,,7,4,5,0,0,2,2,2,BScStat,No,No
+694,Kirori Mal College,B.Sc. (Hons.) Zoology,19,14,7,4,5,0,0,2,2,2,BScZoo,No,No
+695,Kirori Mal College,B.Sc. (Prog.) Applied Physics with Applied Chemistry,16,11,6,3,3,0,0,2,2,2,BScProgAPSAC,No,No
+696,Kirori Mal College,B.Sc. (Prog.) Life Science,17,12,6,4,4,0,0,2,2,2,BScProgLS,No,No
+697,Kirori Mal College,B.Sc. (Prog.) Physical Science with Chemistry,58,39,22,11,14,0,0,7,7,7,BScPSwChem,No,No
+698,Kirori Mal College,B.Sc. (Prog.) Physical Science with Computer Science/Informatics Practices,16,11,6,3,3,0,0,2,2,2,BScPSwCSIP,No,No
+699,Lady Irwin College(W),B.Sc. (Hons.) Food Technology,16,11,6,3,4,0,0,2,2,2,BScFood,Yes,No
+700,Lady Irwin College(W),B.Sc. (Hons.) Home Science,51,34,19,10,13,0,0,6,6,6,BScHome,Yes,No
+701,Lady Irwin College(W),B.Sc. (Pass) Home Science,111,75,42,21,28,0,0,14,14,14,BScPHome,Yes,No
+702,Lady Shri Ram College for Women (W),B.A. (Hons.) Economics,43,29,16,8,11,0,0,5,5,5,BAEcon,Yes,No
+703,Lady Shri Ram College for Women (W),B.A. (Hons.) English,43,29,16,8,11,0,0,5,5,5,BAEn,Yes,No
+704,Lady Shri Ram College for Women (W),B.A. (Hons.) Hindi,16,10,6,3,4,0,0,2,2,2,BAHi,Yes,No
+705,Lady Shri Ram College for Women (W),B.A. (Hons.) History,43,29,16,8,11,0,0,5,5,5,BAHist,Yes,No
+706,Lady Shri Ram College for Women (W),B.A. (Hons.) Journalism,12,8,4,2,3,0,0,1,1,1,BAJo,Yes,No
+707,Lady Shri Ram College for Women (W),B.A. (Hons.) Psychology,25,17,9,5,6,0,0,3,3,3,BAPsy,Yes,No
+708,Lady Shri Ram College for Women (W),B.A. (Hons.) Sanskrit,12,8,4,2,3,0,0,1,1,1,BASa,Yes,No
+709,Lady Shri Ram College for Women (W),B.A Program (Computer Applications + Economics),4,2,1,1,1,0,0,1,0,0,BAP,Yes,No
+710,Lady Shri Ram College for Women (W),B.A Program (Computer Applications + Mathematics),3,2,1,1,1,0,0,1,0,0,BAP,Yes,No
+711,Lady Shri Ram College for Women (W),B.A Program (Economics + History),3,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+712,Lady Shri Ram College for Women (W),B.A Program (Economics + Mathematics),4,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+713,Lady Shri Ram College for Women (W),B.A Program (Economics + Political Science),3,2,1,1,1,0,0,0,1,0,BAP,Yes,No
+714,Lady Shri Ram College for Women (W),B.A Program (History + Political Science),6,3,2,1,1,0,0,1,1,1,BAP,Yes,No
+715,Lady Shri Ram College for Women (W),B.A Program (History + Sociology),4,2,1,1,1,0,0,1,1,0,BAP,Yes,No
+716,Lady Shri Ram College for Women (W),B.A Program (Political Science + Psychology),3,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+717,Lady Shri Ram College for Women (W),B.A Program (Psychology + Sociology),4,2,1,1,1,0,0,0,1,0,BAP,Yes,No
+718,Lady Shri Ram College for Women (W),B.Sc. (Hons.) Statistics,16,,6,3,4,0,0,2,2,2,BScStat,Yes,No
+719,Lady Shri Ram College for Women (W),B.A. (Hons.) Philosophy,20,13,7,4,5,0,0,2,2,2,BAPhil,Yes,No
+720,Lady Shri Ram College for Women (W),B.A. (Hons.) Political Science,43,29,16,8,11,0,0,5,5,5,BAPS,Yes,No
+721,Lady Shri Ram College for Women (W),B.A. (Hons.) Sociology,16,10,6,3,4,0,0,2,2,2,BASo,Yes,No
+722,Lady Shri Ram College for Women (W),B.Com. (Hons.),27,18,10,5,7,0,0,3,3,3,BcomH,Yes,No
+723,Lady Shri Ram College for Women (W),B.Sc. (Hons.) Mathematics,23,16,9,4,6,0,0,3,3,3,BScMath,Yes,No
+724,Lady Shri Ram College for Women (W),Bachelor of Elementary Education (B. El. Ed),25,17,9,5,7,0,0,3,3,3,BElEd,Yes,No
+725,Lakshmibai College (W),"B.A Program (Advertising, Sales Promotion and Sales Management (ASPSM) + Economics)",17,11,6,3,5,0,0,2,2,2,BAP,Yes,No
+726,Lakshmibai College (W),"B.A Program (Advertising, Sales Promotion and Sales Management (ASPSM) + Psychology)",10,7,4,2,2,0,0,1,1,1,BAP,Yes,No
+727,Lakshmibai College (W),B.A Program (Apparel Design & Construction + Philosophy),10,7,4,2,2,0,0,1,1,1,BAP,Yes,No
+728,Lakshmibai College (W),B.A Program (Computer Applications + Economics),12,8,5,2,3,0,0,2,2,2,BAP,Yes,No
+729,Lakshmibai College (W),B.A Program (Computer Applications + Mathematics),10,7,4,2,2,0,0,1,1,1,BAP,Yes,No
+730,Lakshmibai College (W),B.A Program (English + Economics),18,12,7,3,5,0,0,2,2,2,BAP,Yes,No
+731,Lakshmibai College (W),B.A Program (Food Technology (FT) + Political Science),10,7,4,2,2,0,0,1,1,1,BAP,Yes,No
+732,Lakshmibai College (W),B.A Program (Hindi + History),15,10,5,2,5,0,0,2,2,2,BAP,Yes,No
+733,Lakshmibai College (W),B.A Program (History + Music),10,7,4,2,2,0,0,1,1,1,BAP,Yes,No
+734,Lakshmibai College (W),B.A Program (History + Political Science),31,20,11,6,8,0,0,5,5,5,BAP,Yes,No
+735,Lakshmibai College (W),B.A Program (Philosophy + Political Science),28,19,10,5,7,0,0,4,4,4,BAP,Yes,No
+736,Lakshmibai College (W),B.A Program (Philosophy + Sociology),13,8,4,3,4,0,0,2,2,2,BAP,Yes,No
+737,Lakshmibai College (W),B.A Program (Physical Education + Psychology),10,7,4,2,2,0,0,1,1,1,BAP,Yes,No
+738,Lakshmibai College (W),B.A Program (Punjabi + Political Science),10,7,4,2,2,0,0,1,1,1,BAP,Yes,No
+739,Lakshmibai College (W),B.A Program (Sanskrit + Sociology),10,7,4,2,2,0,0,1,1,1,BAP,Yes,No
+740,Lakshmibai College (W),B.A. (Hons.) Business Economics,15,10,6,3,4,0,0,2,2,2,BABE,Yes,No
+741,Lakshmibai College (W),B.A. (Hons.) Economics,23,16,9,4,6,0,0,3,3,3,BAEcon,Yes,No
+742,Lakshmibai College (W),B.A. (Hons.) English,23,16,9,4,6,0,0,3,3,3,BAEn,Yes,No
+743,Lakshmibai College (W),B.A. (Hons.) Hindi,23,16,9,4,6,0,0,3,3,3,BAHi,Yes,No
+744,Lakshmibai College (W),B.A. (Hons.) History,23,16,9,4,6,0,0,3,3,3,BAHist,Yes,No
+745,Lakshmibai College (W),B.A. (Hons.) Philosophy,23,16,9,4,6,0,0,3,3,3,BAPhil,Yes,No
+746,Lakshmibai College (W),B.A. (Hons.) Political Science,46,31,17,9,12,0,0,6,6,6,BAPS,Yes,No
+747,Lakshmibai College (W),B.A. (Hons.) Psychology,23,16,9,4,6,0,0,3,3,3,BAPsy,Yes,No
+748,Lakshmibai College (W),B.A. (Hons.) Sanskrit,23,16,9,4,6,0,0,3,3,3,BASa,Yes,No
+749,Lakshmibai College (W),B.A. (Hons.) Sociology,23,16,9,4,6,0,0,3,3,3,BASo,Yes,No
+750,Lakshmibai College (W),B.Com.,94,62,35,17,23,0,0,12,12,12,Bcom,Yes,No
+751,Lakshmibai College (W),B.Com. (Hons.),46,31,17,9,12,0,0,6,6,6,BcomH,Yes,No
+752,Lakshmibai College (W),B.Sc. (Hons.) Home Science,16,11,6,3,4,0,0,2,2,2,BScHome,Yes,No
+753,Lakshmibai College (W),B.Sc. (Hons.) Mathematics,23,16,9,4,6,0,0,3,3,3,BScMath,Yes,No
+754,Maharaja Agrasen College,B.A Program (Computer Applications + Economics),5,3,2,1,1,0,0,1,0,1,BAP,No,No
+755,Maharaja Agrasen College,B.A Program (Computer Applications + Mathematics),4,4,1,1,2,0,0,1,0,1,BAP,No,No
+756,Maharaja Agrasen College,B.A Program (Computer Applications + History),5,3,2,1,1,0,0,0,1,1,BAP,No,No
+757,Maharaja Agrasen College,B.A Program (Computer Applications + Political Science),5,3,2,1,1,0,0,0,1,1,BAP,No,No
+758,Maharaja Agrasen College,B.A Program (Economics + OMSP),4,4,1,1,2,0,0,1,0,1,BAP,No,No
+759,Maharaja Agrasen College,B.A Program (English + Economics),5,3,2,1,1,0,0,1,1,0,BAP,No,No
+760,Maharaja Agrasen College,B.A Program (English + History),5,3,2,1,1,0,0,0,1,1,BAP,No,No
+761,Maharaja Agrasen College,B.A Program (English + Mathematics),5,3,2,1,1,0,0,1,0,1,BAP,No,No
+762,Maharaja Agrasen College,B.A Program (English + Political Science),5,3,2,1,1,0,0,0,1,1,BAP,No,No
+763,Maharaja Agrasen College,B.A Program (Hindi + Economics),5,3,2,1,1,0,0,1,1,0,BAP,No,No
+764,Maharaja Agrasen College,B.A Program (Hindi + History),5,3,2,1,1,0,0,1,1,0,BAP,No,No
+765,Maharaja Agrasen College,B.A Program (Hindi + Mathematics),5,4,1,1,2,0,0,1,0,0,BAP,No,No
+766,Maharaja Agrasen College,B.A Program (Hindi + Political Science),5,3,2,1,1,0,0,1,1,0,BAP,No,No
+767,Maharaja Agrasen College,B.A Program (History + OMSP),5,3,2,1,1,0,0,0,1,0,BAP,No,No
+768,Maharaja Agrasen College,B.A Program (Mathematics + OMSP),4,4,2,0,2,0,0,1,0,1,BAP,No,No
+769,Maharaja Agrasen College,B.A Program (Office Management & Secretarial Practice (OMSP) + Political Science),5,3,2,1,1,0,0,0,1,1,BAP,No,No
+770,Maharaja Agrasen College,B.A. (Hons.) Business Economics,23,16,9,4,6,0,0,3,3,3,BABE,No,No
+771,Maharaja Agrasen College,B.A. (Hons.) English,23,16,9,4,6,0,0,3,3,3,BAEn,No,No
+772,Maharaja Agrasen College,B.A. (Hons.) Hindi,23,16,9,4,6,0,0,3,3,3,BAHi,No,No
+773,Maharaja Agrasen College,B.A. (Hons.) Journalism,23,16,9,4,6,0,0,3,3,3,BAJo,No,No
+774,Maharaja Agrasen College,B.A. (Hons.) Political Science,23,16,9,4,6,0,0,3,3,3,BAPS,No,No
+775,Maharaja Agrasen College,B.Com. (Hons.),77,52,29,15,20,0,0,10,10,10,BcomH,No,No
+776,Maharaja Agrasen College,B.Sc. (Hons.) Electronics,23,16,9,4,6,0,0,3,3,3,BScElec,No,No
+777,Maharaja Agrasen College,B.Sc. (Prog.) Mathematical Science,27,19,10,5,7,0,0,3,3,3,BScProgMS,No,No
+778,Maharaja Agrasen College,B.Sc. (Prog.) Physical Science with Chemistry,8,5,3,2,2,0,0,1,1,1,BScPSwChem,No,No
+779,Maharaja Agrasen College,B.Sc. (Prog.) Physical Science with Computer Science/Informatics Practices,19,13,7,4,5,0,0,2,2,2,BScPSwCSIP,No,No
+780,Maitreyi College (W),B.A Program (Computer Applications + Economics),8,5,3,1,3,0,0,1,1,1,BAP,Yes,No
+781,Maitreyi College (W),B.A Program (Computer Applications + Mathematics),6,4,2,1,2,0,0,1,0,1,BAP,Yes,No
+782,Maitreyi College (W),B.A Program (Economics + Mathematics),4,3,1,1,1,0,0,1,1,1,BAP,Yes,No
+783,Maitreyi College (W),B.A Program (English + Economics),10,7,4,2,2,0,0,0,1,1,BAP,Yes,No
+784,Maitreyi College (W),B.A Program (English + Sociology),11,7,4,2,2,0,0,1,1,1,BAP,Yes,No
+785,Maitreyi College (W),B.A Program (Hindi + History),6,4,2,1,1,0,0,1,1,0,BAP,Yes,No
+786,Maitreyi College (W),B.A Program (Hindi + Political Science),11,7,4,2,2,0,0,1,1,0,BAP,Yes,No
+787,Maitreyi College (W),B.A Program (History + Political Science),13,9,5,2,4,0,0,0,1,1,BAP,Yes,No
+788,Maitreyi College (W),B.A Program (Political Science + Sociology),12,8,4,2,4,0,0,1,1,1,BAP,Yes,No
+789,Maitreyi College (W),B.A Program (Punjabi + History),3,2,1,1,1,0,0,1,0,1,BAP,Yes,No
+790,Maitreyi College (W),B.A Program (Punjabi + Political Science),3,2,1,1,1,0,0,1,1,1,BAP,Yes,No
+791,Maitreyi College (W),B.A Program (Sanskrit + History),2,1,1,0,1,0,0,1,1,1,BAP,Yes,No
+792,Maitreyi College (W),B.A Program (Sanskrit + Political Science),4,3,2,1,1,0,0,1,1,1,BAP,Yes,No
+793,Maitreyi College (W),B.A. (Hons.) Economics,23,15,9,4,6,0,0,3,3,3,BAEcon,Yes,No
+794,Maitreyi College (W),B.A. (Hons.) English,23,15,9,4,6,0,0,3,3,3,BAEn,Yes,No
+795,Maitreyi College (W),B.A. (Hons.) Hindi,23,15,9,4,6,0,0,3,3,3,BAHi,Yes,No
+796,Maitreyi College (W),B.A. (Hons.) History,23,15,9,4,6,0,0,3,3,3,BAHist,Yes,No
+797,Maitreyi College (W),B.A. (Hons.) Political Science,47,31,17,9,11,0,0,6,6,6,BAPS,Yes,No
+798,Maitreyi College (W),B.A. (Hons.) Sanskrit,16,11,6,3,3,0,0,2,2,2,BASa,Yes,No
+799,Maitreyi College (W),B.A. (Hons.) Sociology,23,15,9,4,6,0,0,3,3,3,BASo,Yes,No
+800,Maitreyi College (W),B.Com.,47,31,17,9,11,0,0,5,5,5,Bcom,Yes,No
+801,Maitreyi College (W),B.Com. (Hons.),31,21,11,6,9,0,0,4,4,4,BcomH,Yes,No
+802,Maitreyi College (W),B.Sc. (Hons.) Botany,16,11,6,3,3,0,0,2,2,2,BScBot,Yes,No
+803,Maitreyi College (W),B.Sc. (Hons.) Chemistry,16,11,6,3,3,0,0,2,2,2,BScChem,Yes,No
+804,Maitreyi College (W),B.Sc. (Hons.) Mathematics,20,13,7,4,5,0,0,2,2,2,BScMath,Yes,No
+805,Maitreyi College (W),B.Sc. (Hons.) Physics,16,11,6,3,3,0,0,2,2,2,BScPhy,Yes,No
+806,Maitreyi College (W),B.Sc. (Hons.) Zoology,16,11,6,3,3,0,0,2,2,2,BScZoo,Yes,No
+807,Maitreyi College (W),B.Sc. (Prog.) Life Science,47,31,17,9,13,0,0,6,6,6,BScProgLS,Yes,No
+808,Maitreyi College (W),B.Sc. (Prog.) Physical Science with Chemistry,16,11,6,3,3,0,0,2,2,2,BScPSwChem,Yes,No
+809,Maitreyi College (W),B.Sc. (Prog.) Physical Science with Computer Science/Informatics Practices,15,11,6,3,4,0,0,2,2,2,BScPSwCSIP,Yes,No
+810,Mata Sundri College for Women (W),B.A. (Hons.) English,30,0,0,0,0,30,0,3,3,3,BAEn,Yes,No
+811,Mata Sundri College for Women (W),B.A. (Hons.) Hindi,58,0,0,0,0,58,0,6,6,6,BAHi,Yes,No
+812,Mata Sundri College for Women (W),B.A. (Hons.) History,30,0,0,0,0,30,0,3,3,3,BAHist,Yes,No
+813,Mata Sundri College for Women (W),B.A. (Hons.) Psychology,52,0,0,0,0,53,0,6,6,6,BAPsy,Yes,No
+814,Mata Sundri College for Women (W),B.A. (Hons.) Punjabi,15,0,0,0,0,15,0,2,2,2,BAPu,Yes,No
+815,Mata Sundri College for Women (W),B.A. (Hons.) Sanskrit,12,0,0,0,0,12,0,2,2,2,BASa,Yes,No
+816,Mata Sundri College for Women (W),B.A Program (Economics + History),6,0,0,0,0,6,0,1,1,1,BAP,Yes,No
+817,Mata Sundri College for Women (W),B.A Program (Economics + Mathematics),10,0,0,0,0,10,0,1,1,1,BAP,Yes,No
+818,Mata Sundri College for Women (W),B.A Program (Economics + Political Science),13,0,0,0,0,13,0,2,2,2,BAP,Yes,No
+819,Mata Sundri College for Women (W),B.A Program (Economics + Psychology),7,0,0,0,0,7,0,1,1,1,BAP,Yes,No
+820,Mata Sundri College for Women (W),B.A Program (English + OMSP),10,0,0,0,0,10,0,1,1,1,BAP,Yes,No
+821,Mata Sundri College for Women (W),B.A Program (Enterpreneurship and Small Bussiness (ESB) + Computer Application),6,0,0,0,0,6,0,1,1,1,BAP,Yes,No
+822,Mata Sundri College for Women (W),B.A Program (Enterpreneurship and Small Bussiness (ESB) + Economics),12,0,0,0,0,12,0,2,2,2,BAP,Yes,No
+823,Mata Sundri College for Women (W),B.A Program (History + English),5,0,0,0,0,5,0,1,1,1,BAP,Yes,No
+824,Mata Sundri College for Women (W),B.A Program (History + Political Science),17,0,0,0,0,17,0,2,2,2,BAP,Yes,No
+825,Mata Sundri College for Women (W),B.A Program (Mathematics + Computer Applications),5,0,0,0,0,5,0,1,1,1,BAP,Yes,No
+826,Mata Sundri College for Women (W),B.A Program (Music + Political Science),5,0,0,0,0,5,0,1,1,1,BAP,Yes,No
+827,Mata Sundri College for Women (W),B.A Program (Philosophy + Political Science),9,0,0,0,0,9,0,1,1,1,BAP,Yes,No
+828,Mata Sundri College for Women (W),B.A Program (Philosophy + Psychology),7,0,0,0,0,7,0,1,1,1,BAP,Yes,No
+829,Mata Sundri College for Women (W),B.A Program (Political Science + English),4,0,0,0,0,4,0,1,1,1,BAP,Yes,No
+830,Mata Sundri College for Women (W),B.A Program (Punjabi + Political Science),10,0,0,0,0,10,0,1,1,1,BAP,Yes,No
+831,Mata Sundri College for Women (W),B.A. (Hons.) Philosophy,22,0,0,0,0,22,0,3,3,3,BAPhil,Yes,No
+832,Mata Sundri College for Women (W),B.A. (Hons.) Political Science,60,0,0,0,0,60,0,6,6,6,BAPS,Yes,No
+833,Mata Sundri College for Women (W),B.Com.,60,0,0,0,0,60,0,6,6,6,Bcom,Yes,No
+834,Mata Sundri College for Women (W),B.Com. (Hons.),90,0,0,0,0,90,0,9,9,9,BcomH,Yes,No
+835,Mata Sundri College for Women (W),B.Sc. (Hons.) Computer Science,23,0,0,0,0,23,0,3,3,3,BScCS,Yes,No
+836,Mata Sundri College for Women (W),B.Sc. (Hons.) Mathematics,30,0,0,0,0,30,0,3,3,3,BScMath,Yes,No
+837,Mata Sundri College for Women (W),B.Sc. (Hons.) Statistics,23,,0,0,0,23,0,3,3,3,BScStat,Yes,No
+838,Mata Sundri College for Women (W),Bachelor of Elementary Education (B. El. Ed),27,0,0,0,0,27,0,3,3,3,BElEd,Yes,No
+839,Miranda House (W),B.A Program (Bengali + Geography),2,1,0,0,0,0,0,0,0,0,BAP,Yes,No
+840,Miranda House (W),B.A Program (Bengali + Political Science),2,1,0,0,0,0,0,0,0,0,BAP,Yes,No
+841,Miranda House (W),B.A Program (Economics + Geography),4,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+842,Miranda House (W),B.A Program (Economics + History),4,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+843,Miranda House (W),B.A Program (Economics + Mathematics),5,4,2,1,1,0,0,1,1,1,BAP,Yes,No
+844,Miranda House (W),B.A Program (Economics + Political Science),7,5,3,1,2,0,0,1,1,1,BAP,Yes,No
+845,Miranda House (W),B.A Program (English + Economics),2,2,1,0,1,0,0,0,0,0,BAP,Yes,No
+846,Miranda House (W),B.A Program (English + History),2,2,1,0,1,0,0,0,0,0,BAP,Yes,No
+847,Miranda House (W),B.A Program (English + Philosophy),2,1,1,0,0,0,0,0,0,0,BAP,Yes,No
+848,Miranda House (W),B.A Program (English + Political Science),2,2,1,0,1,0,0,0,0,0,BAP,Yes,No
+849,Miranda House (W),B.A Program (Geography + English),1,1,0,0,0,0,0,0,0,0,BAP,Yes,No
+850,Miranda House (W),B.A Program (Geography + History),7,5,3,1,2,0,0,1,1,1,BAP,Yes,No
+851,Miranda House (W),B.A Program (Geography + Mathematics),2,1,0,0,0,0,0,0,0,0,BAP,Yes,No
+852,Miranda House (W),B.A Program (Geography + Political Science),3,3,2,1,1,0,0,1,1,1,BAP,Yes,No
+853,Miranda House (W),B.A Program (Geography + Sociology),2,1,1,0,1,0,0,0,0,0,BAP,Yes,No
+854,Miranda House (W),B.A Program (Hindi + History),2,2,1,0,1,0,0,0,0,0,BAP,Yes,No
+855,Miranda House (W),B.A Program (Hindi + Political Science),2,2,1,0,1,0,0,0,0,0,BAP,Yes,No
+856,Miranda House (W),B.A Program (History + Philosophy),2,2,1,0,1,0,0,0,0,0,BAP,Yes,No
+857,Miranda House (W),B.A Program (History + Physical Education),4,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+858,Miranda House (W),B.A Program (History + Political Science),14,9,5,2,3,0,0,2,2,2,BAP,Yes,No
+859,Miranda House (W),B.A Program (History + Sociology),2,2,1,0,1,0,0,0,0,0,BAP,Yes,No
+860,Miranda House (W),B.A Program (Philosophy + Political Science),3,3,2,1,1,0,0,1,1,1,BAP,Yes,No
+861,Miranda House (W),B.A Program (Physical Education + Political Science),3,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+862,Miranda House (W),B.A Program (Political Science + Sociology),2,1,1,0,1,0,0,0,0,0,BAP,Yes,No
+863,Miranda House (W),B.A Program (Punjabi + History),2,1,1,0,1,0,0,0,0,0,BAP,Yes,No
+864,Miranda House (W),B.A Program (Sanskrit + Geography),2,1,0,0,0,0,0,0,0,0,BAP,Yes,No
+865,Miranda House (W),B.A Program (Sanskrit + History),2,1,0,0,0,0,0,0,0,0,BAP,Yes,No
+866,Miranda House (W),B.A Program (Sanskrit + Political Science),4,3,2,1,1,0,0,1,1,1,BAP,Yes,No
+867,Miranda House (W),B.A Program (Tamil + Political Science),2,1,1,0,1,0,0,0,0,0,BAP,Yes,No
+868,Miranda House (W),B.A. (Hons.) - Hindustani Music: Percussion (Tabla/Pakhawaj),2,1,1,0,1,0,0,0,0,0,BAH-P,Yes,No
+869,Miranda House (W),B.A. (Hons.) - Hindustani Music: Vocal/Instrumental (Star/Sarod/Guitar/Violin/Santoor),5,3,2,0,1,0,0,1,1,1,BAH-V,Yes,No
+870,Miranda House (W),B.A. (Hons.) - Karnataka Music: Vocal / Instrumental (Veena/Violin),1,1,0,1,0,0,0,0,0,0,BAH-KM,Yes,No
+871,Miranda House (W),B.A. (Hons.) Bengali,3,3,2,1,1,0,0,0,0,0,BABg,Yes,No
+872,Miranda House (W),B.A. (Hons.) Economics,31,21,12,6,8,0,0,4,4,4,BAEcon,Yes,No
+873,Miranda House (W),B.A. (Hons.) English,31,21,12,6,8,0,0,4,4,4,BAEn,Yes,No
+874,Miranda House (W),B.A. (Hons.) Geography,23,16,9,4,6,0,0,3,3,3,BAGeo,Yes,No
+875,Miranda House (W),B.A. (Hons.) Hindi,31,21,12,6,8,0,0,4,4,4,BAHi,Yes,No
+876,Miranda House (W),B.A. (Hons.) History,23,16,9,4,6,0,0,3,3,3,BAHist,Yes,No
+877,Miranda House (W),B.A. (Hons.) Philosophy,23,16,9,4,6,0,0,3,3,3,BAPhil,Yes,No
+878,Miranda House (W),B.A. (Hons.) Political Science,28,18,10,5,7,0,0,3,3,3,BAPS,Yes,No
+879,Miranda House (W),B.A. (Hons.) Sanskrit,15,11,6,3,4,0,0,2,2,2,BASa,Yes,No
+880,Miranda House (W),B.A. (Hons.) Sociology,26,18,10,5,6,0,0,3,3,3,BASo,Yes,No
+881,Miranda House (W),B.Sc. (Hons.) Botany,15,11,6,3,4,0,0,2,2,2,BScBot,Yes,No
+882,Miranda House (W),B.Sc. (Hons.) Chemistry,31,21,12,6,8,0,0,4,4,4,BScChem,Yes,No
+883,Miranda House (W),B.Sc. (Hons.) Mathematics,35,24,13,7,9,0,0,4,4,4,BScMath,Yes,No
+884,Miranda House (W),B.Sc. (Hons.) Physics,35,23,13,6,9,0,0,4,4,4,BScPhy,Yes,No
+885,Miranda House (W),B.Sc. (Hons.) Zoology,15,11,6,3,4,0,0,2,2,2,BScZoo,Yes,No
+886,Miranda House (W),B.Sc. (Prog.) Life Science,18,12,7,3,4,0,0,2,2,2,BScProgLS,Yes,No
+887,Miranda House (W),B.Sc. (Prog.) Physical Science with Computer Science/Informatics Practices,18,12,6,3,4,0,0,2,2,2,BScPSwCSIP,Yes,No
+888,Miranda House (W),Bachelor of Elementary Education (B. El. Ed),25,17,9,5,7,0,0,3,3,3,BElEd,Yes,No
+889,Motilal Nehru College,B.A Program (Economics + History),19,12,7,3,4,0,0,2,2,1,BAP,No,No
+890,Motilal Nehru College,B.A Program (Economics + Mathematics),14,10,5,2,2,0,0,2,1,1,BAP,No,No
+891,Motilal Nehru College,B.A Program (Economics + Political Science),19,12,7,3,4,0,0,2,2,1,BAP,No,No
+892,Motilal Nehru College,B.A Program (English + Economics),4,3,2,1,1,0,0,1,1,0,BAP,No,No
+893,Motilal Nehru College,B.A Program (English + History),4,3,2,1,2,0,0,1,1,0,BAP,No,No
+894,Motilal Nehru College,B.A Program (English + Mathematics),4,3,2,1,1,0,0,0,0,0,BAP,No,No
+895,Motilal Nehru College,B.A Program (English + Political Science),4,3,2,1,2,0,0,1,1,0,BAP,No,No
+896,Motilal Nehru College,B.A Program (Hindi + History),9,6,3,2,3,0,0,1,1,1,BAP,No,No
+897,Motilal Nehru College,B.A Program (Hindi + Political Science),9,6,3,2,3,0,0,1,1,1,BAP,No,No
+898,Motilal Nehru College,B.A Program (History + Political Science),36,23,13,6,7,0,0,4,4,2,BAP,No,No
+899,Motilal Nehru College,B.A Program (Sanskrit + History),9,6,3,2,3,0,0,1,1,1,BAP,No,No
+900,Motilal Nehru College,B.A Program (Sanskrit + Political Science),9,6,3,2,3,0,0,1,1,1,BAP,No,No
+901,Motilal Nehru College,B.A. (Hons.) Economics,16,10,6,3,4,0,0,2,2,1,BAEcon,No,No
+902,Motilal Nehru College,B.A. (Hons.) English,16,10,6,3,4,0,0,2,2,1,BAEn,No,No
+903,Motilal Nehru College,B.A. (Hons.) Hindi,16,10,6,3,4,0,0,2,2,1,BAHi,No,No
+904,Motilal Nehru College,B.A. (Hons.) History,16,10,6,3,4,0,0,2,2,1,BAHist,No,No
+905,Motilal Nehru College,B.A. (Hons.) Political Science,16,10,6,3,4,0,0,2,2,1,BAPS,No,No
+906,Motilal Nehru College,B.A. (Hons.) Sanskrit,23,16,9,4,6,0,0,3,3,2,BASa,No,No
+907,Motilal Nehru College,B.Com.,93,63,35,17,23,0,0,11,12,8,Bcom,No,No
+908,Motilal Nehru College,B.Com. (Hons.),78,52,29,14,20,0,0,10,10,6,BcomH,No,No
+909,Motilal Nehru College,B.Sc. (Hons.) Chemistry,16,10,6,3,4,0,0,2,2,1,BScChem,No,No
+910,Motilal Nehru College,B.Sc. (Hons.) Mathematics,31,22,11,6,8,0,0,4,4,2,BScMath,No,No
+911,Motilal Nehru College,B.Sc. (Hons.) Physics,31,22,11,6,8,0,0,4,4,2,BScPhy,No,No
+912,Motilal Nehru College,B.Sc. (Prog.) Physical Science with Chemistry,31,22,11,6,8,0,0,4,4,2,BScPSwChem,No,No
+913,Motilal Nehru College,B.Sc. (Prog.) Physical Science with Computer Science/Informatics Practices,16,10,6,3,4,0,0,2,2,1,BScPSwCSIP,No,No
+914,Motilal Nehru College (Evening),B.A Program (Economics + Mathematics),7,5,3,1,2,0,0,1,1,1,BAP,No,Yes
+915,Motilal Nehru College (Evening),B.A Program (Economics + Political Science),20,14,8,4,5,0,0,3,3,3,BAP,No,Yes
+916,Motilal Nehru College (Evening),B.A Program (English + Economics),20,14,8,4,5,0,0,3,3,3,BAP,No,Yes
+917,Motilal Nehru College (Evening),B.A Program (English + History),12,8,5,2,3,0,0,2,2,2,BAP,No,Yes
+918,Motilal Nehru College (Evening),B.A Program (English + Mathematics),6,5,3,1,2,0,0,1,1,1,BAP,No,Yes
+919,Motilal Nehru College (Evening),B.A Program (English + Political Science),33,21,11,7,7,0,0,3,3,3,BAP,No,Yes
+920,Motilal Nehru College (Evening),B.A Program (Hindi + History),6,4,2,1,2,0,0,1,1,1,BAP,No,Yes
+921,Motilal Nehru College (Evening),B.A Program (Hindi + Physical Education),6,4,2,1,2,0,0,1,1,1,BAP,No,Yes
+922,Motilal Nehru College (Evening),B.A Program (Hindi + Political Science),6,4,2,1,2,0,0,1,1,1,BAP,No,Yes
+923,Motilal Nehru College (Evening),B.A Program (History + Economics),11,4,3,2,1,0,0,0,0,0,BAP,No,Yes
+924,Motilal Nehru College (Evening),B.A Program (History + Political Science),43,29,16,9,9,0,0,5,5,5,BAP,No,Yes
+925,Motilal Nehru College (Evening),B.A Program (Physical Education + Political Science),4,4,2,0,2,0,0,0,0,0,BAP,No,Yes
+926,Motilal Nehru College (Evening),B.A Program (Sanskrit + History),6,4,2,1,2,0,0,1,1,1,BAP,No,Yes
+927,Motilal Nehru College (Evening),B.A Program (Sanskrit + Political Science),6,4,2,1,2,0,0,1,1,1,BAP,No,Yes
+928,Motilal Nehru College (Evening),B.A. (Hons.) Political Science,24,16,9,4,6,0,0,3,3,3,BAPS,No,Yes
+929,Motilal Nehru College (Evening),B.Com.,46,31,17,9,12,0,0,6,6,6,Bcom,No,Yes
+930,Motilal Nehru College (Evening),B.Com. (Hons.),31,21,12,6,8,0,0,4,4,4,BcomH,No,Yes
+931,Motilal Nehru College (Evening),B.A. (Hons.) English,16,11,6,3,4,0,0,2,2,2,BAEn,No,Yes
+932,Motilal Nehru College (Evening),B.A. (Hons.) Hindi,16,11,6,3,4,0,0,2,2,2,BAHi,No,Yes
+933,Motilal Nehru College (Evening),B.A. (Hons.) History,24,16,9,4,6,0,0,3,3,3,BAHist,No,Yes
+934,P.G.D.A.V. College,B.A Program (Accounting and Finance + Economics),6,4,2,1,1,0,0,1,1,1,BAP,No,No
+935,P.G.D.A.V. College,B.A Program (Computer Applications + Economics),4,2,2,0,1,0,0,0,0,0,BAP,No,No
+936,P.G.D.A.V. College,B.A Program (Computer Applications + Mathematics),4,2,2,0,1,0,0,1,0,1,BAP,No,No
+937,P.G.D.A.V. College,B.A Program (Economics + Entrepreneurship and Small Business (ESB)),6,4,2,1,1,0,0,1,1,1,BAP,No,No
+938,P.G.D.A.V. College,B.A Program (Economics + Mathematics),4,3,1,0,1,0,0,0,0,0,BAP,No,No
+939,P.G.D.A.V. College,B.A Program (Economics + Political Science),8,5,3,2,2,0,0,1,1,1,BAP,No,No
+940,P.G.D.A.V. College,B.A Program (English + History),4,2,1,1,1,0,0,0,1,0,BAP,No,No
+941,P.G.D.A.V. College,B.A Program (English + Political Science),6,4,2,1,1,0,0,1,1,1,BAP,No,No
+942,P.G.D.A.V. College,B.A Program (Hindi + History),4,2,1,1,1,0,0,0,1,0,BAP,No,No
+943,P.G.D.A.V. College,B.A Program (Hindi + Political Science),3,3,1,1,1,0,0,0,1,0,BAP,No,No
+944,P.G.D.A.V. College,B.A Program (History + Political Science),30,21,12,6,8,0,0,4,4,4,BAP,No,No
+945,P.G.D.A.V. College,B.A Program (Physical Education + Political Science),6,4,2,1,2,0,0,1,1,1,BAP,No,No
+946,P.G.D.A.V. College,B.A Program (Sanskrit + History),3,2,2,1,1,0,0,1,0,1,BAP,No,No
+947,P.G.D.A.V. College,B.A Program (Sanskrit + Political Science),6,4,2,1,1,0,0,1,1,1,BAP,No,No
+948,P.G.D.A.V. College (Evening),B.A Program (Commerce + Economics),16,11,6,3,4,0,0,2,2,2,BAP,No,Yes
+949,P.G.D.A.V. College (Evening),B.A Program (Economics + History),13,8,4,2,3,0,0,1,1,1,BAP,No,Yes
+950,P.G.D.A.V. College (Evening),B.A Program (Economics + Mathematics),10,7,3,2,3,0,0,1,1,1,BAP,No,Yes
+951,P.G.D.A.V. College (Evening),B.A Program (Economics + Political Science),16,11,6,3,4,0,0,2,2,2,BAP,No,Yes
+952,P.G.D.A.V. College (Evening),B.A Program (English + Economics),6,4,2,1,2,0,0,1,1,1,BAP,No,Yes
+953,P.G.D.A.V. College (Evening),B.A Program (English + History),9,7,4,2,3,0,0,1,1,1,BAP,No,Yes
+954,P.G.D.A.V. College (Evening),B.A Program (English + Mathematics),5,3,2,1,1,0,0,1,1,1,BAP,No,Yes
+955,P.G.D.A.V. College (Evening),B.A Program (English + Political Science),9,7,4,2,3,0,0,1,1,1,BAP,No,Yes
+956,P.G.D.A.V. College (Evening),B.A Program (Hindi + History),8,5,3,2,2,0,0,1,1,1,BAP,No,Yes
+957,P.G.D.A.V. College (Evening),B.A Program (Hindi + Political Science),8,5,3,2,2,0,0,1,1,1,BAP,No,Yes
+958,P.G.D.A.V. College (Evening),B.A Program (History + Political Science),28,17,9,5,6,0,0,3,3,3,BAP,No,Yes
+959,P.G.D.A.V. College (Evening),B.A Program (Physical Education + History),6,4,2,1,2,0,0,1,1,1,BAP,No,Yes
+960,P.G.D.A.V. College (Evening),B.A Program (Physical Education + Political Science),6,4,2,1,2,0,0,1,1,1,BAP,No,Yes
+961,P.G.D.A.V. College,B.A. (Hons.) Economics,20,13,7,4,5,0,0,2,2,2,BAEcon,No,No
+962,P.G.D.A.V. College,B.A. (Hons.) English,31,21,12,6,8,0,0,4,4,4,BAEn,No,No
+963,P.G.D.A.V. College,B.A. (Hons.) Hindi,31,21,12,6,8,0,0,4,4,4,BAHi,No,No
+964,P.G.D.A.V. College,B.A. (Hons.) History,20,13,7,4,5,0,0,2,3,3,BAHist,No,No
+965,P.G.D.A.V. College,B.A. (Hons.) Political Science,31,21,12,6,8,0,0,4,4,4,BAPS,No,No
+966,P.G.D.A.V. College,B.A. (Hons.) Sanskrit,20,13,7,4,5,0,0,2,2,2,BASa,No,No
+967,P.G.D.A.V. College,B.Com.,140,94,52,26,34,0,0,17,17,17,Bcom,No,No
+968,P.G.D.A.V. College,B.Com. (Hons.),94,62,35,17,23,0,0,12,12,12,BcomH,No,No
+969,P.G.D.A.V. College,B.Sc. (Hons.) Mathematics,20,13,7,4,5,0,0,2,2,2,BScMath,No,No
+970,P.G.D.A.V. College (Evening),B.A. (Hons.) Hindi,16,10,6,3,4,0,0,2,2,2,BAHi,No,Yes
+971,P.G.D.A.V. College (Evening),B.A. (Hons.) Political Science,23,15,8,4,6,0,0,3,3,3,BAPS,No,Yes
+972,P.G.D.A.V. College (Evening),B.A. (Hons.) Sanskrit,23,16,9,4,6,0,0,3,3,3,BASa,No,Yes
+973,P.G.D.A.V. College (Evening),B.Com.,94,62,35,17,23,0,0,11,11,11,Bcom,No,Yes
+974,P.G.D.A.V. College (Evening),B.Com. (Hons.),39,26,15,7,10,0,0,5,5,5,BcomH,No,Yes
+975,P.G.D.A.V. College (Evening),B.Sc. (Hons.) Mathematics,16,10,6,3,4,0,0,2,2,2,BScMath,No,Yes
+976,P.G.D.A.V. College,B.Sc. (Hons.) Computer Science,23,16,9,4,6,0,0,3,3,3,BScCS,No,No
+977,P.G.D.A.V. College,B.Sc. (Hons.) Statistics,20,,7,4,5,0,0,2,2,2,BScStat,No,No
+978,P.G.D.A.V. College,B.Sc. (Prog.) Mathematical Science,23,15,9,4,6,0,0,3,3,3,BScProgMS,No,No
+979,Rajdhani College,B.A Program (Economics + History),9,6,3,1,2,0,0,1,1,1,BAP,No,No
+980,Rajdhani College,B.A Program (Economics + Mathematics),13,8,4,2,3,0,0,1,1,1,BAP,No,No
+981,Rajdhani College,B.A Program (Economics + Political Science),9,5,3,2,2,0,0,1,1,1,BAP,No,No
+982,Rajdhani College,B.A Program (English + History),4,3,2,1,1,0,0,1,1,1,BAP,No,No
+983,Rajdhani College,B.A Program (English + Linguistics),9,6,3,1,2,0,0,1,1,1,BAP,No,No
+984,Rajdhani College,B.A Program (Hindi + History),4,2,1,1,1,0,0,0,0,0,BAP,No,No
+985,Rajdhani College,B.A Program (Hindi + Political Science),8,6,3,1,3,0,0,1,1,1,BAP,No,No
+986,Rajdhani College,B.A Program (History + Political Science),18,12,7,3,4,0,0,2,2,2,BAP,No,No
+987,Rajdhani College,B.A Program (Linguistics + Political Science),9,5,3,2,2,0,0,1,1,1,BAP,No,No
+988,Rajdhani College,B.A Program (Sanskrit + History),8,6,3,2,2,0,0,1,1,1,BAP,No,No
+989,Rajdhani College,B.A Program (Sanskrit + Political Science),4,3,2,1,1,0,0,1,1,1,BAP,No,No
+990,Rajdhani College,B.A. (Hons.) Economics,24,15,8,4,6,0,0,3,3,3,BAEcon,No,No
+991,Rajdhani College,B.A. (Hons.) English,24,15,8,4,6,0,0,3,3,3,BAEn,No,No
+992,Rajdhani College,B.A. (Hons.) Hindi,24,15,8,4,6,0,0,3,3,3,BAHi,No,No
+993,Rajdhani College,B.A. (Hons.) History,24,15,8,4,6,0,0,3,3,3,BAHist,No,No
+994,Rajdhani College,B.A. (Hons.) Political Science,24,15,8,4,6,0,0,3,3,3,BAPS,No,No
+995,Rajdhani College,B.A. (Hons.) Sanskrit,23,15,9,4,6,0,0,3,3,3,BASa,No,No
+996,Rajdhani College,B.Com. (Hons.),62,42,23,12,15,0,0,7,7,7,BcomH,No,No
+997,Rajdhani College,B.Sc. (Hons.) Chemistry,31,21,12,6,8,0,0,4,4,3,BScChem,No,No
+998,Rajdhani College,B.Sc. (Hons.) Electronics,16,11,6,3,3,0,0,2,2,2,BScElec,No,No
+999,Rajdhani College,B.Sc. (Hons.) Mathematics,31,21,12,6,8,0,0,4,4,4,BScMath,No,No
+1000,Rajdhani College,B.Sc. (Hons.) Physics,31,21,12,6,8,0,0,4,4,4,BScPhy,No,No
+1001,Rajdhani College,B.Sc. (Prog.) Applied Physics with Industrial Chemistry,16,11,6,3,3,0,0,2,2,2,BScProgAPSI,No,No
+1002,Rajdhani College,B.Sc. (Prog.) Physical Science with Chemistry,23,16,9,4,6,0,0,2,3,3,BScPSwChem,No,No
+1003,Rajdhani College,B.Sc. (Prog.) Physical Science with Computer Science/Informatics Practices,23,16,9,4,6,0,0,3,2,3,BScPSwCSIP,No,No
+1004,Rajdhani College,B.Sc. (Prog.) Physical Science with Electronics,16,11,6,3,3,0,0,2,2,2,BScPSwElec,No,No
+1005,Ram Lal Anand College,B.A Program (Computer Applications + Economics),10,7,4,2,2,0,0,1,1,1,BAP,No,No
+1006,Ram Lal Anand College,B.A Program (Economics + Mathematics),10,6,4,2,3,0,0,1,1,1,BAP,No,No
+1007,Ram Lal Anand College,B.A Program (History + Political Science),19,13,7,3,5,0,0,3,3,3,BAP,No,No
+1008,Ram Lal Anand College,B.A. (Hons.) English,31,21,12,6,8,0,0,4,4,4,BAEn,No,No
+1009,Ram Lal Anand College,B.A. (Hons.) Hindi,31,21,12,6,8,0,0,4,4,4,BAHi,No,No
+1010,Ram Lal Anand College,B.A. (Hons.) Hindi Patrakarita,10,7,4,2,3,0,0,1,1,1,BAHP,No,No
+1011,Ram Lal Anand College,B.A. (Hons.) History,31,21,12,6,8,0,0,4,4,4,BAHist,No,No
+1012,Ram Lal Anand College,B.A. (Hons.) Political Science,31,21,12,6,8,0,0,4,4,4,BAPS,No,No
+1013,Ram Lal Anand College,B.Com.,39,26,15,7,10,0,0,5,5,5,Bcom,No,No
+1014,Ram Lal Anand College,B.Com. (Hons.),31,21,12,6,8,0,0,4,4,4,BcomH,No,No
+1015,Ram Lal Anand College,B.Sc. (Hons.) Computer Science,16,11,6,3,4,0,0,2,2,2,BScCS,No,No
+1016,Ram Lal Anand College,B.Sc. (Hons.) Geology,16,11,6,3,4,0,0,2,2,2,BScGeo,No,No
+1017,Ram Lal Anand College,B.Sc. (Hons.) Mathematics,23,16,9,4,6,0,0,3,3,3,BScMath,No,No
+1018,Ram Lal Anand College,B.Sc. (Hons.) Microbiology,16,11,6,3,4,0,0,2,2,2,BScMicro,No,No
+1019,Ram Lal Anand College,B.Sc. (Hons.) Statistics,16,,6,3,4,0,0,2,2,2,BScStat,No,No
+1020,Ram Lal Anand College,Bachelor of Management Studies (BMS),23,16,9,4,6,0,0,3,3,3,BMS,No,No
+1021,Ramanujan College,B.A Program (Accounting and Finance + Economics),4,3,2,0,2,0,0,1,1,1,BAP,No,No
+1022,Ramanujan College,B.A Program (Accounting and Finance + Mathematics),4,3,2,0,1,0,0,1,1,1,BAP,No,No
+1023,Ramanujan College,B.A Program (Economics + Entrepreneurship and Small Business (ESB)),4,3,1,1,1,0,0,1,1,1,BAP,No,No
+1024,Ramanujan College,B.A Program (Economics + Psychology),4,2,2,1,1,0,0,1,1,1,BAP,No,No
+1025,Ramanujan College,B.A Program (Entrepreneurship and Small Business (ESB)+ Mathematics),4,3,1,1,1,,,1,1,1,BAP,No,No
+1026,Ramanujan College,B.A Program (Hindi + History),4,3,1,1,1,0,0,1,1,0,BAP,No,No
+1027,Ramanujan College,B.A Program (Hindi + Political Science),4,3,1,1,1,0,0,1,1,1,BAP,No,No
+1028,Ramanujan College,B.A Program (History + Philosophy),8,5,4,1,2,0,0,1,1,1,BAP,No,No
+1029,Ramanujan College,B.A Program (History + Political Science),4,2,2,1,1,0,0,1,1,1,BAP,No,No
+1030,Ramanujan College,B.A Program (Philosophy + Political Science),4,3,1,1,1,0,0,1,1,1,BAP,No,No
+1031,Ramanujan College,B.A Program (Political Science + Psychology),6,3,3,1,2,0,0,1,1,1,BAP,No,No
+1032,Ramanujan College,B.A. (Hons.) Applied Psychology,23,16,9,4,6,0,0,3,2,3,BAAPsy,No,No
+1033,Ramanujan College,B.A. (Hons.) Economics,23,16,9,4,6,0,0,3,2,3,BAEcon,No,No
+1034,Ramanujan College,B.A. (Hons.) English,25,17,9,5,7,0,0,3,3,3,BAEn,No,No
+1035,Ramanujan College,B.A. (Hons.) Hindi,25,17,9,5,7,0,0,3,3,3,BAHi,No,No
+1036,Ramanujan College,B.A. (Hons.) Philosophy,23,16,9,4,6,0,0,3,2,3,BAPhil,No,No
+1037,Ramanujan College,B.A. (Hons.) Political Science,25,17,9,5,7,0,0,3,3,3,BAPS,No,No
+1038,Ramanujan College,B.Com.,50,34,19,9,13,0,0,6,6,6,Bcom,No,No
+1039,Ramanujan College,B.Com. (Hons.),76,51,28,14,19,0,0,9,9,9,BcomH,No,No
+1040,Ramanujan College,B.Sc. (Hons.) Computer Science,23,16,9,4,6,0,0,3,2,3,BScCS,No,No
+1041,Ramanujan College,B.Sc. (Hons.) Environmental Science,16,11,6,3,4,0,0,2,2,2,BScEnv,No,No
+1042,Ramanujan College,B.Sc. (Hons.) Mathematics,23,16,9,4,6,0,0,3,2,3,BScMath,No,No
+1043,Ramanujan College,B.Sc. (Hons.) Statistics,23,,9,4,6,0,0,3,2,3,BScStat,No,No
+1044,Ramanujan College,B.Voc. Banking Operations,25,17,9,5,7,0,0,3,3,3,BVocBankOps,No,No
+1045,Ramanujan College,B.Voc. Software Development,25,17,9,5,7,0,0,3,3,3,BVocSWD,No,No
+1046,Ramanujan College,Bachelor of Management Studies (BMS),23,16,9,4,6,0,0,3,2,3,BMS,No,No
+1047,Ramjas College,B.A Program (Any two discipline from these (English/Hindi/History/Pol. Science/Economics/Mathematics)),36,25,14,7,9,0,0,4,4,4,BAP,No,No
+1048,Ramjas College,B.A Program (Philosophy + Any one out of these (English/Hindi/History/Pol. Science/Economics/Mathematics/Sanskrit)),13,9,5,2,3,0,0,2,2,2,BAP,No,No
+1049,Ramjas College,B.A Program (Sanskrit + Any one out of these (English/Hindi/History/Pol. Science/Economics/Mathematics/Philosophy)),7,4,2,1,2,0,0,1,1,1,BAP,No,No
+1050,Ramjas College,B.A. (Hons.) - Hindustani Music: Percussion (Tabla/Pakhawaj),6,3,1,1,1,0,0,0,0,0,BAH-P,No,No
+1051,Ramjas College,B.A. (Hons.) - Hindustani Music: Vocal/Instrumental (Star/Sarod/Guitar/Violin/Santoor),8,6,4,2,3,0,0,-,-,-,BAH-V,No,No
+1052,Ramjas College,B.A. (Hons.) - Karnataka Music: Vocal / Instrumental (Veena/Violin),2,1,1,0,0,0,0,0,0,0,BAH-KM,No,No
+1053,Ramjas College,B.A. (Hons.) Economics,31,21,12,6,8,0,0,4,4,4,BAEcon,No,No
+1054,Ramjas College,B.A. (Hons.) English,31,21,12,6,8,0,0,4,4,4,BAEn,No,No
+1055,Ramjas College,B.A. (Hons.) Hindi,31,21,12,6,8,0,0,4,4,4,BAHi,No,No
+1056,Ramjas College,B.A. (Hons.) History,31,21,12,6,8,0,0,4,4,4,BAHist,No,No
+1057,Ramjas College,B.A. (Hons.) Political Science,31,21,12,6,8,0,0,4,4,4,BAPS,No,No
+1058,Ramjas College,B.A. (Hons.) Sanskrit,12,8,5,2,4,0,0,2,2,2,BASa,No,No
+1059,Ramjas College,B.Com.,37,25,14,7,10,0,0,5,5,5,Bcom,No,No
+1060,Ramjas College,B.Com. (Hons.),50,34,19,9,12,0,0,6,6,6,BcomH,No,No
+1061,Ramjas College,B.Sc. (Hons.) Botany,23,16,9,4,6,0,0,3,3,3,BScBot,No,No
+1062,Ramjas College,B.Sc. (Hons.) Chemistry,47,31,17,9,11,0,0,6,6,6,BScChem,No,No
+1063,Ramjas College,B.Sc. (Hons.) Mathematics,31,21,12,6,8,0,0,4,4,4,BScMath,No,No
+1064,Ramjas College,B.Sc. (Hons.) Physics,47,31,17,9,11,0,0,6,6,6,BScPhy,No,No
+1065,Ramjas College,B.Sc. (Hons.) Statistics,23,,9,4,6,0,0,3,3,3,BScStat,No,No
+1066,Ramjas College,B.Sc. (Hons.) Zoology,23,16,9,4,6,0,0,3,3,3,BScZoo,No,No
+1067,Ramjas College,B.Sc. (Prog.) Life Science,58,39,22,11,14,0,0,7,7,7,BScProgLS,No,No
+1068,Ramjas College,B.Sc. (Prog.) Physical Science with Chemistry,63,42,23,12,16,0,0,7,7,7,BScPSwChem,No,No
+1069,Ramjas College,B.Sc. (Prog.) Physical Science with Electronics,30,21,12,5,7,0,0,5,5,5,BScPSwElec,No,No
+1070,Satyawati College,B.A Program (Economics + History),11,6,3,2,2,0,0,1,1,0,BAP,No,No
+1071,Satyawati College,B.A Program (Economics + Mathematics),11,6,3,2,2,0,0,1,1,0,BAP,No,No
+1072,Satyawati College,B.A Program (Economics + OMSP),11,6,3,2,2,0,0,2,1,0,BAP,No,No
+1073,Satyawati College,B.A Program (Economics + Political Science),11,6,3,2,2,0,0,1,1,0,BAP,No,No
+1074,Satyawati College,B.A Program (English + Economics),11,6,3,2,2,0,0,1,1,0,BAP,No,No
+1075,Satyawati College,B.A Program (English + History),11,6,3,2,2,0,0,1,1,0,BAP,No,No
+1076,Satyawati College,B.A Program (English + Political Science),11,6,3,2,2,0,0,1,1,0,BAP,No,No
+1077,Satyawati College,B.A Program (Hindi + History),11,6,3,2,2,0,0,1,1,0,BAP,No,No
+1078,Satyawati College,B.A Program (Hindi + Political Science),11,6,3,2,2,0,0,1,1,0,BAP,No,No
+1079,Satyawati College,B.A Program (History + Mathematics),11,6,3,2,2,0,0,2,1,0,BAP,No,No
+1080,Satyawati College,B.A Program (History + Political Science),19,11,6,3,4,0,0,1,2,0,BAP,No,No
+1081,Satyawati College,B.A Program (Mathematics + OMSP),11,6,3,2,2,0,0,2,1,0,BAP,No,No
+1082,Satyawati College,B.A Program (Mathematics + Political Science),11,6,3,2,2,0,0,2,1,0,BAP,No,No
+1083,Satyawati College,B.A Program (Sanskrit + History),9,5,2,1,2,0,0,1,1,0,BAP,No,No
+1084,Satyawati College,B.A Program (Sanskrit + Political Science),9,5,2,1,2,0,0,1,1,0,BAP,No,No
+1085,Satyawati College,B.A. (Hons.) Economics,31,21,12,6,8,0,0,4,4,0,BAEcon,No,No
+1086,Satyawati College,B.A. (Hons.) English,23,16,9,4,6,0,0,3,4,0,BAEn,No,No
+1087,Satyawati College,B.A. (Hons.) Hindi,23,16,9,4,6,0,0,3,3,0,BAHi,No,No
+1088,Satyawati College,B.A. (Hons.) History,43,29,16,8,12,0,0,5,5,0,BAHist,No,No
+1089,Satyawati College,B.A. (Hons.) Political Science,31,21,12,6,8,0,0,4,4,0,BAPS,No,No
+1090,Satyawati College,B.A. (Hons.) Sanskrit,23,16,9,4,6,0,0,3,3,0,BASa,No,No
+1091,Satyawati College,B.A. (Hons.) Urdu,23,16,9,4,6,0,0,3,3,0,BAUr,No,No
+1092,Satyawati College,B.Com.,78,52,29,14,20,0,0,10,10,0,Bcom,No,No
+1093,Satyawati College,B.Com. (Hons.),78,52,29,14,20,0,0,10,10,0,BcomH,No,No
+1094,Satyawati College,B.Sc. (Hons.) Mathematics,23,16,9,4,6,0,0,3,3,0,BScMath,No,No
+1095,Satyawati College (Evening),B.A Program (Accounting and Finance + Economics),10,6,4,2,3,0,0,0,0,0,BAP,No,Yes
+1096,Satyawati College (Evening),B.A Program (Buddhist Studies + Economics),4,4,2,1,1,0,0,0,0,0,BAP,No,Yes
+1097,Satyawati College (Evening),B.A Program (Buddhist Studies + Political Science),8,6,3,2,2,0,0,0,0,0,BAP,No,Yes
+1098,Satyawati College (Evening),B.A Program (Economics + History),24,14,7,3,6,0,0,0,0,0,BAP,No,Yes
+1099,Satyawati College (Evening),B.A Program (Economics + Mathematics),10,6,4,2,3,0,0,0,0,0,BAP,No,Yes
+1100,Satyawati College (Evening),B.A Program (Economics + OMSP),17,9,4,3,3,0,0,0,0,0,BAP,No,Yes
+1101,Satyawati College (Evening),B.A Program (Economics + Political Science),16,10,5,3,3,0,0,0,0,0,BAP,No,Yes
+1102,Satyawati College (Evening),B.A Program (English + Economics),4,3,2,1,1,0,0,0,0,0,BAP,No,Yes
+1103,Satyawati College (Evening),B.A Program (English + History),4,3,2,1,1,0,0,0,0,0,BAP,No,Yes
+1104,Satyawati College (Evening),B.A Program (English + Political Science),4,3,2,1,1,0,0,0,0,0,BAP,No,Yes
+1105,Satyawati College (Evening),B.A Program (Hindi + Buddhist Studies),4,3,2,1,1,0,0,0,0,0,BAP,No,Yes
+1106,Satyawati College (Evening),B.A Program (Hindi + History),4,3,2,1,1,0,0,0,0,0,BAP,No,Yes
+1107,Satyawati College (Evening),B.A Program (Hindi + Political Science),4,3,2,1,1,0,0,0,0,0,BAP,No,Yes
+1108,Satyawati College (Evening),B.A Program (History + Mathematics),4,4,2,1,1,0,0,0,0,0,BAP,No,Yes
+1109,Satyawati College (Evening),B.A Program (Political Science + History),24,14,7,3,6,0,0,0,0,0,BAP,No,Yes
+1110,Satyawati College (Evening),B.A Program (Political Science + Mathematics),4,4,2,1,1,0,0,0,0,0,BAP,No,Yes
+1111,Satyawati College (Evening),B.A. (Hons.) Economics,24,16,9,4,5,0,0,0,0,0,BAEcon,No,Yes
+1112,Satyawati College (Evening),B.A. (Hons.) English,24,16,9,4,5,0,0,0,0,0,BAEn,No,Yes
+1113,Satyawati College (Evening),B.A. (Hons.) Hindi,24,16,9,4,5,0,0,0,0,0,BAHi,No,Yes
+1114,Satyawati College (Evening),B.A. (Hons.) History,24,16,9,4,5,0,0,0,0,0,BAHist,No,Yes
+1115,Satyawati College (Evening),B.A. (Hons.) Political Science,24,16,9,4,5,0,0,0,0,0,BAPS,No,Yes
+1116,Satyawati College (Evening),B.Com.,96,63,35,18,23,0,0,0,0,0,Bcom,No,Yes
+1117,Satyawati College (Evening),B.Com. (Hons.),63,41,23,13,15,0,0,0,0,0,BcomH,No,Yes
+1118,Shaheed Bhagat Singh College,B.A Program (Commerce + Economics),7,5,3,2,2,0,0,1,1,1,BAP,No,No
+1119,Shaheed Bhagat Singh College,B.A Program (Economics + Mathematics),7,5,3,2,2,0,0,1,1,1,BAP,No,No
+1120,Shaheed Bhagat Singh College,B.A Program (English + History),7,5,3,2,2,0,0,1,1,1,BAP,No,No
+1121,Shaheed Bhagat Singh College,B.A Program (Geography + Political Science),7,5,3,2,2,0,0,1,1,1,BAP,No,No
+1122,Shaheed Bhagat Singh College,B.A Program (Hindi + Geography),7,5,3,2,2,0,0,1,1,1,BAP,No,No
+1123,Shaheed Bhagat Singh College,B.A Program (History + Political Science),7,5,3,2,2,0,0,1,1,1,BAP,No,No
+1124,Shaheed Bhagat Singh College,B.A. (Hons.) Economics,24,16,9,4,5,0,0,3,3,3,BAEcon,No,No
+1125,Shaheed Bhagat Singh College,B.A. (Hons.) English,24,16,9,4,5,0,0,3,3,3,BAEn,No,No
+1126,Shaheed Bhagat Singh College,B.A. (Hons.) Geography,24,16,9,4,5,0,0,3,3,3,BAGeo,No,No
+1127,Shaheed Bhagat Singh College,B.A. (Hons.) Hindi,24,16,9,4,5,0,0,3,3,3,BAHi,No,No
+1128,Shaheed Bhagat Singh College,B.A. (Hons.) History,24,16,9,4,5,0,0,3,3,3,BAHist,No,No
+1129,Shaheed Bhagat Singh College,B.A. (Hons.) Political Science,24,16,9,4,5,0,0,3,3,3,BAPS,No,No
+1130,Shaheed Bhagat Singh College,B.Com.,78,51,28,14,21,0,0,10,10,10,Bcom,No,No
+1131,Shaheed Bhagat Singh College,B.Com. (Hons.),194,129,71,35,51,0,0,24,24,24,BcomH,No,No
+1132,Shaheed Bhagat Singh College,B.Sc. (Hons.) Mathematics,24,16,9,4,5,0,0,3,3,3,BScMath,No,No
+1133,Shaheed Bhagat Singh College (Evening),B.A. (Hons.) Geography,31,21,12,6,8,0,0,4,4,4,BAGeo,No,Yes
+1134,Shaheed Bhagat Singh College (Evening),B.A Program (Commerce + Economics),16,11,6,3,4,0,0,2,1,1,BAP,No,Yes
+1135,Shaheed Bhagat Singh College (Evening),B.A Program (Economics + Geography),13,8,4,2,3,0,0,1,1,1,BAP,No,Yes
+1136,Shaheed Bhagat Singh College (Evening),B.A Program (Economics + History),8,6,3,1,2,0,0,1,1,1,BAP,No,Yes
+1137,Shaheed Bhagat Singh College (Evening),B.A Program (Economics + Political Science),8,5,3,2,2,0,0,1,1,1,BAP,No,Yes
+1138,Shaheed Bhagat Singh College (Evening),B.A Program (Geography + History),13,8,4,2,3,0,0,1,1,1,BAP,No,Yes
+1139,Shaheed Bhagat Singh College (Evening),B.A Program (Geography + Political Science),13,8,4,2,3,0,0,2,2,2,BAP,No,Yes
+1140,Shaheed Bhagat Singh College (Evening),B.A Program (History + Political Science),24,16,10,4,6,0,0,3,3,3,BAP,No,Yes
+1141,Shaheed Bhagat Singh College (Evening),B.A. (Hons.) Political Science,31,21,12,6,8,0,0,4,4,4,BAPS,No,Yes
+1142,Shaheed Bhagat Singh College (Evening),B.Com.,187,125,69,35,46,0,0,23,23,23,Bcom,No,Yes
+1143,Shaheed Bhagat Singh College (Evening),B.Com. (Hons.),31,21,12,6,8,0,0,4,4,4,BcomH,No,Yes
+1144,Shaheed Rajguru College of Applied Sciences for Women (W),B.A. (Hons.) Psychology,23,16,9,4,6,0,0,3,3,2,BAPsy,Yes,No
+1145,Shaheed Rajguru College of Applied Sciences for Women (W),B.Sc. (Hons.) Biomedical Sciences,16,11,6,3,4,0,0,2,2,2,BScBioMed,Yes,No
+1146,Shaheed Rajguru College of Applied Sciences for Women (W),B.Sc. (Hons.) Food Technology,16,11,6,3,4,0,0,2,2,2,BScFood,Yes,No
+1147,Shaheed Rajguru College of Applied Sciences for Women (W),B.Sc. (Hons.) Instrumentation,16,11,6,3,4,0,0,2,2,2,BScInst,Yes,No
+1148,Shaheed Rajguru College of Applied Sciences for Women (W),B.Sc. (Hons.) Mathematics,23,16,9,4,6,0,0,3,3,2,BScMath,Yes,No
+1149,Shaheed Rajguru College of Applied Sciences for Women (W),Bachelor of Management Studies (BMS),23,16,9,4,6,0,0,3,3,2,BMS,Yes,No
+1150,Shaheed Rajguru College of Applied Sciences for Women (W),BBA FIA (Financial Investment Analysis),23,16,9,4,6,0,0,3,3,2,BBAFIA,Yes,No
+1151,Shaheed Rajguru College of Applied Sciences for Women (W),B.Sc. (Hons.) Biochemistry,16,11,6,3,4,0,0,2,2,2,BScBioChem,Yes,No
+1152,Shaheed Rajguru College of Applied Sciences for Women (W),B.Sc. (Hons.) Chemistry,16,11,6,3,4,0,0,2,2,2,BScChem,Yes,No
+1153,Shaheed Rajguru College of Applied Sciences for Women (W),B.Sc. (Hons.) Computer Science,23,16,9,4,6,0,0,3,3,2,BScCS,Yes,No
+1154,Shaheed Rajguru College of Applied Sciences for Women (W),B.Sc. (Hons.) Electronics,16,11,6,3,4,0,0,2,2,2,BScElec,Yes,No
+1155,Shaheed Rajguru College of Applied Sciences for Women (W),B.Sc. (Hons.) Microbiology,16,11,6,3,4,0,0,2,2,2,BScMicro,Yes,No
+1156,Shaheed Rajguru College of Applied Sciences for Women (W),B.Sc. (Hons.) Physics,23,16,9,4,6,0,0,3,3,2,BScPhy,Yes,No
+1157,Shaheed Rajguru College of Applied Sciences for Women (W),B.Sc. (Hons.) Statistics,23,,9,4,6,0,0,3,3,2,BScStat,Yes,No
+1158,Shaheed Sukhdev College Business Studies,B.Sc. (Hons.) Computer Science,23,15,9,4,6,0,0,3,3,3,BScCS,No,No
+1159,Shaheed Sukhdev College Business Studies,Bachelor of Management Studies (BMS),93,63,35,17,23,0,0,12,12,12,BMS,No,No
+1160,Shaheed Sukhdev College Business Studies,BBA FIA (Financial Investment Analysis),46,31,17,8,11,0,0,6,6,6,BBAFIA,No,No
+1161,Shivaji College,B.A Program (Economics + Geography),5,3,2,1,2,0,0,1,1,1,BAP,No,No
+1162,Shivaji College,B.A Program (Economics + Political Science),9,6,3,2,2,0,0,1,1,1,BAP,No,No
+1163,Shivaji College,B.A Program (English + Economics),9,6,3,2,2,0,0,1,1,1,BAP,No,No
+1164,Shivaji College,B.A Program (English + Sociology),8,5,3,1,2,0,0,1,1,1,BAP,No,No
+1165,Shivaji College,B.A Program (Geography + History),11,8,4,2,3,0,0,1,1,1,BAP,No,No
+1166,Shivaji College,B.A Program (Geography + Political Science),7,5,3,1,2,0,0,1,1,1,BAP,No,No
+1167,Shivaji College,B.A Program (Hindi + Geography),5,3,2,1,2,0,0,1,1,1,BAP,No,No
+1168,Shivaji College,B.A Program (Hindi + History),7,5,3,1,2,0,0,1,1,1,BAP,No,No
+1169,Shivaji College,B.A Program (Hindi + Political Science),5,3,2,1,2,0,0,1,1,1,BAP,No,No
+1170,Shivaji College,B.A Program (History + Political Science),27,19,10,5,4,0,0,3,3,3,BAP,No,No
+1171,Shivaji College,B.A. (Hons.) Business Economics,31,21,12,6,8,0,0,4,4,4,BABE,No,No
+1172,Shivaji College,B.A. (Hons.) Economics,23,15,9,4,6,0,0,3,3,3,BAEcon,No,No
+1173,Shivaji College,B.A. (Hons.) English,23,15,9,4,6,0,0,3,3,3,BAEn,No,No
+1174,Shivaji College,B.A. (Hons.) Geography,23,15,9,4,6,0,0,3,3,3,BAGeo,No,No
+1175,Shivaji College,B.A. (Hons.) Hindi,23,15,9,4,6,0,0,3,3,3,BAHi,No,No
+1176,Shivaji College,B.A. (Hons.) History,23,15,9,4,6,0,0,3,3,3,BAHist,No,No
+1177,Shivaji College,B.A. (Hons.) Political Science,23,15,9,4,6,0,0,3,3,3,BAPS,No,No
+1178,Shivaji College,B.A. (Hons.) Sanskrit,23,15,9,4,6,0,0,3,3,3,BASa,No,No
+1179,Shivaji College,B.Com.,46,31,17,9,12,0,0,6,6,6,Bcom,No,No
+1180,Shivaji College,B.Com. (Hons.),46,31,17,9,12,0,0,6,6,6,BcomH,No,No
+1181,Shivaji College,B.Sc. (Hons.) Biochemistry,16,10,6,3,4,0,0,2,2,2,BScBioChem,No,No
+1182,Shivaji College,B.Sc. (Hons.) Botany,16,10,6,3,4,0,0,2,2,2,BScBot,No,No
+1183,Shivaji College,B.Sc. (Hons.) Chemistry,16,10,6,3,4,0,0,2,2,2,BScChem,No,No
+1184,Shivaji College,B.Sc. (Hons.) Mathematics,46,31,17,9,12,0,0,6,6,6,BScMath,No,No
+1185,Shivaji College,B.Sc. (Hons.) Physics,31,21,12,6,8,0,0,4,4,4,BScPhy,No,No
+1186,Shivaji College,B.Sc. (Hons.) Zoology,16,10,6,3,4,0,0,2,2,2,BScZoo,No,No
+1187,Shivaji College,B.Sc. (Prog.) Life Science,46,31,17,9,12,0,0,6,6,6,BScProgLS,No,No
+1188,Shivaji College,B.Sc. (Prog.) Physical Science with Chemistry,16,10,6,3,4,0,0,2,2,2,BScPSwChem,No,No
+1189,Shivaji College,B.Sc. (Prog.) Physical Science with Computer Science/Informatics Practices,31,21,12,6,8,0,0,4,4,4,BScPSwCSIP,No,No
+1190,Shri Ram College of Commerce,B.A. (Hons.) Economics,63,42,23,12,15,0,0,8,8,8,BAEcon,No,No
+1191,Shri Ram College of Commerce,B.Com. (Hons.),253,169,94,47,63,0,0,31,31,31,BcomH,No,No
+1192,Shyam Lal College,B.A Program (Economics + OMSP),10,6,4,2,2,0,0,1,1,1,BAP,No,No
+1193,Shyam Lal College,B.A Program (Economics + Political Science),14,9,5,2,4,0,0,2,2,2,BAP,No,No
+1194,Shyam Lal College,B.A Program (English + Economics),10,7,4,2,2,0,0,1,1,1,BAP,No,No
+1195,Shyam Lal College,B.A Program (English + Political Science),10,7,4,2,2,0,0,1,1,1,BAP,No,No
+1196,Shyam Lal College,B.A Program (Hindi + History),10,7,4,2,2,0,0,1,1,1,BAP,No,No
+1197,Shyam Lal College,B.A Program (History + Political Science),24,16,9,4,7,0,0,3,3,3,BAP,No,No
+1198,Shyam Lal College,B.A. (Hons.) Economics,23,16,9,4,6,0,0,3,3,3,BAEcon,No,No
+1199,Shyam Lal College,B.A. (Hons.) English,23,16,9,4,6,0,0,3,3,3,BAEn,No,No
+1200,Shyam Lal College,B.A. (Hons.) Hindi,23,16,9,4,6,0,0,3,3,3,BAHi,No,No
+1201,Shyam Lal College,B.A. (Hons.) History,23,16,9,4,6,0,0,3,3,3,BAHist,No,No
+1202,Shyam Lal College,B.A. (Hons.) Political Science,23,16,9,4,6,0,0,3,3,3,BAPS,No,No
+1203,Shyam Lal College,B.Com.,78,52,29,14,20,0,0,10,10,10,Bcom,No,No
+1204,Shyam Lal College,B.Com. (Hons.),93,62,35,17,24,0,0,12,12,12,BcomH,No,No
+1205,Shyam Lal College,B.Sc. (Hons.) Chemistry,13,9,5,2,3,0,0,2,2,2,BScChem,No,No
+1206,Shyam Lal College,B.Sc. (Hons.) Mathematics,19,12,7,3,5,0,0,2,2,2,BScMath,No,No
+1207,Shyam Lal College,B.Sc. (Prog.) Physical Science with Chemistry,61,41,23,11,15,0,0,8,8,8,BScPSwChem,No,No
+1208,Shyam Lal College,B.Sc. (Prog.) Physical Science with Computer Science/Informatics Practices,28,19,10,5,7,0,0,3,3,3,BScPSwCSIP,No,No
+1209,Shyam Lal College,B.Sc. (Prog.) Physical Science with Electronics,28,19,10,5,7,0,0,3,3,3,BScPSwElec,No,No
+1210,Shyam Lal College (Evening),B.A Program (Computer Applications + Mathematics),7,5,3,1,2,0,0,1,1,1,BAP,No,Yes
+1211,Shyam Lal College (Evening),B.A Program (Computer Applications + Political Science),7,5,3,1,2,0,0,1,1,1,BAP,No,Yes
+1212,Shyam Lal College (Evening),B.A Program (Economics + Mathematics),7,5,3,1,2,0,0,1,1,1,BAP,No,Yes
+1213,Shyam Lal College (Evening),B.A Program (Economics + Political Science),7,5,3,1,2,0,0,1,1,1,BAP,No,Yes
+1214,Shyam Lal College (Evening),B.A Program (English + Computer Applications),7,5,3,1,2,0,0,1,1,1,BAP,No,Yes
+1215,Shyam Lal College (Evening),B.A Program (English + Economics),7,5,3,1,2,0,0,1,1,1,BAP,No,Yes
+1216,Shyam Lal College (Evening),B.A Program (English + History),9,6,3,2,2,0,0,1,1,1,BAP,No,Yes
+1217,Shyam Lal College (Evening),B.A Program (Hindi + Computer Applications),7,5,3,1,2,0,0,1,1,1,BAP,No,Yes
+1218,Shyam Lal College (Evening),B.A Program (Hindi + Economics),7,5,3,1,2,0,0,1,1,1,BAP,No,Yes
+1219,Shyam Lal College (Evening),B.A Program (Hindi + History),9,6,3,2,2,0,0,1,1,1,BAP,No,Yes
+1220,Shyam Lal College (Evening),B.A Program (History + Mathematics),5,3,2,1,1,0,0,0,0,0,BAP,No,Yes
+1221,Shyam Lal College (Evening),B.A Program (History + Political Science),15,10,6,3,4,0,0,2,2,2,BAP,No,Yes
+1222,Shyam Lal College (Evening),B.A. (Hons.) Economics,23,16,9,4,6,0,0,3,3,3,BAEcon,No,Yes
+1223,Shyam Lal College (Evening),B.A. (Hons.) Hindi,23,16,9,4,6,0,0,3,3,3,BAHi,No,Yes
+1224,Shyam Lal College (Evening),B.A. (Hons.) Political Science,23,16,9,4,6,0,0,3,3,3,BAPS,No,Yes
+1225,Shyam Lal College (Evening),B.Com.,94,62,35,17,23,0,0,12,12,12,Bcom,No,Yes
+1226,Shyam Lal College (Evening),B.Com. (Hons.),31,21,12,6,8,0,0,4,4,4,BcomH,No,Yes
+1227,Shyama Prasad Mukherji College For Women (W),B.A. (Hons.) Applied Psychology,20,13,7,4,5,0,0,3,3,3,BAAPsy,Yes,No
+1228,Shyama Prasad Mukherji College For Women (W),B.A. (Hons.) Economics,47,31,17,9,12,0,0,3,3,3,BAEcon,Yes,No
+1229,Shyama Prasad Mukherji College For Women (W),B.A. (Hons.) English,20,13,7,4,5,0,0,3,3,3,BAEn,Yes,No
+1230,Shyama Prasad Mukherji College For Women (W),B.A. (Hons.) Geography,23,16,9,4,6,0,0,3,3,3,BAGeo,Yes,No
+1231,Shyama Prasad Mukherji College For Women (W),B.A. (Hons.) Hindi,20,13,7,4,5,0,0,3,3,3,BAHi,Yes,No
+1232,Shyama Prasad Mukherji College For Women (W),B.A. (Hons.) History,20,13,7,4,5,0,0,3,3,3,BAHist,Yes,No
+1233,Shyama Prasad Mukherji College For Women (W),B.A. (Hons.) Sanskrit,20,13,7,4,5,0,0,3,3,3,BASa,Yes,No
+1234,Shyama Prasad Mukherji College For Women (W),B.A Program (Computer Applications + Economics),10,6,3,2,2,0,0,1,1,1,BAP,Yes,No
+1235,Shyama Prasad Mukherji College For Women (W),B.A Program (Computer Applications + Geography),4,3,2,1,1,0,0,0,0,0,BAP,Yes,No
+1236,Shyama Prasad Mukherji College For Women (W),B.A Program (Computer Applications + Mathematics),4,3,2,1,1,0,0,0,0,0,BAP,Yes,No
+1237,Shyama Prasad Mukherji College For Women (W),B.A Program (Economics + Food Technology),10,6,3,2,2,0,0,1,1,1,BAP,Yes,No
+1238,Shyama Prasad Mukherji College For Women (W),B.A Program (Economics + Geography),4,3,2,1,1,0,0,0,0,0,BAP,Yes,No
+1239,Shyama Prasad Mukherji College For Women (W),B.A Program (Economics + History),4,3,2,1,1,0,0,0,0,0,BAP,Yes,No
+1240,Shyama Prasad Mukherji College For Women (W),B.A Program (Economics + Mathematics),10,7,4,2,2,0,0,1,1,1,BAP,Yes,No
+1241,Shyama Prasad Mukherji College For Women (W),B.A Program (Economics + Philosophy),6,5,3,1,2,0,0,1,1,1,BAP,Yes,No
+1242,Shyama Prasad Mukherji College For Women (W),B.A Program (Economics + Political Science),10,6,3,2,2,0,0,1,1,1,BAP,Yes,No
+1243,Shyama Prasad Mukherji College For Women (W),B.A Program (Economics + Sociology),8,5,3,2,2,0,0,1,1,1,BAP,Yes,No
+1244,Shyama Prasad Mukherji College For Women (W),B.A Program (Food Technology (FT) + History),10,6,3,2,2,0,0,1,1,1,BAP,Yes,No
+1245,Shyama Prasad Mukherji College For Women (W),B.A Program (Geography + History),3,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+1246,Shyama Prasad Mukherji College For Women (W),B.A Program (Geography + Mathematics),3,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+1247,Shyama Prasad Mukherji College For Women (W),B.A Program (Geography + Political Science),4,3,2,1,1,0,0,0,0,0,BAP,Yes,No
+1248,Shyama Prasad Mukherji College For Women (W),B.A Program (Hindi + Geography),2,2,1,0,1,0,0,0,0,0,BAP,Yes,No
+1249,Shyama Prasad Mukherji College For Women (W),B.A Program (Hindi + History),6,4,2,1,1,0,0,1,1,1,BAP,Yes,No
+1250,Shyama Prasad Mukherji College For Women (W),B.A Program (Hindi + Philosophy),3,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+1251,Shyama Prasad Mukherji College For Women (W),B.A Program (Hindi + Political Science),10,6,3,2,2,0,0,1,1,1,BAP,Yes,No
+1252,Shyama Prasad Mukherji College For Women (W),B.A Program (Hindi + Sociology),3,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+1253,Shyama Prasad Mukherji College For Women (W),B.A Program (History + Music),6,4,2,1,2,0,0,1,1,1,BAP,Yes,No
+1254,Shyama Prasad Mukherji College For Women (W),B.A Program (History + Philosophy),4,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+1255,Shyama Prasad Mukherji College For Women (W),B.A Program (History + Political Science),14,10,5,3,4,0,0,2,2,2,BAP,Yes,No
+1256,Shyama Prasad Mukherji College For Women (W),B.A Program (History + Sociology),6,4,2,1,1,0,0,1,1,1,BAP,Yes,No
+1257,Shyama Prasad Mukherji College For Women (W),B.A Program (Human Development and Family Empowerment (HDFE) + Political Science),15,10,6,3,4,0,0,3,3,3,BAP,Yes,No
+1258,Shyama Prasad Mukherji College For Women (W),B.A Program (Human Development and Family Empowerment (HDFE) + Sociology),6,4,2,1,1,0,0,1,1,1,BAP,Yes,No
+1259,Shyama Prasad Mukherji College For Women (W),B.A Program (Music + Political Science),6,5,3,1,2,0,0,1,1,1,BAP,Yes,No
+1260,Shyama Prasad Mukherji College For Women (W),B.A Program (Philosophy + Political Science),6,4,2,1,1,0,0,1,1,1,BAP,Yes,No
+1261,Shyama Prasad Mukherji College For Women (W),B.A Program (Sanskrit + History),4,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+1262,Shyama Prasad Mukherji College For Women (W),B.A Program (Sanskrit + Music),3,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+1263,Shyama Prasad Mukherji College For Women (W),B.A Program (Sanskrit + Philosophy),3,2,1,1,1,0,0,0,0,0,BAP,Yes,No
+1264,Shyama Prasad Mukherji College For Women (W),B.A Program (Sanskrit + Political Science),6,4,2,1,1,0,0,1,1,1,BAP,Yes,No
+1265,Shyama Prasad Mukherji College For Women (W),B.A. (Hons.) Philosophy,20,13,7,4,5,0,0,3,3,3,BAPhil,Yes,No
+1266,Shyama Prasad Mukherji College For Women (W),B.A. (Hons.) Political Science,47,31,17,9,12,0,0,6,6,6,BAPS,Yes,No
+1267,Shyama Prasad Mukherji College For Women (W),B.Com.,61,40,22,11,15,0,0,7,7,7,Bcom,Yes,No
+1268,Shyama Prasad Mukherji College For Women (W),B.Com. (Hons.),47,31,17,9,12,0,0,6,6,6,BcomH,Yes,No
+1269,Shyama Prasad Mukherji College For Women (W),B.Sc. (Hons.) Computer Science,28,18,10,5,7,0,0,4,4,4,BScCS,Yes,No
+1270,Shyama Prasad Mukherji College For Women (W),B.Sc. (Hons.) Mathematics,20,13,7,4,5,0,0,3,3,3,BScMath,Yes,No
+1271,Shyama Prasad Mukherji College For Women (W),Bachelor of Elementary Education (B. El. Ed),25,17,9,5,7,0,0,3,3,3,BElEd,Yes,No
+1272,Sri Aurobindo College,B.A. (Hons.) English,23,16,9,4,6,0,0,3,3,1,BAEn,No,No
+1273,Sri Aurobindo College,B.A. (Hons.) Hindi,23,16,9,4,6,0,0,3,3,1,BAHi,No,No
+1274,Sri Aurobindo College,B.A. (Hons.) Political Science,31,21,12,5,8,0,0,4,4,2,BAPS,No,No
+1275,Sri Aurobindo College,B.Com.,140,94,52,26,35,0,0,17,17,7,Bcom,No,No
+1276,Sri Aurobindo College,B.Com. (Hons.),31,21,12,5,8,0,0,4,4,2,BcomH,No,No
+1277,Sri Aurobindo College,B.Sc. (Hons.) Electronics,16,11,6,3,4,0,0,2,2,1,BScElec,No,No
+1278,Sri Aurobindo College,B.Sc. (Prog.) Life Science,23,16,9,4,6,0,0,3,3,1,BScProgLS,No,No
+1279,Sri Aurobindo College,B.Sc. (Prog.) Physical Science with Chemistry,46,31,17,9,12,0,0,5,5,2,BScPSwChem,No,No
+1280,Sri Aurobindo College,B.A Program (Commerce + Economics),31,21,12,6,7,0,0,3,4,1,BAP,No,No
+1281,Sri Aurobindo College,B.A Program (Economics + History),17,12,7,2,6,0,0,2,2,1,BAP,No,No
+1282,Sri Aurobindo College,B.A Program (Economics + Political Science),31,21,12,6,7,0,0,3,4,2,BAP,No,No
+1283,Sri Aurobindo College,B.A Program (History + Political Science),62,42,22,12,16,0,0,6,6,3,BAP,No,No
+1284,Sri Aurobindo College,B.A Program (Sanskrit + Economics),4,3,2,1,1,0,0,1,1,1,BAP,No,No
+1285,Sri Aurobindo College,B.A Program (Sanskrit + History),4,3,2,1,1,0,0,1,1,1,BAP,No,No
+1286,Sri Aurobindo College,B.A Program (Sanskrit + Political Science),4,3,2,1,1,0,0,1,1,1,BAP,No,No
+1287,Sri Aurobindo College (Evening),B.A Program (Economics + History),9,7,3,1,2,0,0,1,0,0,BAP,No,Yes
+1288,Sri Aurobindo College (Evening),B.A Program (Economics + Music),1,1,1,1,1,0,0,0,0,0,BAP,No,Yes
+1289,Sri Aurobindo College (Evening),B.A Program (Economics + Physical Education),4,2,1,1,1,0,0,1,0,0,BAP,No,Yes
+1290,Sri Aurobindo College (Evening),B.A Program (Economics + Political Science),14,8,4,1,3,0,0,1,0,0,BAP,No,Yes
+1291,Sri Aurobindo College (Evening),B.A Program (Economics + Sanskrit),1,2,1,1,1,0,0,1,0,0,BAP,No,Yes
+1292,Sri Aurobindo College (Evening),B.A Program (English + History),9,7,3,1,2,0,0,1,0,0,BAP,No,Yes
+1293,Sri Aurobindo College (Evening),B.A Program (English + Music),2,1,1,1,1,0,0,0,0,0,BAP,No,Yes
+1294,Sri Aurobindo College (Evening),B.A Program (English + Physical Education),4,2,1,1,1,0,0,1,0,0,BAP,No,Yes
+1295,Sri Aurobindo College (Evening),B.A Program (English + Political Science),12,8,4,1,2,0,0,1,0,0,BAP,No,Yes
+1296,Sri Aurobindo College (Evening),B.A Program (English + Sanskrit),3,2,1,1,1,0,0,1,0,0,BAP,No,Yes
+1297,Sri Aurobindo College (Evening),B.A Program (Hindi + History),9,7,3,1,2,0,0,1,0,0,BAP,No,Yes
+1298,Sri Aurobindo College (Evening),B.A Program (Hindi + Music),1,1,1,1,1,0,0,0,0,0,BAP,No,Yes
+1299,Sri Aurobindo College (Evening),B.A Program (Hindi + Physical Education),4,2,1,1,1,0,0,1,0,0,BAP,No,Yes
+1300,Sri Aurobindo College (Evening),B.A Program (Hindi + Political Science),11,8,4,1,3,0,0,1,0,0,BAP,No,Yes
+1301,Sri Aurobindo College (Evening),B.A Program (Hindi + Sanskrit),4,2,1,1,1,0,0,1,0,0,BAP,No,Yes
+1302,Sri Aurobindo College (Evening),B.A Program (History + Music),2,1,1,1,1,0,0,0,0,0,BAP,No,Yes
+1303,Sri Aurobindo College (Evening),B.A Program (History + Physical Education),4,2,1,1,1,0,0,1,0,0,BAP,No,Yes
+1304,Sri Aurobindo College (Evening),B.A Program (History + Political Science),18,13,10,4,3,0,0,1,0,0,BAP,No,Yes
+1305,Sri Aurobindo College (Evening),B.A Program (History + Sanskrit),5,2,1,1,1,0,0,1,0,0,BAP,No,Yes
+1306,Sri Aurobindo College (Evening),B.A. (Hons.) Applied Psychology,24,15,9,4,6,0,0,2,3,0,BAAPsy,No,Yes
+1307,Sri Aurobindo College (Evening),B.A. (Hons.) Economics,24,15,9,4,6,0,0,2,3,0,BAEcon,No,Yes
+1308,Sri Aurobindo College (Evening),B.A. (Hons.) English,24,15,9,4,6,0,0,2,3,0,BAEn,No,Yes
+1309,Sri Aurobindo College (Evening),B.A. (Hons.) Hindi,24,15,9,4,6,0,0,2,3,0,BAHi,No,Yes
+1310,Sri Aurobindo College (Evening),B.Com.,117,78,43,22,29,0,0,11,4,0,Bcom,No,Yes
+1311,Sri Aurobindo College (Evening),B.Com. (Hons.),39,26,14,7,10,0,0,4,14,0,BcomH,No,Yes
+1312,Sri Guru Gobind Singh College of Commerce,B.A. (Hons.) Economics,40,0,0,0,0,40,0,4,4,4,BAEcon,No,No
+1313,Sri Guru Gobind Singh College of Commerce,B.A. (Hons.) Punjabi,23,0,0,0,0,23,0,2,2,2,BAPu,No,No
+1314,Sri Guru Gobind Singh College of Commerce,B.A. (Hons.) Business Economics,20,0,0,0,0,20,0,2,2,2,BABE,No,No
+1315,Sri Guru Gobind Singh College of Commerce,B.Com.,70,0,0,0,0,70,0,7,7,7,Bcom,No,No
+1316,Sri Guru Gobind Singh College of Commerce,B.Com. (Hons.),100,0,0,0,0,100,0,10,10,10,BcomH,No,No
+1317,Sri Guru Gobind Singh College of Commerce,B.Sc. (Hons.) Computer Science,23,0,0,0,0,23,0,2,2,2,BScCS,No,No
+1318,Sri Guru Gobind Singh College of Commerce,Bachelor of Management Studies (BMS),23,0,0,0,0,23,0,2,2,2,BMS,No,No
+1319,Sri Guru Nanak Dev Khalsa College,B.A. (Hons.) English,15,0,0,0,0,15,0,2,2,2,BAEn,No,No
+1320,Sri Guru Nanak Dev Khalsa College,B.A. (Hons.) Hindi,15,0,0,0,0,15,0,2,2,2,BAHi,No,No
+1321,Sri Guru Nanak Dev Khalsa College,B.A. (Hons.) Hindi Patrakarita,20,0,0,0,0,20,0,2,2,2,BAHP,No,No
+1322,Sri Guru Nanak Dev Khalsa College,B.A. (Hons.) History,15,0,0,0,0,15,0,2,2,2,BAHist,No,No
+1323,Sri Guru Nanak Dev Khalsa College,B.A. (Hons.) Punjabi,15,0,0,0,0,15,0,2,2,2,BAPu,No,No
+1324,Sri Guru Nanak Dev Khalsa College,B.A Program (Economics + History),5,0,0,0,0,5,0,1,1,1,BAP,No,No
+1325,Sri Guru Nanak Dev Khalsa College,B.A Program (Economics + Political Science),10,0,0,0,0,10,0,1,1,1,BAP,No,No
+1326,Sri Guru Nanak Dev Khalsa College,B.A Program (English + Economics),8,0,0,0,0,8,0,1,1,1,BAP,No,No
+1327,Sri Guru Nanak Dev Khalsa College,B.A Program (English + History),5,0,0,0,0,5,0,1,1,1,BAP,No,No
+1328,Sri Guru Nanak Dev Khalsa College,B.A Program (English + Political Science),5,0,0,0,0,5,0,1,1,1,BAP,No,No
+1329,Sri Guru Nanak Dev Khalsa College,B.A Program (History + Political Science),12,0,0,0,0,12,0,1,1,1,BAP,No,No
+1330,Sri Guru Nanak Dev Khalsa College,B.A Program (Punjabi + Economics),5,0,0,0,0,5,0,1,0,1,BAP,No,No
+1331,Sri Guru Nanak Dev Khalsa College,B.A Program (Punjabi + History),5,0,0,0,0,5,0,1,0,1,BAP,No,No
+1332,Sri Guru Nanak Dev Khalsa College,B.A Program (Punjabi + Political Science),5,0,0,0,0,5,0,1,0,1,BAP,No,No
+1333,Sri Guru Nanak Dev Khalsa College,B.A. (Hons.) Business Economics,20,0,0,0,0,20,0,2,2,2,BABE,No,No
+1334,Sri Guru Nanak Dev Khalsa College,B.A. (Hons.) Political Science,15,0,0,0,0,15,0,2,2,2,BAPS,No,No
+1335,Sri Guru Nanak Dev Khalsa College,B.Com.,90,0,0,0,0,90,0,9,9,9,Bcom,No,No
+1336,Sri Guru Nanak Dev Khalsa College,B.Com. (Hons.),40,0,0,0,0,40,0,4,4,4,BcomH,No,No
+1337,Sri Guru Nanak Dev Khalsa College,B.Sc. (Hons.) Mathematics,23,0,0,0,0,23,0,2,2,2,BScMath,No,No
+1338,Sri Guru Tegh Bahadur Khalsa College,B.A. (Hons.) Economics,20,0,0,0,0,20,0,2,2,2,BAEcon,No,No
+1339,Sri Guru Tegh Bahadur Khalsa College,B.A. (Hons.) English,20,0,0,0,0,20,0,2,2,2,BAEn,No,No
+1340,Sri Guru Tegh Bahadur Khalsa College,B.A. (Hons.) Hindi,20,0,0,0,0,20,0,2,2,2,BAHi,No,No
+1341,Sri Guru Tegh Bahadur Khalsa College,B.A. (Hons.) History,20,0,0,0,0,20,0,2,2,2,BAHist,No,No
+1342,Sri Guru Tegh Bahadur Khalsa College,B.A. (Hons.) Punjabi,20,0,0,0,0,20,0,2,2,2,BAPu,No,No
+1343,Sri Guru Tegh Bahadur Khalsa College,B.A Program (Economics + History),6,0,0,0,0,6,0,1,1,1,BAP,No,No
+1344,Sri Guru Tegh Bahadur Khalsa College,B.A Program (Economics + Mathematics),4,0,0,0,0,4,0,0,0,0,BAP,No,No
+1345,Sri Guru Tegh Bahadur Khalsa College,B.A Program (Economics + Music),1,0,0,0,0,1,0,0,0,0,BAP,No,No
+1346,Sri Guru Tegh Bahadur Khalsa College,B.A Program (Economics + Political Science),6,0,0,0,0,6,0,1,1,1,BAP,No,No
+1347,Sri Guru Tegh Bahadur Khalsa College,B.A Program (History + Music),2,0,0,0,0,2,0,0,0,0,BAP,No,No
+1348,Sri Guru Tegh Bahadur Khalsa College,B.A Program (History + Political Science),8,0,0,0,0,8,0,1,1,1,BAP,No,No
+1349,Sri Guru Tegh Bahadur Khalsa College,B.A Program (Mathematics + Music),1,0,0,0,0,1,0,0,0,0,BAP,No,No
+1350,Sri Guru Tegh Bahadur Khalsa College,B.A Program (Mathematics + Political Science),2,0,0,0,0,2,0,0,0,0,BAP,No,No
+1351,Sri Guru Tegh Bahadur Khalsa College,B.A. (Hons.) Business Economics,20,0,0,0,0,20,0,2,2,2,BABE,No,No
+1352,Sri Guru Tegh Bahadur Khalsa College,B.A. (Hons.) Political Science,20,0,0,0,0,20,0,2,2,2,BAPS,No,No
+1353,Sri Guru Tegh Bahadur Khalsa College,B.Com.,30,0,0,0,0,30,0,3,3,3,Bcom,No,No
+1354,Sri Guru Tegh Bahadur Khalsa College,B.Com. (Hons.),60,0,0,0,0,60,0,6,6,6,BcomH,No,No
+1355,Sri Guru Tegh Bahadur Khalsa College,B.Sc. (Hons.) Botany,20,0,0,0,0,20,0,2,2,2,BScBot,No,No
+1356,Sri Guru Tegh Bahadur Khalsa College,B.Sc. (Hons.) Chemistry,10,0,0,0,0,10,0,1,1,1,BScChem,No,No
+1357,Sri Guru Tegh Bahadur Khalsa College,B.Sc. (Hons.) Computer Science,23,0,0,0,0,23,0,2,2,2,BScCS,No,No
+1358,Sri Guru Tegh Bahadur Khalsa College,B.Sc. (Hons.) Electronics,10,0,0,0,0,10,0,1,1,1,BScElec,No,No
+1359,Sri Guru Tegh Bahadur Khalsa College,B.Sc. (Hons.) Mathematics,20,0,0,0,0,20,0,2,2,2,BScMath,No,No
+1360,Sri Guru Tegh Bahadur Khalsa College,B.Sc. (Hons.) Physics,20,0,0,0,0,20,0,2,2,2,BScPhy,No,No
+1361,Sri Guru Tegh Bahadur Khalsa College,B.Sc. (Hons.) Zoology,20,0,0,0,0,20,0,2,2,2,BScZoo,No,No
+1362,Sri Guru Tegh Bahadur Khalsa College,B.Sc. (Prog.) Life Science,20,0,0,0,0,20,0,2,2,2,BScProgLS,No,No
+1363,Sri Guru Tegh Bahadur Khalsa College,B.Sc. (Prog.) Physical Science with Chemistry,20,0,0,0,0,20,0,2,2,2,BScPSwChem,No,No
+1364,Sri Guru Tegh Bahadur Khalsa College,B.Sc. (Prog.) Physical Science with Computer Science/Informatics Practices,10,0,0,0,0,10,0,1,1,1,BScPSwCSIP,No,No
+1365,Sri Venketeswara College,B.A Program (Economics + Mathematics/Statistics/Sociology),9,5,3,1,3,0,0,1,1,1,BAP,No,No
+1366,Sri Venketeswara College,B.A Program (English + Sociology/Economics),9,5,3,2,2,0,0,1,1,1,BAP,No,No
+1367,Sri Venketeswara College,B.A Program (Hindi + History/Sociology),5,4,2,1,1,0,0,1,1,1,BAP,No,No
+1368,Sri Venketeswara College,B.A Program (History + Political Science),9,5,3,2,2,0,0,1,1,1,BAP,No,No
+1369,Sri Venketeswara College,B.A Program (Sanskrit +Sociology/History),5,4,2,1,1,0,0,1,1,1,BAP,No,No
+1370,Sri Venketeswara College,B.A Program (Tamil + Political Science/History),5,4,2,1,1,0,0,1,1,1,BAP,No,No
+1371,Sri Venketeswara College,B.A Program (Telegu + Political Science/History),5,4,2,1,1,0,0,1,1,1,BAP,No,No
+1372,Sri Venketeswara College,B.A. (Hons.) Economics,20,13,7,4,5,0,0,2,2,2,BAEcon,No,No
+1373,Sri Venketeswara College,B.A. (Hons.) English,20,13,7,4,5,0,0,2,2,2,BAEn,No,No
+1374,Sri Venketeswara College,B.A. (Hons.) Hindi,23,16,9,4,6,0,0,3,3,3,BAHi,No,No
+1375,Sri Venketeswara College,B.A. (Hons.) History,20,13,7,4,5,0,0,2,2,2,BAHist,No,No
+1376,Sri Venketeswara College,B.A. (Hons.) Political Science,20,13,7,4,5,0,0,2,2,2,BAPS,No,No
+1377,Sri Venketeswara College,B.A. (Hons.) Sanskrit,20,13,7,4,5,0,0,2,2,2,BASa,No,No
+1378,Sri Venketeswara College,B.A. (Hons.) Sociology,20,13,7,4,5,0,0,2,2,2,BASo,No,No
+1379,Sri Venketeswara College,B.Com.,47,31,17,9,11,0,0,7,7,7,Bcom,No,No
+1380,Sri Venketeswara College,B.Com. (Hons.),47,31,17,9,11,0,0,7,7,7,BcomH,No,No
+1381,Sri Venketeswara College,B.Sc. (Hons.) Biochemistry,20,13,7,4,5,0,0,2,2,2,BScBioChem,No,No
+1382,Sri Venketeswara College,B.Sc. (Hons.) Biological Sciences,23,16,9,4,6,0,0,3,3,3,BScBioSc,No,No
+1383,Sri Venketeswara College,B.Sc. (Hons.) Botany,16,10,6,3,4,0,0,2,2,2,BScBot,No,No
+1384,Sri Venketeswara College,B.Sc. (Hons.) Chemistry,31,21,12,6,8,0,0,4,4,4,BScChem,No,No
+1385,Sri Venketeswara College,B.Sc. (Hons.) Electronics,20,13,7,4,5,0,0,2,2,2,BScElec,No,No
+1386,Sri Venketeswara College,B.Sc. (Hons.) Mathematics,47,31,17,9,11,0,0,7,7,7,BScMath,No,No
+1387,Sri Venketeswara College,B.Sc. (Hons.) Physics,20,13,7,4,5,0,0,2,2,2,BScPhy,No,No
+1388,Sri Venketeswara College,B.Sc. (Hons.) Statistics,16,,6,3,4,0,0,2,2,2,BScStat,No,No
+1389,Sri Venketeswara College,B.Sc. (Hons.) Zoology,16,10,6,3,4,0,0,2,2,2,BScZoo,No,No
+1390,Sri Venketeswara College,B.Sc. (Prog.) Life Science,62,42,23,12,15,0,0,9,9,9,BScProgLS,No,No
+1391,St. Stephen's College,B.A Program (Economics + History),2,0,1,0,0,0,3,0,0,0,BAP,No,No
+1392,St. Stephen's College,B.A Program (Economics + Philosophy),1,0,0,0,0,0,0,0,0,0,BAP,No,No
+1393,St. Stephen's College,B.A Program (Economics + Political Science),4,0,1,0,0,0,5,0,0,0,BAP,No,No
+1394,St. Stephen's College,B.A Program (Economics + Urdu),1,0,0,0,0,0,0,0,0,0,BAP,No,No
+1395,St. Stephen's College,B.A Program (English + Economics),1,0,0,0,0,0,1,0,0,0,BAP,No,No
+1396,St. Stephen's College,B.A Program (English + History),1,0,0,0,0,0,1,0,0,0,BAP,No,No
+1397,St. Stephen's College,B.A Program (English + Philosophy),0,0,0,0,0,0,1,0,0,0,BAP,No,No
+1398,St. Stephen's College,B.A Program (English + Political Science),1,0,0,1,0,0,2,0,0,0,BAP,No,No
+1399,St. Stephen's College,B.A Program (History + Philosophy),1,0,0,0,0,0,1,0,0,0,BAP,No,No
+1400,St. Stephen's College,B.A Program (History + Political Science),6,0,1,0,0,0,7,0,0,0,BAP,No,No
+1401,St. Stephen's College,B.A Program (History + Urdu),2,0,0,0,0,0,0,0,0,0,BAP,No,No
+1402,St. Stephen's College,B.A Program (Political Science + Philosophy),1,0,0,0,0,0,1,0,0,0,BAP,No,No
+1403,St. Stephen's College,B.A Program (Political Science + Urdu),3,0,0,0,0,0,0,0,0,0,BAP,No,No
+1404,St. Stephen's College,B.A. (Hons.) Economics,21,0,3,1,0,0,25,3,0,0,BAEcon,No,No
+1405,St. Stephen's College,B.A. (Hons.) English,12,0,2,1,0,0,15,2,0,1,BAEn,No,No
+1406,St. Stephen's College,B.A. (Hons.) History,24,0,4,2,0,0,30,3,0,1,BAHist,No,No
+1407,St. Stephen's College,B.A. (Hons.) Philosophy,3,0,1,1,0,0,5,1,1,0,BAPhil,No,No
+1408,St. Stephen's College,B.A. (Hons.) Sanskrit,3,0,1,1,0,0,5,1,0,0,BASa,No,No
+1409,St. Stephen's College,B.Sc. (Hons.) Chemistry,21,0,3,1,0,0,25,3,0,1,BScChem,No,No
+1410,St. Stephen's College,B.Sc. (Hons.) Mathematics,21,0,3,1,0,0,25,3,0,0,BScMath,No,No
+1411,St. Stephen's College,B.Sc. (Hons.) Physics,21,0,3,1,0,0,25,3,1,0,BScPhy,No,No
+1412,St. Stephen's College,B.Sc. (Prog.) Physical Science with Chemistry,11,0,2,0,0,0,12,1,1,1,BScPSwChem,No,No
+1413,St. Stephen's College,B.Sc. (Prog.) Physical Science with Computer Science/Informatics Practices,10,0,1,1,0,0,13,1,0,0,BScPSwCSIP,No,No
+1414,Swami Shardhanand College,B.A Program (Computer Applications + Economics),4,2,2,1,1,0,0,1,0,0,BAP,No,No
+1415,Swami Shardhanand College,B.A Program (Computer Applications + Mathematics),4,3,1,1,1,0,0,0,0,1,BAP,No,No
+1416,Swami Shardhanand College,B.A Program (Economics + History),31,17,9,4,2,0,0,3,3,2,BAP,No,No
+1417,Swami Shardhanand College,B.A Program (Economics + Mathematics),12,7,4,2,2,0,0,1,1,0,BAP,No,No
+1418,Swami Shardhanand College,B.A Program (Economics + Political Science),31,17,10,4,3,0,0,3,2,1,BAP,No,No
+1419,Swami Shardhanand College,B.A Program (English + History),4,3,2,0,1,0,0,0,0,0,BAP,No,No
+1420,Swami Shardhanand College,B.A Program (English + Political Science),5,2,1,1,1,0,0,1,0,0,BAP,No,No
+1421,Swami Shardhanand College,B.A Program (Hindi + Political Science),9,6,2,2,1,0,0,1,0,0,BAP,No,No
+1422,Swami Shardhanand College,B.A Program (History + OMSP),4,1,1,1,1,0,0,0,1,0,BAP,No,No
+1423,Swami Shardhanand College,B.A Program (History + Political Science),34,20,11,6,3,0,0,3,3,2,BAP,No,No
+1424,Swami Shardhanand College,B.A Program (Mathematics + OMSP),4,4,2,1,1,0,0,1,1,0,BAP,No,No
+1425,Swami Shardhanand College,B.A Program (Office Management & Secretarial Practice (OMSP) + Political Science),3,1,1,1,1,0,0,0,0,0,BAP,No,No
+1426,Swami Shardhanand College,B.A Program (Sanskrit + Economics),4,2,2,1,1,0,0,1,0,0,BAP,No,No
+1427,Swami Shardhanand College,B.A Program (Sanskrit + History),3,4,2,1,0,0,0,1,0,0,BAP,No,No
+1428,Swami Shardhanand College,B.A Program (Sanskrit + OMSP),5,2,1,1,1,0,0,1,0,0,BAP,No,No
+1429,Swami Shardhanand College,B.A. (Hons.) English,35,21,12,6,4,0,0,3,4,1,BAEn,No,No
+1430,Swami Shardhanand College,B.A. (Hons.) Geography,35,21,12,6,4,0,0,3,4,1,BAGeo,No,No
+1431,Swami Shardhanand College,B.A. (Hons.) Hindi,35,21,12,6,4,0,0,3,4,1,BAHi,No,No
+1432,Swami Shardhanand College,B.A. (Hons.) History,35,21,12,6,4,0,0,3,4,1,BAHist,No,No
+1433,Swami Shardhanand College,B.Com.,214,125,69,34,21,0,0,18,23,5,Bcom,No,No
+1434,Swami Shardhanand College,B.Com. (Hons.),53,31,17,9,5,0,0,5,6,1,BcomH,No,No
+1435,Swami Shardhanand College,B.Sc. (Hons.) Botany,18,10,6,3,2,0,0,1,2,1,BScBot,No,No
+1436,Swami Shardhanand College,B.Sc. (Hons.) Chemistry,18,10,6,3,3,0,0,1,2,1,BScChem,No,No
+1437,Swami Shardhanand College,B.Sc. (Hons.) Microbiology,18,10,6,3,2,0,0,1,2,1,BScMicro,No,No
+1438,Swami Shardhanand College,B.Sc. (Hons.) Physics,18,10,6,3,2,0,0,1,2,1,BScPhy,No,No
+1439,Swami Shardhanand College,B.Sc. (Hons.) Zoology,18,10,6,3,2,0,0,1,2,1,BScZoo,No,No
+1440,Swami Shardhanand College,B.Sc. (Prog.) Applied Life Sciences,18,10,6,3,2,0,0,1,2,1,BScProgAppLS,No,No
+1441,Swami Shardhanand College,B.Sc. (Prog.) Life Science,53,31,17,9,5,0,0,4,6,1,BScProgLS,No,No
+1442,Swami Shardhanand College,B.Sc. (Prog.) Physical Science with Chemistry,53,31,17,9,5,0,0,5,6,1,BScPSwChem,No,No
+1443,Vivekananda College (W),B.A Program (Computer Applications + Economics),6,4,2,1,1,0,0,0,1,1,BAP,Yes,No
+1444,Vivekananda College (W),B.A Program (Computer Applications + Mathematics),8,4,2,1,1,0,0,0,1,1,BAP,Yes,No
+1445,Vivekananda College (W),B.A Program (Computer Applications + Political Science),4,2,1,1,1,0,0,0,1,1,BAP,Yes,No
+1446,Vivekananda College (W),B.A Program (Economics + Mathematics),4,3,2,1,1,0,0,3,1,1,BAP,Yes,No
+1447,Vivekananda College (W),B.A Program (Economics + Political Science),6,4,2,1,1,0,0,0,1,1,BAP,Yes,No
+1448,Vivekananda College (W),B.A Program (English + Computer Applications),5,4,2,1,1,0,0,0,1,1,BAP,Yes,No
+1449,Vivekananda College (W),B.A Program (English + Food Technology),6,4,2,1,1,0,0,0,1,1,BAP,Yes,No
+1450,Vivekananda College (W),B.A Program (English + French),6,4,2,1,1,0,0,0,1,1,BAP,Yes,No
+1451,Vivekananda College (W),B.A Program (Food Technology (FT) + History),5,3,2,1,1,0,0,0,1,1,BAP,Yes,No
+1452,Vivekananda College (W),B.A Program (Food Technology (FT) + Political Science),3,3,2,1,1,0,0,1,1,1,BAP,Yes,No
+1453,Vivekananda College (W),B.A Program (French + Economics),3,3,2,1,1,0,0,0,1,1,BAP,Yes,No
+1454,Vivekananda College (W),B.A Program (History + Music),5,3,2,1,1,0,0,0,1,1,BAP,Yes,No
+1455,Vivekananda College (W),B.A Program (History + Political Science),9,5,3,2,1,0,0,0,1,1,BAP,Yes,No
+1456,Vivekananda College (W),B.A Program (Sanskrit + History),3,3,2,1,1,0,0,3,1,1,BAP,Yes,No
+1457,Vivekananda College (W),B.A Program (Sanskrit + Music),5,4,2,1,1,0,0,3,1,1,BAP,Yes,No
+1458,Vivekananda College (W),B.A. (Hons.) Applied Psychology,20,13,7,4,5,0,0,2,2,2,BAAPsy,Yes,No
+1459,Vivekananda College (W),B.A. (Hons.) English,23,16,9,4,6,0,0,3,3,3,BAEn,Yes,No
+1460,Vivekananda College (W),B.A. (Hons.) Hindi,23,16,9,4,6,0,0,3,3,3,BAHi,Yes,No
+1461,Vivekananda College (W),B.A. (Hons.) History,23,16,9,4,6,0,0,3,3,3,BAHist,Yes,No
+1462,Vivekananda College (W),B.A. (Hons.) Political Science,23,16,9,4,6,0,0,3,3,3,BAPS,Yes,No
+1463,Vivekananda College (W),B.A. (Hons.) Sanskrit,23,16,9,4,6,0,0,3,3,3,BASa,Yes,No
+1464,Vivekananda College (W),B.Com.,58,39,22,11,14,0,0,7,7,7,Bcom,Yes,No
+1465,Vivekananda College (W),B.Com. (Hons.),40,26,15,7,10,0,0,5,5,5,BcomH,Yes,No
+1466,Vivekananda College (W),B.Sc. (Hons.) Home Science,12,8,5,2,3,0,0,2,2,2,BScHome,Yes,No
+1467,Vivekananda College (W),B.Sc. (Hons.) Mathematics,23,16,9,4,6,0,0,3,3,3,BScMath,Yes,No
+1468,Zakir Husain Delhi College,B.A Program (Arabic + Economics),3,3,1,1,1,0,0,0,0,0,BAP,No,No
+1469,Zakir Husain Delhi College,B.A Program (Arabic + History),4,3,2,1,1,0,0,1,0,0,BAP,No,No
+1470,Zakir Husain Delhi College,B.A Program (Arabic + Political Science),5,4,2,1,1,0,0,1,0,0,BAP,No,No
+1471,Zakir Husain Delhi College,B.A Program (Bengali + Economics),1,1,1,0,1,0,0,0,0,0,BAP,No,No
+1472,Zakir Husain Delhi College,B.A Program (Bengali + History),2,2,1,0,1,0,0,0,0,0,BAP,No,No
+1473,Zakir Husain Delhi College,B.A Program (Bengali + Political Science),2,2,1,0,1,0,0,0,0,0,BAP,No,No
+1474,Zakir Husain Delhi College,B.A Program (Economics + Human Resource Management (HRM)),12,8,4,2,4,0,0,2,0,0,BAP,No,No
+1475,Zakir Husain Delhi College,B.A Program (Economics + Mathematics),2,2,1,1,3,0,0,0,0,0,BAP,No,No
+1476,Zakir Husain Delhi College,B.A Program (Economics + Political Science),8,6,3,1,3,0,0,1,0,0,BAP,No,No
+1477,Zakir Husain Delhi College,B.A Program (English + Economics),3,2,1,0,2,0,0,0,0,0,BAP,No,No
+1478,Zakir Husain Delhi College,B.A Program (English + History),4,3,2,1,1,0,0,1,0,0,BAP,No,No
+1479,Zakir Husain Delhi College,B.A Program (English + Mathematics),1,1,1,0,1,0,0,0,0,0,BAP,No,No
+1480,Zakir Husain Delhi College,B.A Program (English + Political Science),5,3,2,1,1,0,0,1,0,0,BAP,No,No
+1481,Zakir Husain Delhi College,B.A Program (Hindi + Economics),4,2,1,1,1,0,0,0,0,0,BAP,No,No
+1482,Zakir Husain Delhi College,B.A Program (Hindi + History),5,3,2,1,0,0,0,1,0,0,BAP,No,No
+1483,Zakir Husain Delhi College,B.A Program (Hindi + Political Science),6,3,2,1,1,0,0,1,0,0,BAP,No,No
+1484,Zakir Husain Delhi College,B.A Program (History + Philosophy),6,4,2,1,3,0,0,1,0,0,BAP,No,No
+1485,Zakir Husain Delhi College,B.A Program (History + Political Science),23,15,8,4,6,0,0,2,0,0,BAP,No,No
+1486,Zakir Husain Delhi College,B.A Program (Human Resource Management (HRM) + Psychology),5,3,2,1,0,0,0,1,0,0,BAP,No,No
+1487,Zakir Husain Delhi College,B.A Program (Mathematics + Philosophy),1,1,1,0,1,0,0,0,0,0,BAP,No,No
+1488,Zakir Husain Delhi College,B.A Program (Mathematics + Psychology),3,2,1,0,0,0,0,0,0,0,BAP,No,No
+1489,Zakir Husain Delhi College,B.A Program (Persian + Economics),4,3,1,1,0,0,0,0,0,0,BAP,No,No
+1490,Zakir Husain Delhi College,B.A Program (Persian + History),5,3,2,1,0,0,0,0,0,0,BAP,No,No
+1491,Zakir Husain Delhi College,B.A Program (Persian + Political Science),6,3,2,1,0,0,0,1,0,0,BAP,No,No
+1492,Zakir Husain Delhi College,B.A Program (Philosophy + Psychology),6,4,2,1,3,0,0,1,0,0,BAP,No,No
+1493,Zakir Husain Delhi College,B.A Program (Sanskrit + Economics),4,2,1,1,1,0,0,0,0,0,BAP,No,No
+1494,Zakir Husain Delhi College,B.A Program (Sanskrit + History),5,3,2,1,0,0,0,1,0,0,BAP,No,No
+1495,Zakir Husain Delhi College,B.A Program (Sanskrit + Political Science),6,4,2,1,0,0,0,1,0,0,BAP,No,No
+1496,Zakir Husain Delhi College,B.A Program (Urdu + Economics),4,2,1,1,1,0,0,0,0,0,BAP,No,No
+1497,Zakir Husain Delhi College,B.A Program (Urdu + History),5,3,2,1,0,0,0,1,0,0,BAP,No,No
+1498,Zakir Husain Delhi College,B.A Program (Urdu + Political Science),6,4,2,1,0,0,0,1,0,0,BAP,No,No
+1499,Zakir Husain Delhi College,B.A. (Hons.) Arabic,12,8,4,2,3,0,0,1,1,1,BAAr,No,No
+1500,Zakir Husain Delhi College,B.A. (Hons.) Bengali,12,8,4,2,3,0,0,1,1,1,BABg,No,No
+1501,Zakir Husain Delhi College,B.A. (Hons.) Economics,19,13,7,4,6,0,0,2,2,2,BAEcon,No,No
+1502,Zakir Husain Delhi College,B.A. (Hons.) English,23,16,9,4,5,0,0,3,3,3,BAEn,No,No
+1503,Zakir Husain Delhi College,B.A. (Hons.) Hindi,19,13,7,4,6,0,0,3,3,2,BAHi,No,No
+1504,Zakir Husain Delhi College,B.A. (Hons.) History,19,13,7,4,6,0,0,3,3,2,BAHist,No,No
+1505,Zakir Husain Delhi College,B.A. (Hons.) Persian,12,8,4,2,3,0,0,1,1,1,BAPe,No,No
+1506,Zakir Husain Delhi College,B.A. (Hons.) Philosophy,16,11,6,3,3,0,0,2,2,2,BAPhil,No,No
+1507,Zakir Husain Delhi College,B.A. (Hons.) Political Science,54,37,21,11,12,0,0,7,7,6,BAPS,No,No
+1508,Zakir Husain Delhi College,B.A. (Hons.) Psychology,23,15,9,4,6,0,0,3,3,3,BAPsy,No,No
+1509,Zakir Husain Delhi College,B.A. (Hons.) Sanskrit,12,8,4,2,3,0,0,1,1,1,BASa,No,No
+1510,Zakir Husain Delhi College,B.A. (Hons.) Urdu,19,13,7,4,6,0,0,3,3,2,BAUr,No,No
+1511,Zakir Husain Delhi College,B.Com.,47,31,17,9,11,0,0,6,6,5,Bcom,No,No
+1512,Zakir Husain Delhi College,B.Com. (Hons.),85,57,32,16,21,0,0,11,11,9,BcomH,No,No
+1513,Zakir Husain Delhi College,B.Sc. (Hons.) Botany,17,11,6,3,5,0,0,2,2,2,BScBot,No,No
+1514,Zakir Husain Delhi College,B.Sc. (Hons.) Chemistry,35,23,13,6,9,0,0,4,4,4,BScChem,No,No
+1515,Zakir Husain Delhi College,B.Sc. (Hons.) Electronics,16,11,6,3,3,0,0,2,2,2,BScElec,No,No
+1516,Zakir Husain Delhi College,B.Sc. (Hons.) Mathematics,39,26,15,7,9,0,0,5,5,4,BScMath,No,No
+1517,Zakir Husain Delhi College,B.Sc. (Hons.) Zoology,19,13,7,4,6,0,0,2,2,2,BScZoo,No,No
+1518,Zakir Husain Delhi College,B.Sc. (Prog.) Life Science,35,23,13,6,9,0,0,4,4,4,BScProgLS,No,No
+1519,Zakir Husain Delhi College,B.Sc. (Prog.) Physical Science with Chemistry,35,23,13,6,9,0,0,4,4,4,BScPSwChem,No,No
+1520,Zakir Husain Delhi College (Evening),B.A. (Hons.) English,8,5,3,1,2,0,0,1,1,1,BAEn,No,Yes
+1521,Zakir Husain Delhi College (Evening),B.A. (Hons.) Hindi,8,5,3,1,2,0,0,1,1,1,BAHi,No,Yes
+1522,Zakir Husain Delhi College (Evening),B.A. (Hons.) History,8,5,3,1,2,0,0,1,1,1,BAHist,No,Yes
+1523,Zakir Husain Delhi College (Evening),B.A. (Hons.) Persian,8,5,3,1,2,0,0,1,1,1,BAPe,No,Yes
+1524,Zakir Husain Delhi College (Evening),B.A. (Hons.) Sanskrit,8,5,3,1,2,0,0,1,1,1,BASa,No,Yes
+1525,Zakir Husain Delhi College (Evening),B.A. (Hons.) Urdu,8,5,3,1,2,0,0,1,1,1,BAUr,No,Yes
+1526,Zakir Husain Delhi College (Evening),B.A Program (Arabic + Economics),1,2,0,1,1,0,0,0,0,0,BAP,No,Yes
+1527,Zakir Husain Delhi College (Evening),B.A Program (Arabic + History),2,1,1,0,1,0,0,0,0,0,BAP,No,Yes
+1528,Zakir Husain Delhi College (Evening),B.A Program (Arabic + Political Science),2,1,1,0,1,0,0,0,0,0,BAP,No,Yes
+1529,Zakir Husain Delhi College (Evening),B.A Program (Bengali + Economics),2,1,1,0,1,0,0,0,0,0,BAP,No,Yes
+1530,Zakir Husain Delhi College (Evening),B.A Program (Bengali + History),3,1,1,0,0,0,0,0,0,0,BAP,No,Yes
+1531,Zakir Husain Delhi College (Evening),B.A Program (Bengali + Political Science),2,2,1,0,0,0,0,0,0,0,BAP,No,Yes
+1532,Zakir Husain Delhi College (Evening),B.A Program (Economics + Banking & Insurance),7,5,2,1,1,0,0,1,1,0,BAP,No,Yes
+1533,Zakir Husain Delhi College (Evening),B.A Program (Economics + History),10,7,3,2,1,0,0,1,1,1,BAP,No,Yes
+1534,Zakir Husain Delhi College (Evening),B.A Program (Economics + Human Resource Management (HRM)),7,5,2,1,1,0,0,1,1,0,BAP,No,Yes
+1535,Zakir Husain Delhi College (Evening),B.A Program (Economics + Mathematics),5,3,1,2,0,0,0,1,1,0,BAP,No,Yes
+1536,Zakir Husain Delhi College (Evening),B.A Program (Economics + Philosophy),2,1,1,1,1,0,0,1,1,0,BAP,No,Yes
+1537,Zakir Husain Delhi College (Evening),B.A Program (Economics + Political Science),10,7,3,2,1,0,0,1,1,1,BAP,No,Yes
+1538,Zakir Husain Delhi College (Evening),B.A Program (English + Economics),2,1,1,0,0,0,0,0,0,0,BAP,No,Yes
+1539,Zakir Husain Delhi College (Evening),B.A Program (English + History),1,1,1,1,0,0,0,1,1,0,BAP,No,Yes
+1540,Zakir Husain Delhi College (Evening),B.A Program (English + Philosophy),1,1,1,0,1,0,0,0,0,0,BAP,No,Yes
+1541,Zakir Husain Delhi College (Evening),B.A Program (English + Political Science),2,1,0,0,1,0,0,1,1,0,BAP,No,Yes
+1542,Zakir Husain Delhi College (Evening),B.A Program (Hindi + Economics),1,1,1,1,1,0,0,1,1,0,BAP,No,Yes
+1543,Zakir Husain Delhi College (Evening),B.A Program (Hindi + History),2,1,1,0,1,0,0,1,1,0,BAP,No,Yes
+1544,Zakir Husain Delhi College (Evening),B.A Program (Hindi + Political Science),2,1,1,0,1,0,0,0,1,0,BAP,No,Yes
+1545,Zakir Husain Delhi College (Evening),B.A Program (History + Political Science),10,7,3,2,1,0,0,1,1,1,BAP,No,Yes
+1546,Zakir Husain Delhi College (Evening),B.A Program (Persian + Economics),2,1,1,0,1,0,0,0,0,0,BAP,No,Yes
+1547,Zakir Husain Delhi College (Evening),B.A Program (Persian + History),2,1,1,0,1,0,0,0,0,0,BAP,No,Yes
+1548,Zakir Husain Delhi College (Evening),B.A Program (Persian + Political Science),3,1,0,0,1,0,0,0,0,0,BAP,No,Yes
+1549,Zakir Husain Delhi College (Evening),B.A Program (Philosophy + Political Science),2,3,1,1,0,0,0,1,1,0,BAP,No,Yes
+1550,Zakir Husain Delhi College (Evening),B.A Program (Sanskrit + Economics),1,2,1,0,1,0,0,0,0,0,BAP,No,Yes
+1551,Zakir Husain Delhi College (Evening),B.A Program (Sanskrit + History),2,1,1,0,1,0,0,0,0,0,BAP,No,Yes
+1552,Zakir Husain Delhi College (Evening),B.A Program (Sanskrit + Political Science),2,1,1,0,1,0,0,0,1,0,BAP,No,Yes
+1553,Zakir Husain Delhi College (Evening),B.A Program (Urdu + Economics),2,1,1,0,1,0,0,0,0,0,BAP,No,Yes
+1554,Zakir Husain Delhi College (Evening),B.A Program (Urdu + History),2,1,1,0,1,0,0,0,0,0,BAP,No,Yes
+1555,Zakir Husain Delhi College (Evening),B.A Program (Urdu + Political Science),1,1,1,1,1,0,0,0,0,0,BAP,No,Yes
+1556,Zakir Husain Delhi College (Evening),B.A. (Hons.) Political Science,8,5,3,1,2,0,0,1,1,1,BAPS,No,Yes
+1557,Zakir Husain Delhi College (Evening),B.Com.,62,41,23,11,16,0,0,8,8,7,Bcom,No,Yes
+1558,Zakir Husain Delhi College (Evening),B.Com. (Hons.),31,21,12,6,8,0,0,4,4,3,BcomH,No,Yes

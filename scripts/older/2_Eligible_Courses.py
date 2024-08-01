@@ -26,7 +26,7 @@ st.title("Eligible Course Analyser")
 
 # User input section
 st.markdown("### by InsideDU")
-st.header("Select Your Subjects")
+st.markdown("#### Select Your Subjects")
 st.warning("Caution: This resource is in it's BETA development right now.")
 
 # Input selection for subjects
@@ -42,12 +42,13 @@ with col2:
     domain4 = st.selectbox("Select Domain 4", [""] + cuet_data.du_B1 + cuet_data.du_B2)
     general_test = st.selectbox("Select General Test", [""] + cuet_data.du_GT)
 
+
+st.write("Please check the table before submitting 😇")
+
 subjects_df = pd.DataFrame(
     [language, domain1, domain2, domain3, domain4, general_test],
     ).transpose()
 subjects_df.columns=['Language', 'Domain 1', 'Domain 2', 'Domain 3', 'Domain 4', 'General Test']
-
-st.write("Please check the table before submitting 😇")
 st.dataframe(subjects_df, hide_index=True, use_container_width=True)
 
 if st.button("Submit"):
@@ -124,5 +125,7 @@ if st.button("Submit"):
     if not eligible_df.empty:
         st.write("### Matching Courses:")
         st.dataframe(eligible_df[['Course']], hide_index=True, use_container_width=True)
+
     else:
         st.write("No matching courses found.")
+    
