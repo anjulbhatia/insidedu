@@ -19,7 +19,7 @@ def clear_cache():
 
 # Load the eligibility data
 df = pd.read_csv("datasets/Eligibility.csv")
-supersheet_df = pd.read_csv("datasets/supersheet.csv")
+supersheet_df = pd.read_csv("datasets/Supersheet.csv")
 
 st.set_page_config(
     page_title="College Seat Matrix | InsideDU",
