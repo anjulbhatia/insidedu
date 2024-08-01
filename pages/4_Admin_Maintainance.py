@@ -51,7 +51,7 @@ if not st.session_state.logged_in:
         if check_password(username, password):
             st.session_state.logged_in = True
             st.success("Logged in successfully!")
-            st.experimental_rerun()  # Refresh the page to show the admin panel
+            st.cache_data.clear()  # Refresh the page to show the admin panel
         else:
             st.error("Incorrect username or password")
 

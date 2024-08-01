@@ -29,14 +29,41 @@ st.set_page_config(
 )
 
 # Add custom CSS to hide the GitHub icon
-hide_github_icon = """
+custom_css = """
 <style>
 .stActionButton {
   visibility: hidden;
 }
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 10px;
+  width: 30%;
+  text-align: center;
+  background-color: #f9f9f9;
+  margin: 10px;
+}
+
+.card h5 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.card b {
+  font-size: 50px;
+  font-weight: 700;
+}
+
+.card-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
 </style>
 """
-st.markdown(hide_github_icon, unsafe_allow_html=True)
+st.markdown(custom_css, unsafe_allow_html=True)
 
 # Initialize session state
 if 'stage' not in st.session_state:
@@ -262,13 +289,13 @@ elif st.session_state.form_submitted:
             if gender != 'Female':
                 filtered_supersheet_df = filtered_supersheet_df[filtered_supersheet_df['isGirls'] == 'No']
             else:
-                show_girls_colleges = st.checkbox("Show Only Women's Colleges")
+                show_girls_colleges = st.toggle("Show Only Women's Colleges")
                 if show_girls_colleges:
                     filtered_supersheet_df = filtered_supersheet_df[filtered_supersheet_df['isGirls'] == 'Yes']
                 else:
                     filtered_supersheet_df = filtered_supersheet_df
         with col2:
-            show_evening_colleges = st.checkbox("Show Evening Colleges")
+            show_evening_colleges = st.toggle("Show Evening Colleges")
             if not show_evening_colleges:
                 filtered_supersheet_df = filtered_supersheet_df[filtered_supersheet_df['isEvening'] == 'No']
 
@@ -295,22 +322,44 @@ elif st.session_state.form_submitted:
             
             col1, col2, col3 = st.columns(3)
             with col1:
-                st.markdown(f"**Total Combinations: <p style='font-size:30px; font-weight:600;'>{total_combinations}</p>**", unsafe_allow_html=True)
+                cards_html = f"""
+                    <div class="card-container">
+                        <div class="card">
+                            <h5>Total Combinations</h5>
+                            <b>{total_combinations}</b>
+                        </div>"""
             with col2:
-                st.markdown(f"**UR Seats: <p style='font-size:30px; font-weight:600;'>{ur_seats}</p>**", unsafe_allow_html=True)
+                cards_html += f"""
+                        <div class="card">
+                            <h5>UR Seats</h5>
+                            <b>{ur_seats}</b>
+                        </div>"""
             if category != 'UR':
                 with col3:
-                    st.markdown(f"**{category} Seats: <p style='font-size:30px; font-weight:600;'>{category_seats}</p>**", unsafe_allow_html=True)
+                    cards_html += f"""
+                        <div class="card">
+                            <h5>{category} Seats</h5>
+                            <b>{category_seats}</b>
+                        </div>"""
             
             # Additional statistics
             col4, col5 = st.columns(2)
 
             with col4:
-                st.markdown(f"**Unique Colleges <p style='font-size:30px; font-weight:600;'>{unique_college_count}</p>**", unsafe_allow_html=True)
-
+                cards_html += f"""
+                        <div class="card">
+                            <h5>Eligible Colleges</h5>
+                            <b>{unique_college_count}</b>
+                        </div>"""
             with col5:
-                st.markdown(f"**Unique Courses <p style='font-size:30px; font-weight:600;'>{unique_course_count}</p>**", unsafe_allow_html=True)
-
+                cards_html += f"""
+                        <div class="card">
+                            <h5>Eligible Courses</h5>
+                            <b>{unique_course_count}</b>
+                        </div>"""
+                
+            cards_html += "</div>"
+            st.markdown(cards_html, unsafe_allow_html=True)
             st.write("#### All Eligible Combinations:")
             filtered_display_df = filtered_supersheet_df[display_columns]
             filtered_display_df.index = range(1, len(filtered_display_df) + 1)
