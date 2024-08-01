@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import datasets.cuet_data as cuet_data
 import sqlite3
+from datetime import datetime
 
 def log_user_interaction(data):
     conn = sqlite3.connect('datasets/logs/user_interactions.db')
@@ -367,9 +368,10 @@ elif st.session_state.form_submitted:
 
             col1, col2 = st.columns(2)
             with col1:
+                now = datetime.now().strftime("%d-%m-%Y")
                 st.download_button(label="Download this file",
                                data=filtered_display_df.to_csv(), 
-                               file_name=f"{candidate_name}.csv", 
+                               file_name=f"InsideDU_{candidate_name}_{now}.csv", 
                                mime="text/csv", use_container_width=True)
             
             with col2:
