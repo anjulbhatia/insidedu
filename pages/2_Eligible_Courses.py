@@ -15,7 +15,7 @@ def log_user_interaction(data):
 
 # Function to clear cache automatically
 def clear_cache():
-    st.experimental_rerun()
+    st.cache_data.clear()
 
 # Load the eligibility data
 df = pd.read_csv("datasets/Eligibility.csv")
@@ -58,7 +58,7 @@ if st.session_state.stage == 1:
     with col3:
         gender = st.selectbox("Select Your Gender", [""] + ["Male", "Female", "Others"])
     
-    if st.button('Next'):
+    if st.button('Next', use_container_width=True):
         if candidate_name and category and gender:
             # Store candidate details in session state
             st.session_state.candidate_name = candidate_name
@@ -73,7 +73,7 @@ if st.session_state.stage == 1:
 
 # Stage 2: CUET Subjects
 elif st.session_state.stage == 2 and not st.session_state.form_submitted:
-    st.title("College Seat Matrix")
+    st.title("Eligible Courses")
     st.markdown("### by InsideDU")
     
     st.markdown("#### Select Your Subjects")

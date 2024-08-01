@@ -20,10 +20,4 @@ hide_github_icon = """
 st.markdown(hide_github_icon, unsafe_allow_html=True)
 
 st.title("DU Analyser")
-st.write("Analyze various aspects of Delhi University here.")
-# Add more content and functionality as needed
-
-# Load the College_Campuses_Location data
-df = pd.read_csv("datasets/Colleges_Campuses_Locations.csv")
-
-st.dataframe(df)
+st.write("Coming Soon...")

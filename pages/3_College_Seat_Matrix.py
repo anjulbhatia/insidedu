@@ -15,7 +15,7 @@ def log_user_interaction(data):
 
 # Function to clear cache automatically
 def clear_cache():
-    st.experimental_rerun()
+    st.cache_data.clear()
 
 # Load the eligibility data
 df = pd.read_csv("datasets/Eligibility.csv")
