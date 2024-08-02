@@ -120,33 +120,36 @@ if st.button("Compare colleges") and college1 and college2:
         st.info(f"{college2}: {college2_A_score}")
 
     if college1_A_score == college2_A_score:
-        st.info("Both colleges have the same Overall Score.")
+        st.info("Both colleges have the same **Overall Score**.")
 
         # Proceed to Level of Preference comparison
         college1_preference = float(college1_data["Level of Preference"])
         college2_preference = float(college2_data["Level of Preference"])
 
+        st.markdown("##### Tie Breaker")
+
         if college1_preference == college2_preference:
 
-            st.markdown("##### Tie Breaker")
+            st.info("Both colleges have the same **Level Of Preference**.")
+
             # Proceed to Perception Indexing comparison
             college1_preference_index = float(college1_data["Perception Indexing"])
             college2_preference_index = float(college2_data["Perception Indexing"])
 
             if college1_preference_index == college2_preference_index:
-                st.info("Both colleges have the same Perception Indexing.")
+                st.info("Both colleges have the same **Perception Indexing**.")
             elif college1_preference_index > college2_preference_index:
-                st.info(f"{college1} is better than {college2} based on Perception Indexing.")
+                st.info(f"{college2} is better than {college2} based on **Perception Indexing**.")
             else:
-                st.info(f"{college2} is better than {college1} based on Perception Indexing.")
+                st.info(f"{college1} is better than {college2} based on **Perception Indexing**.")
         elif college1_preference > college2_preference:
-            st.info(f"{college1} is better than {college2} based on Level of Preference.")
+            st.info(f"{college2} is better than {college1} based on **Level of Preference**.")
         else:
-            st.info(f"{college2} is better than {college1} based on Level of Preference.")
+            st.info(f"{college1} is better than {college2} based on **Level of Preference**.")
     elif college1_A_score > college2_A_score:
-        st.info(f"{college1} is better than {college2} based on Overall Score.")
+        st.info(f"{college1} is better than {college2} based on **Overall Score**.")
     else:
-        st.info(f"{college2} is better than {college1} based on Overall Score.")
+        st.info(f"{college2} is better than {college1} based on **Overall Score**.")
 
     st.subheader("Detailed Comparison")
     col1, col2 = st.columns(2)
