@@ -189,7 +189,7 @@ with tabs[1]:
             <h4>Personalised Preference Sheet</h4>
             <p>Get a tailored preference sheet to meet your requirements</p>
             <p class="price"><s>₹1500</s> <b>₹500</b></p>
-            <a href="#"><button class="button">Buy Now</button></a>
+            <a href="https://forms.gle/8Ts61e4YKaaKs18K9"><button class="button">Buy Now</button></a>
         </div>
         """, unsafe_allow_html=True)
 
@@ -199,7 +199,7 @@ with tabs[1]:
             <h4>Guided Preference Sheet</h4>
             <p>Get a guided preference sheet of ALL colleges for 3 courses</p>
             <p class="price"><s>₹500</s> <b>₹250</b></p>
-            <a href="#"><button class="button" disabled>Buy Now</button></a>
+            <a href="https://forms.gle/8Ts61e4YKaaKs18K9"><button class="button">Buy Now</button></a>
         </div>
         """, unsafe_allow_html=True)
 
@@ -209,7 +209,7 @@ with tabs[1]:
             <h4>1:1 Preference Sheet Review</h4>
             <p>Clear your doubts regarding DU CSAS and admission process</p>
             <p class="price"><b>₹100</b></p>
-            <a href="#"><button class="button" disabled>Buy Now</button></a>
+            <a href="https://forms.gle/8Ts61e4YKaaKs18K9"><button class="button">Buy Now</button></a>
         </div>
         """, unsafe_allow_html=True)
             
@@ -234,9 +234,9 @@ with tabs[2]:
     
     st.markdown("""
         <div class="card">
-            <h4>College Comparison Tool</h4>
+            <h4>College Comparison</h4>
             <p>Compare different colleges based on various criteria.</p>
-            <a href="/college_comparison_tool" target="_self"><button class="button">Go to College Comparison Tool</button></a>
+            <a href="/College_Comparison" target="_self"><button class="button">Go to College Comparison Tool</button></a>
         </div>
         """, unsafe_allow_html=True)
 

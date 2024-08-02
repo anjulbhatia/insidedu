@@ -122,6 +122,7 @@ cuet_domains = [
     "Economics/Business Economics",
     "Engineering Graphics",
     "Entrepreneurship",
+    "Fashion Studies",
     "Fine Arts/Visual Arts(Sculpture/Painting)/Commercial Art",
     "Geography/Geology",
     "History",
@@ -137,7 +138,8 @@ cuet_domains = [
     "Psychology",
     "Sanskrit",
     "Sociology",
-    "Teaching Aptitude"
+    "Teaching Aptitude",
+    "Tourism"
 ]
 
 cuet_general_test = [

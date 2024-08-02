@@ -4,7 +4,7 @@ import pandas as pd
 # Set page configuration
 st.set_page_config(
     page_title="DU Analyser | InsideDU",
-    page_icon="🌟",
+    page_icon="🏫",
     layout="centered",
     initial_sidebar_state="collapsed",
 )
@@ -39,9 +39,24 @@ custom_css = """
 
 .card-container {
   display: flex;
-  justify-content: space-around;
   flex-wrap: wrap;
+  justify-content: space-around;
+  
 }
+
+@media only screen and (max-width: 600px) {
+        .card-container {
+            display: grid;
+            grid-template-columns: repeat (3, 1fr);
+            flex-direction: column;
+            flex-wrap: nowrap;
+            align-items: center;
+        }
+        .card {
+        display: block;
+        width: 100%;
+        }
+    }
 </style>
 """
 

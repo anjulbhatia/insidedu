@@ -21,8 +21,8 @@ def clear_cache():
 df = pd.read_csv("datasets/Eligibility.csv")
 
 st.set_page_config(
-    page_title="College Seat Matrix | InsideDU",
-    page_icon="📊",
+    page_title="Eligible Courses | InsideDU",
+    page_icon="☑️",
     layout="centered",
     initial_sidebar_state="collapsed",
 )
@@ -45,7 +45,7 @@ if 'form_submitted' not in st.session_state:
 
 # Stage 1: Candidate Details
 if st.session_state.stage == 1:
-    st.title("College Seat Matrix")
+    st.title("Eligible Courses")
     st.markdown("### by InsideDU")
     
     st.markdown("#### Candidate Information")

@@ -24,7 +24,7 @@ supersheet_df = pd.read_csv("datasets/Supersheet.csv")
 
 st.set_page_config(
     page_title="College Seat Matrix | InsideDU",
-    page_icon="📊",
+    page_icon="🧭",
     layout="centered",
     initial_sidebar_state="collapsed",
 )
@@ -62,6 +62,20 @@ custom_css = """
   justify-content: space-around;
   flex-wrap: wrap;
 }
+
+@media only screen and (max-width: 600px) {
+        .card-container {
+            display: grid;
+            grid-template-columns: repeat (3, 1fr);
+            flex-direction: column;
+            flex-wrap: nowrap;
+            align-items: center;
+        }
+        .card {
+        display: block;
+        width: 100%;
+        }
+    }
 </style>
 """
 st.markdown(custom_css, unsafe_allow_html=True)
