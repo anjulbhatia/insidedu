@@ -4,6 +4,14 @@ import sqlite3
 import os
 from datetime import datetime
 
+card_css = """
+<style>
+.stActionButton {
+  visibility: hidden;
+}
+"""
+st.markdown(card_css, unsafe_allow_html=True)
+
 def check_password(username, password):
     """Verify the password using Streamlit secrets."""
     return username == st.secrets["credentials"]["username"] and password == st.secrets["credentials"]["password"]
